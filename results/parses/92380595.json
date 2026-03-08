@@ -1,0 +1,56 @@
+{
+  "filename": "92380595.png",
+  "success": true,
+  "duration_ms": 13244,
+  "response": {
+    "data": {
+      "job_id": "6155b158-73bc-4638-9f4f-0e5bc5e7d09e",
+      "duration": 10.454,
+      "usage": {
+        "num_pages": 1,
+        "credits": 1
+      },
+      "result": {
+        "type": "full",
+        "chunks": [
+          {
+            "content": "Scanned black-and-white document on “PRENTICE HALL CORPORATE SERVICES” letterhead (United States Corporation Company / The Prentice-Hall Corporation System, Inc.), formatted as a “NOTICE OF SERVICE OF PROCESS” with checkboxes and case details.\n\n**Header / Letterhead**\n- Executive Offices  \n  1 GULF + WESTE PLAZA • NEW YORK, NEW YORK 23-7773  \n  (212) 373-7500\n- PRENTICE HALL CORPORATE SERVICES\n- United States Corporation Company (left)  \n  The Prentice-Hall Corporation System, Inc. (right)\n\n**Top section**\n- DATE: 12-13-89\n- TO: LORILLARD, INC.  \n  ONE PARK AVENUE 18TH FL  \n  NEW YORK, N.Y. 10016  \n  ATTN: MR. ARTHUR STEVENS, ESQ. A.J. STEVENS\n- RECEIVED (stamp): DEC 14 89\n- TX 13951 U\n- MOTOR CARRIER ____  \n  OR STATUTORY: X\n- Account #: 033052\n- RE: LORILLARD, INC. (Represented Company)\n\n**Main title**\n- NOTICE OF SERVICE OF PROCESS\n\n**Service statement**\n- “We enclose the following documents which were served upon:  \n  UNITED STATES CORPORATION COMPANY IN TEXAS”\n- “as registered agent for the above-captioned corporation on 12-13-89 via:”\n  - Personal Service: X\n  - Mail: Regular ____  or Certified ____  Certified # ____\n\n**Documents checklist (items shown)**\n- ____ Summons\n- ____ Complaint\n- ____ Duplicate copies of the Notice and\n- ____ Acknowledgement enclosed\n- X Other: CITATION AND FIRST ORIGINAL PETITION\n- ____ A self-addressed stamped envelope enclosed\n- ____ Garnishment\n- ____ Notice of Attorney’s Lien\n- ____ Notice of Mechanic’s Lien\n- ____ Notice of Default Judgment\n- ____ Subpoena\n\n**Case / action section**\n- TITLE OF ACTION: WEBSTER, GREGG\n- vs. R. J. REYNOLDS TOBACCO COMPANY, ET AL\n- Case No. 475,592\n- COURT OR JURISDICTION: 345th Judicial District Court Travis County, Tx\n- RETURN DATE: Monday next 20 days from date of service\n- Tel Call Placed: Direct ____  Collect ____  Spoke to ____  Agent called New York Office ____\n- COMMENTS: (blank)\n\n**Attorneys for claimant**\n- Mary Ellen Phelps  \n  1000 West Ave.  \n  Austin, Tx. 78701  \n  Phone: 512/478-4873\n\n**Transmission / preparation**\n- PAPERS TRANSMITTED TO CLIENT  \n  Fed-X ____   Reg. Mail X  \n  Other ____\n- FORM PREPARED BY: PAT WIGGINS\n\n**Acknowledgment block**\n- “PLEASE ACKNOWLEDGE RECEIPT OF THIS NOTICE AND THE ENCLOSURES BY SIGNING AND RETURNING THE DUPLICATE COPY. A BUSINESS REPLY ENVELOPE IS ENCLOSED FOR YOUR CONVENIENCE.”\n- Date Received: 12/14/89 (handwritten)\n- Signed: (handwritten signature)\n- ORIGINAL\n\n**Other marking**\n- Vertical number along right edge: 92380595",
+            "blocks": [
+              {
+                "type": "Figure",
+                "content": "Scanned black-and-white document on “PRENTICE HALL CORPORATE SERVICES” letterhead (United States Corporation Company / The Prentice-Hall Corporation System, Inc.), formatted as a “NOTICE OF SERVICE OF PROCESS” with checkboxes and case details.\n\n**Header / Letterhead**\n- Executive Offices  \n  1 GULF + WESTE PLAZA • NEW YORK, NEW YORK 23-7773  \n  (212) 373-7500\n- PRENTICE HALL CORPORATE SERVICES\n- United States Corporation Company (left)  \n  The Prentice-Hall Corporation System, Inc. (right)\n\n**Top section**\n- DATE: 12-13-89\n- TO: LORILLARD, INC.  \n  ONE PARK AVENUE 18TH FL  \n  NEW YORK, N.Y. 10016  \n  ATTN: MR. ARTHUR STEVENS, ESQ. A.J. STEVENS\n- RECEIVED (stamp): DEC 14 89\n- TX 13951 U\n- MOTOR CARRIER ____  \n  OR STATUTORY: X\n- Account #: 033052\n- RE: LORILLARD, INC. (Represented Company)\n\n**Main title**\n- NOTICE OF SERVICE OF PROCESS\n\n**Service statement**\n- “We enclose the following documents which were served upon:  \n  UNITED STATES CORPORATION COMPANY IN TEXAS”\n- “as registered agent for the above-captioned corporation on 12-13-89 via:”\n  - Personal Service: X\n  - Mail: Regular ____  or Certified ____  Certified # ____\n\n**Documents checklist (items shown)**\n- ____ Summons\n- ____ Complaint\n- ____ Duplicate copies of the Notice and\n- ____ Acknowledgement enclosed\n- X Other: CITATION AND FIRST ORIGINAL PETITION\n- ____ A self-addressed stamped envelope enclosed\n- ____ Garnishment\n- ____ Notice of Attorney’s Lien\n- ____ Notice of Mechanic’s Lien\n- ____ Notice of Default Judgment\n- ____ Subpoena\n\n**Case / action section**\n- TITLE OF ACTION: WEBSTER, GREGG\n- vs. R. J. REYNOLDS TOBACCO COMPANY, ET AL\n- Case No. 475,592\n- COURT OR JURISDICTION: 345th Judicial District Court Travis County, Tx\n- RETURN DATE: Monday next 20 days from date of service\n- Tel Call Placed: Direct ____  Collect ____  Spoke to ____  Agent called New York Office ____\n- COMMENTS: (blank)\n\n**Attorneys for claimant**\n- Mary Ellen Phelps  \n  1000 West Ave.  \n  Austin, Tx. 78701  \n  Phone: 512/478-4873\n\n**Transmission / preparation**\n- PAPERS TRANSMITTED TO CLIENT  \n  Fed-X ____   Reg. Mail X  \n  Other ____\n- FORM PREPARED BY: PAT WIGGINS\n\n**Acknowledgment block**\n- “PLEASE ACKNOWLEDGE RECEIPT OF THIS NOTICE AND THE ENCLOSURES BY SIGNING AND RETURNING THE DUPLICATE COPY. A BUSINESS REPLY ENVELOPE IS ENCLOSED FOR YOUR CONVENIENCE.”\n- Date Received: 12/14/89 (handwritten)\n- Signed: (handwritten signature)\n- ORIGINAL\n\n**Other marking**\n- Vertical number along right edge: 92380595",
+                "bbox": {
+                  "page": 1,
+                  "left": 0,
+                  "top": 0,
+                  "width": 1,
+                  "height": 1
+                },
+                "confidence": "medium",
+                "metadata": {
+                  "description": "Scanned black-and-white document on “PRENTICE HALL CORPORATE SERVICES” letterhead (United States Corporation Company / The Prentice-Hall Corporation System, Inc.), formatted as a “NOTICE OF SERVICE OF PROCESS” with checkboxes and case details.\n\n**Header / Letterhead**\n- Executive Offices  \n  1 GULF + WESTE PLAZA • NEW YORK, NEW YORK 23-7773  \n  (212) 373-7500\n- PRENTICE HALL CORPORATE SERVICES\n- United States Corporation Company (left)  \n  The Prentice-Hall Corporation System, Inc. (right)\n\n**Top section**\n- DATE: 12-13-89\n- TO: LORILLARD, INC.  \n  ONE PARK AVENUE 18TH FL  \n  NEW YORK, N.Y. 10016  \n  ATTN: MR. ARTHUR STEVENS, ESQ. A.J. STEVENS\n- RECEIVED (stamp): DEC 14 89\n- TX 13951 U\n- MOTOR CARRIER ____  \n  OR STATUTORY: X\n- Account #: 033052\n- RE: LORILLARD, INC. (Represented Company)\n\n**Main title**\n- NOTICE OF SERVICE OF PROCESS\n\n**Service statement**\n- “We enclose the following documents which were served upon:  \n  UNITED STATES CORPORATION COMPANY IN TEXAS”\n- “as registered agent for the above-captioned corporation on 12-13-89 via:”\n  - Personal Service: X\n  - Mail: Regular ____  or Certified ____  Certified # ____\n\n**Documents checklist (items shown)**\n- ____ Summons\n- ____ Complaint\n- ____ Duplicate copies of the Notice and\n- ____ Acknowledgement enclosed\n- X Other: CITATION AND FIRST ORIGINAL PETITION\n- ____ A self-addressed stamped envelope enclosed\n- ____ Garnishment\n- ____ Notice of Attorney’s Lien\n- ____ Notice of Mechanic’s Lien\n- ____ Notice of Default Judgment\n- ____ Subpoena\n\n**Case / action section**\n- TITLE OF ACTION: WEBSTER, GREGG\n- vs. R. J. REYNOLDS TOBACCO COMPANY, ET AL\n- Case No. 475,592\n- COURT OR JURISDICTION: 345th Judicial District Court Travis County, Tx\n- RETURN DATE: Monday next 20 days from date of service\n- Tel Call Placed: Direct ____  Collect ____  Spoke to ____  Agent called New York Office ____\n- COMMENTS: (blank)\n\n**Attorneys for claimant**\n- Mary Ellen Phelps  \n  1000 West Ave.  \n  Austin, Tx. 78701  \n  Phone: 512/478-4873\n\n**Transmission / preparation**\n- PAPERS TRANSMITTED TO CLIENT  \n  Fed-X ____   Reg. Mail X  \n  Other ____\n- FORM PREPARED BY: PAT WIGGINS\n\n**Acknowledgment block**\n- “PLEASE ACKNOWLEDGE RECEIPT OF THIS NOTICE AND THE ENCLOSURES BY SIGNING AND RETURNING THE DUPLICATE COPY. A BUSINESS REPLY ENVELOPE IS ENCLOSED FOR YOUR CONVENIENCE.”\n- Date Received: 12/14/89 (handwritten)\n- Signed: (handwritten signature)\n- ORIGINAL\n\n**Other marking**\n- Vertical number along right edge: 92380595"
+                }
+              }
+            ],
+            "metadata": {
+              "pageRange": {
+                "start": 1,
+                "end": 1
+              },
+              "chunkIndex": 0
+            }
+          }
+        ]
+      },
+      "studio_link": "https://docld.com/documents/d8cd986f-170d-4f7e-ad64-7b837868258f"
+    },
+    "meta": {
+      "timestamp": "2026-03-08T08:55:21.371Z",
+      "requestId": "a7440877-ed43-40f6-9e68-431b0505b266",
+      "method": "POST",
+      "url": "https://docld.com/api/parse",
+      "duration": 11351
+    }
+  },
+  "extracted_text": ""
+}

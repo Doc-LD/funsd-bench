@@ -1,0 +1,56 @@
+{
+  "filename": "86230203_0206.png",
+  "success": true,
+  "duration_ms": 8248,
+  "response": {
+    "data": {
+      "job_id": "7b7a52cf-2bfe-4306-bb0c-d7725c28e454",
+      "duration": 5.881,
+      "usage": {
+        "num_pages": 1,
+        "credits": 1
+      },
+      "result": {
+        "type": "full",
+        "chunks": [
+          {
+            "content": "12/12/96  08:33   504 7348616            LORILLARD TOB   ---> NYO 1                         001/004\n\nTO:        K. A. Sparrow  \nFROM:      F. Strickland  \n\nSUBJECT:   MAVERICK SPECIALS - PROGRESS REPORT\n\nSUBMISSION DATE:  \nDEC 13  [X]     FEB 24  [ ]  \nJAN 25  [ ]     APR 4   [ ]\n\nGEOGRAPHY\n\nREGION:    FULL  __X__     PARTIAL  _____  \n(ONLY IF PARTIAL REGION CONTINUE WITH DIVISION(S) SCOPE)\n\nDIVISION:  FULL  _____     PARTIAL  _____  \n\nDIVISION NAME: ____________                 DIVISION NAME: ____________     # REPS ___  \nDIVISION NAME: ____________                 DIVISION NAME: ____________     # REPS ___  \nDIVISION NAME: ____________                 DIVISION NAME: ____________     # REPS ___  \n\nDISTRIBUTION\n\nDIRECT ACCOUNTS AND CHAINS HEADQUARTERED WITHIN THE REGION  \n(15+ STORES) STOCKING NO MAVERICK SPECIALS\n\nNAME OF ACCOUNT            NO. OF STORES     NAME OF ACCOUNT        NO. OF STORES  \nK&B                        180              Saye Oil               20  \nDelchamps                  130              Dantzler              19  \nWinn Dixie                 85               Southeast Foods       18  \nSchwegmann                 39               Compac Foods          18  \nAutry Greer                36               Bayou Foods           17  \nDouble Quick               36               Econ                  16  \nLites                      23  \nHuber Oil                  23  \nMorris Corp                22  \n\n11-Dec-96                   MAVPROG                                   Page 1 of 4\n\n(Vertical number along right margin: 80250203)",
+            "blocks": [
+              {
+                "type": "Figure",
+                "content": "12/12/96  08:33   504 7348616            LORILLARD TOB   ---> NYO 1                         001/004\n\nTO:        K. A. Sparrow  \nFROM:      F. Strickland  \n\nSUBJECT:   MAVERICK SPECIALS - PROGRESS REPORT\n\nSUBMISSION DATE:  \nDEC 13  [X]     FEB 24  [ ]  \nJAN 25  [ ]     APR 4   [ ]\n\nGEOGRAPHY\n\nREGION:    FULL  __X__     PARTIAL  _____  \n(ONLY IF PARTIAL REGION CONTINUE WITH DIVISION(S) SCOPE)\n\nDIVISION:  FULL  _____     PARTIAL  _____  \n\nDIVISION NAME: ____________                 DIVISION NAME: ____________     # REPS ___  \nDIVISION NAME: ____________                 DIVISION NAME: ____________     # REPS ___  \nDIVISION NAME: ____________                 DIVISION NAME: ____________     # REPS ___  \n\nDISTRIBUTION\n\nDIRECT ACCOUNTS AND CHAINS HEADQUARTERED WITHIN THE REGION  \n(15+ STORES) STOCKING NO MAVERICK SPECIALS\n\nNAME OF ACCOUNT            NO. OF STORES     NAME OF ACCOUNT        NO. OF STORES  \nK&B                        180              Saye Oil               20  \nDelchamps                  130              Dantzler              19  \nWinn Dixie                 85               Southeast Foods       18  \nSchwegmann                 39               Compac Foods          18  \nAutry Greer                36               Bayou Foods           17  \nDouble Quick               36               Econ                  16  \nLites                      23  \nHuber Oil                  23  \nMorris Corp                22  \n\n11-Dec-96                   MAVPROG                                   Page 1 of 4\n\n(Vertical number along right margin: 80250203)",
+                "bbox": {
+                  "page": 1,
+                  "left": 0,
+                  "top": 0,
+                  "width": 1,
+                  "height": 1
+                },
+                "confidence": "medium",
+                "metadata": {
+                  "description": "12/12/96  08:33   504 7348616            LORILLARD TOB   ---> NYO 1                         001/004\n\nTO:        K. A. Sparrow  \nFROM:      F. Strickland  \n\nSUBJECT:   MAVERICK SPECIALS - PROGRESS REPORT\n\nSUBMISSION DATE:  \nDEC 13  [X]     FEB 24  [ ]  \nJAN 25  [ ]     APR 4   [ ]\n\nGEOGRAPHY\n\nREGION:    FULL  __X__     PARTIAL  _____  \n(ONLY IF PARTIAL REGION CONTINUE WITH DIVISION(S) SCOPE)\n\nDIVISION:  FULL  _____     PARTIAL  _____  \n\nDIVISION NAME: ____________                 DIVISION NAME: ____________     # REPS ___  \nDIVISION NAME: ____________                 DIVISION NAME: ____________     # REPS ___  \nDIVISION NAME: ____________                 DIVISION NAME: ____________     # REPS ___  \n\nDISTRIBUTION\n\nDIRECT ACCOUNTS AND CHAINS HEADQUARTERED WITHIN THE REGION  \n(15+ STORES) STOCKING NO MAVERICK SPECIALS\n\nNAME OF ACCOUNT            NO. OF STORES     NAME OF ACCOUNT        NO. OF STORES  \nK&B                        180              Saye Oil               20  \nDelchamps                  130              Dantzler              19  \nWinn Dixie                 85               Southeast Foods       18  \nSchwegmann                 39               Compac Foods          18  \nAutry Greer                36               Bayou Foods           17  \nDouble Quick               36               Econ                  16  \nLites                      23  \nHuber Oil                  23  \nMorris Corp                22  \n\n11-Dec-96                   MAVPROG                                   Page 1 of 4\n\n(Vertical number along right margin: 80250203)"
+                }
+              }
+            ],
+            "metadata": {
+              "pageRange": {
+                "start": 1,
+                "end": 1
+              },
+              "chunkIndex": 0
+            }
+          }
+        ]
+      },
+      "studio_link": "https://docld.com/documents/148616c3-a70b-46b3-b425-dfbcf870f3b6"
+    },
+    "meta": {
+      "timestamp": "2026-03-08T08:32:26.677Z",
+      "requestId": "860a9234-6636-44fb-8456-423cad18fd29",
+      "method": "POST",
+      "url": "https://docld.com/api/parse",
+      "duration": 6780
+    }
+  },
+  "extracted_text": ""
+}

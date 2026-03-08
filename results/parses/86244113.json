@@ -1,0 +1,56 @@
+{
+  "filename": "86244113.png",
+  "success": true,
+  "duration_ms": 5696,
+  "response": {
+    "data": {
+      "job_id": "004e4a1d-17a5-4181-bd0f-31083f592198",
+      "duration": 3.575,
+      "usage": {
+        "num_pages": 1,
+        "credits": 1
+      },
+      "result": {
+        "type": "full",
+        "chunks": [
+          {
+            "content": "DIVISION: ____________\n\nACCOUNT: ____________\n\nINVENTORY FOR: ____________  {STATE}\n\nDATES: ____________\n___________\n___________\n___________\n\nDIRECT ACCOUNT STATUS REPORT\n\nBRAND                         # OF CARTONS\n                              ON HAND           AVERAGE WEEKLY\n                                                MOVEMENT          # OF WEEKS\n                                                                  ON HAND\n\nSTYLE LIGHT 100’S             ____________      ____________      ____________\nSTYLE LIGHT MENTHOL 100’S     ____________      ____________      ____________\nSTYLE LIGHT BOX 100’S         ____________      ____________      ____________\nSTYLE MEN, LIGHT BOX 100’S    ____________      ____________      ____________\nSTYLE SLIM LIGHT 100’S        ____________      ____________      ____________\nSTYLE SLIM MEN, LT. 100’S     ____________      ____________      ____________\n\nNOTE: REPORT STYLE INVENTORY ONLY.\n\nSUBMIT REPORT ONLY IF STYLE IS STILL ON HAND IN THIS ACCOUNT.\n\nCC: REGIONAL SALES MANAGER, ALL DIVISIONS SERVICED BY THIS ACCOUNT.\n\nACTION PLAN:\n______________________________________________________________________________\n______________________________________________________________________________\n______________________________________________________________________________\n______________________________________________________________________________\n______________________________________________________________________________\n______________________________________________________________________________\n______________________________________________________________________________\n\n86244113\n\nSTYLEREP",
+            "blocks": [
+              {
+                "type": "Figure",
+                "content": "DIVISION: ____________\n\nACCOUNT: ____________\n\nINVENTORY FOR: ____________  {STATE}\n\nDATES: ____________\n___________\n___________\n___________\n\nDIRECT ACCOUNT STATUS REPORT\n\nBRAND                         # OF CARTONS\n                              ON HAND           AVERAGE WEEKLY\n                                                MOVEMENT          # OF WEEKS\n                                                                  ON HAND\n\nSTYLE LIGHT 100’S             ____________      ____________      ____________\nSTYLE LIGHT MENTHOL 100’S     ____________      ____________      ____________\nSTYLE LIGHT BOX 100’S         ____________      ____________      ____________\nSTYLE MEN, LIGHT BOX 100’S    ____________      ____________      ____________\nSTYLE SLIM LIGHT 100’S        ____________      ____________      ____________\nSTYLE SLIM MEN, LT. 100’S     ____________      ____________      ____________\n\nNOTE: REPORT STYLE INVENTORY ONLY.\n\nSUBMIT REPORT ONLY IF STYLE IS STILL ON HAND IN THIS ACCOUNT.\n\nCC: REGIONAL SALES MANAGER, ALL DIVISIONS SERVICED BY THIS ACCOUNT.\n\nACTION PLAN:\n______________________________________________________________________________\n______________________________________________________________________________\n______________________________________________________________________________\n______________________________________________________________________________\n______________________________________________________________________________\n______________________________________________________________________________\n______________________________________________________________________________\n\n86244113\n\nSTYLEREP",
+                "bbox": {
+                  "page": 1,
+                  "left": 0,
+                  "top": 0,
+                  "width": 1,
+                  "height": 1
+                },
+                "confidence": "medium",
+                "metadata": {
+                  "description": "DIVISION: ____________\n\nACCOUNT: ____________\n\nINVENTORY FOR: ____________  {STATE}\n\nDATES: ____________\n___________\n___________\n___________\n\nDIRECT ACCOUNT STATUS REPORT\n\nBRAND                         # OF CARTONS\n                              ON HAND           AVERAGE WEEKLY\n                                                MOVEMENT          # OF WEEKS\n                                                                  ON HAND\n\nSTYLE LIGHT 100’S             ____________      ____________      ____________\nSTYLE LIGHT MENTHOL 100’S     ____________      ____________      ____________\nSTYLE LIGHT BOX 100’S         ____________      ____________      ____________\nSTYLE MEN, LIGHT BOX 100’S    ____________      ____________      ____________\nSTYLE SLIM LIGHT 100’S        ____________      ____________      ____________\nSTYLE SLIM MEN, LT. 100’S     ____________      ____________      ____________\n\nNOTE: REPORT STYLE INVENTORY ONLY.\n\nSUBMIT REPORT ONLY IF STYLE IS STILL ON HAND IN THIS ACCOUNT.\n\nCC: REGIONAL SALES MANAGER, ALL DIVISIONS SERVICED BY THIS ACCOUNT.\n\nACTION PLAN:\n______________________________________________________________________________\n______________________________________________________________________________\n______________________________________________________________________________\n______________________________________________________________________________\n______________________________________________________________________________\n______________________________________________________________________________\n______________________________________________________________________________\n\n86244113\n\nSTYLEREP"
+                }
+              }
+            ],
+            "metadata": {
+              "pageRange": {
+                "start": 1,
+                "end": 1
+              },
+              "chunkIndex": 0
+            }
+          }
+        ]
+      },
+      "studio_link": "https://docld.com/documents/3678fbcd-094d-412f-9b48-794d8d5722aa"
+    },
+    "meta": {
+      "timestamp": "2026-03-08T08:35:10.950Z",
+      "requestId": "01783a82-67af-442a-b6f3-1c13d4676e1e",
+      "method": "POST",
+      "url": "https://docld.com/api/parse",
+      "duration": 4417
+    }
+  },
+  "extracted_text": ""
+}

@@ -1,0 +1,56 @@
+{
+  "filename": "83823750.png",
+  "success": true,
+  "duration_ms": 8379,
+  "response": {
+    "data": {
+      "job_id": "9ab278b0-d401-49b1-aff3-63c3197f265b",
+      "duration": 5.794,
+      "usage": {
+        "num_pages": 1,
+        "credits": 1
+      },
+      "result": {
+        "type": "full",
+        "chunks": [
+          {
+            "content": "Black-and-white fax cover sheet from **DAVIS POLK & WARDWELL**.\n\nTop header line includes fax transmission metadata:  \n“’97 TUE 18:39 FAX 212 [●] 5578” and “DPW 30-59” and page indicator “001”.\n\nLeft block (Fax Transmittal / sender address):  \n“Fax Transmittal  \n450 Lexington Avenue  \nNew York, NY 10017  \n212-450-4000”\n\nMain form fields:\n\n- **To:** Robert H. Shaw, Esq.  \n- **Date:** November 11, 1997  \n- **Company:** Lorillard Tobacco Company  \n- **Fax Number:** 910-335-7?7 (middle digits obscured by a dark mark; appears as “910-335-7?7”)  \n- **Voice Number:** 910-335-7720  \n- **Sender:** Charles Duggan  \n- **Number of Pages (this page included):** 2  \n- **Sender Voice Number:** 212-450-4785  \n- **Main Fax Operator Voice Number:** (blank)  \n- **Sender Fax Number:** 212-450-5578  \n- **Reference:** 17560-188  \n- **Message:** (blank)\n\nBottom contains a confidentiality notice (small text), beginning:  \n“Confidentiality Note: This facsimile is intended only for the person or entity to which it is addressed and may contain information that is privileged, confidential or otherwise protected from disclosure. Dissemination, distribution or copying of this facsimile or the information herein by anyone other than the intended recipient, or an employee or agent responsible for delivering the message to the intended recipient, is prohibited. If you have received this facsimile in error, please notify us immediately by telephone and return the facsimile by mail.”\n\nRight margin has a vertical number: “83823750”.",
+            "blocks": [
+              {
+                "type": "Figure",
+                "content": "Black-and-white fax cover sheet from **DAVIS POLK & WARDWELL**.\n\nTop header line includes fax transmission metadata:  \n“’97 TUE 18:39 FAX 212 [●] 5578” and “DPW 30-59” and page indicator “001”.\n\nLeft block (Fax Transmittal / sender address):  \n“Fax Transmittal  \n450 Lexington Avenue  \nNew York, NY 10017  \n212-450-4000”\n\nMain form fields:\n\n- **To:** Robert H. Shaw, Esq.  \n- **Date:** November 11, 1997  \n- **Company:** Lorillard Tobacco Company  \n- **Fax Number:** 910-335-7?7 (middle digits obscured by a dark mark; appears as “910-335-7?7”)  \n- **Voice Number:** 910-335-7720  \n- **Sender:** Charles Duggan  \n- **Number of Pages (this page included):** 2  \n- **Sender Voice Number:** 212-450-4785  \n- **Main Fax Operator Voice Number:** (blank)  \n- **Sender Fax Number:** 212-450-5578  \n- **Reference:** 17560-188  \n- **Message:** (blank)\n\nBottom contains a confidentiality notice (small text), beginning:  \n“Confidentiality Note: This facsimile is intended only for the person or entity to which it is addressed and may contain information that is privileged, confidential or otherwise protected from disclosure. Dissemination, distribution or copying of this facsimile or the information herein by anyone other than the intended recipient, or an employee or agent responsible for delivering the message to the intended recipient, is prohibited. If you have received this facsimile in error, please notify us immediately by telephone and return the facsimile by mail.”\n\nRight margin has a vertical number: “83823750”.",
+                "bbox": {
+                  "page": 1,
+                  "left": 0,
+                  "top": 0,
+                  "width": 1,
+                  "height": 1
+                },
+                "confidence": "medium",
+                "metadata": {
+                  "description": "Black-and-white fax cover sheet from **DAVIS POLK & WARDWELL**.\n\nTop header line includes fax transmission metadata:  \n“’97 TUE 18:39 FAX 212 [●] 5578” and “DPW 30-59” and page indicator “001”.\n\nLeft block (Fax Transmittal / sender address):  \n“Fax Transmittal  \n450 Lexington Avenue  \nNew York, NY 10017  \n212-450-4000”\n\nMain form fields:\n\n- **To:** Robert H. Shaw, Esq.  \n- **Date:** November 11, 1997  \n- **Company:** Lorillard Tobacco Company  \n- **Fax Number:** 910-335-7?7 (middle digits obscured by a dark mark; appears as “910-335-7?7”)  \n- **Voice Number:** 910-335-7720  \n- **Sender:** Charles Duggan  \n- **Number of Pages (this page included):** 2  \n- **Sender Voice Number:** 212-450-4785  \n- **Main Fax Operator Voice Number:** (blank)  \n- **Sender Fax Number:** 212-450-5578  \n- **Reference:** 17560-188  \n- **Message:** (blank)\n\nBottom contains a confidentiality notice (small text), beginning:  \n“Confidentiality Note: This facsimile is intended only for the person or entity to which it is addressed and may contain information that is privileged, confidential or otherwise protected from disclosure. Dissemination, distribution or copying of this facsimile or the information herein by anyone other than the intended recipient, or an employee or agent responsible for delivering the message to the intended recipient, is prohibited. If you have received this facsimile in error, please notify us immediately by telephone and return the facsimile by mail.”\n\nRight margin has a vertical number: “83823750”."
+                }
+              }
+            ],
+            "metadata": {
+              "pageRange": {
+                "start": 1,
+                "end": 1
+              },
+              "chunkIndex": 0
+            }
+          }
+        ]
+      },
+      "studio_link": "https://docld.com/documents/f9956905-d9be-45a6-a847-4fec5165567f"
+    },
+    "meta": {
+      "timestamp": "2026-03-08T08:19:57.595Z",
+      "requestId": "c67344bb-221c-4b2c-b503-d0574ec9bb1e",
+      "method": "POST",
+      "url": "https://docld.com/api/parse",
+      "duration": 6840
+    }
+  },
+  "extracted_text": ""
+}

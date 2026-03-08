@@ -1,0 +1,56 @@
+{
+  "filename": "87332450.png",
+  "success": true,
+  "duration_ms": 7035,
+  "response": {
+    "data": {
+      "job_id": "334bd4e2-e242-4014-b228-a2204f4f0faf",
+      "duration": 4.742,
+      "usage": {
+        "num_pages": 1,
+        "credits": 1
+      },
+      "result": {
+        "type": "full",
+        "chunks": [
+          {
+            "content": "47th TCRC REGISTRATION FORM\n\nPlease type or print  \nName: ______  Title ______  First ______  Middle ______  Last ______\n\nInstitution: ________________________________________________\n\nAddress: _________________________________________________  \nStreet ______  P. O. Box# ______  \nCity ______  State ______  ZIP Code ______  Country ______\n\nTelephone: ____________    FAX #: ______________\n\nName of guest: ______________________\n\n_____ Continental Breakfast on Tuesday        _____ Breakfast on Wednesday  \n_____ Fall Foliage Tour on Tuesday            _____ Craftsman Village Tour on Wednesday\n\nAdvance Registration Fee: (prior to September 1)  $135.00  ______  \nLate Registration Fee: (after September 1)        $150.00  ______  \nExtra banquet tickets @ $40.00                    ______  \nGround Transportation (round trip)                $ 30.00  ______\n\nTOTAL ______\n\nPlease complete this portion if you need transportation from and to the Knoxville Airport.\n\nNo. in Party: ______\n\nDATE     TIME     CARRIER     FLIGHT #\n\nArrival: ________________________________________________\n\nDeparture: ______________________________________________\n\nSend this registration form, along with payment to the address noted below. Enclose a check or international money order, payable in U.S. funds to the University of Tennessee - 47th TCRC.\n\nMail to: Dr. Phil P. Hunter  \nU. T. Tobacco Experiment Station  \nRoute 5 Box 113  \nGreeneville, TN 37743\n\nTelephone: (615) 638-6532  \nFAX: (615) 638-6458\n\n87332450",
+            "blocks": [
+              {
+                "type": "Figure",
+                "content": "47th TCRC REGISTRATION FORM\n\nPlease type or print  \nName: ______  Title ______  First ______  Middle ______  Last ______\n\nInstitution: ________________________________________________\n\nAddress: _________________________________________________  \nStreet ______  P. O. Box# ______  \nCity ______  State ______  ZIP Code ______  Country ______\n\nTelephone: ____________    FAX #: ______________\n\nName of guest: ______________________\n\n_____ Continental Breakfast on Tuesday        _____ Breakfast on Wednesday  \n_____ Fall Foliage Tour on Tuesday            _____ Craftsman Village Tour on Wednesday\n\nAdvance Registration Fee: (prior to September 1)  $135.00  ______  \nLate Registration Fee: (after September 1)        $150.00  ______  \nExtra banquet tickets @ $40.00                    ______  \nGround Transportation (round trip)                $ 30.00  ______\n\nTOTAL ______\n\nPlease complete this portion if you need transportation from and to the Knoxville Airport.\n\nNo. in Party: ______\n\nDATE     TIME     CARRIER     FLIGHT #\n\nArrival: ________________________________________________\n\nDeparture: ______________________________________________\n\nSend this registration form, along with payment to the address noted below. Enclose a check or international money order, payable in U.S. funds to the University of Tennessee - 47th TCRC.\n\nMail to: Dr. Phil P. Hunter  \nU. T. Tobacco Experiment Station  \nRoute 5 Box 113  \nGreeneville, TN 37743\n\nTelephone: (615) 638-6532  \nFAX: (615) 638-6458\n\n87332450",
+                "bbox": {
+                  "page": 1,
+                  "left": 0,
+                  "top": 0,
+                  "width": 1,
+                  "height": 1
+                },
+                "confidence": "medium",
+                "metadata": {
+                  "description": "47th TCRC REGISTRATION FORM\n\nPlease type or print  \nName: ______  Title ______  First ______  Middle ______  Last ______\n\nInstitution: ________________________________________________\n\nAddress: _________________________________________________  \nStreet ______  P. O. Box# ______  \nCity ______  State ______  ZIP Code ______  Country ______\n\nTelephone: ____________    FAX #: ______________\n\nName of guest: ______________________\n\n_____ Continental Breakfast on Tuesday        _____ Breakfast on Wednesday  \n_____ Fall Foliage Tour on Tuesday            _____ Craftsman Village Tour on Wednesday\n\nAdvance Registration Fee: (prior to September 1)  $135.00  ______  \nLate Registration Fee: (after September 1)        $150.00  ______  \nExtra banquet tickets @ $40.00                    ______  \nGround Transportation (round trip)                $ 30.00  ______\n\nTOTAL ______\n\nPlease complete this portion if you need transportation from and to the Knoxville Airport.\n\nNo. in Party: ______\n\nDATE     TIME     CARRIER     FLIGHT #\n\nArrival: ________________________________________________\n\nDeparture: ______________________________________________\n\nSend this registration form, along with payment to the address noted below. Enclose a check or international money order, payable in U.S. funds to the University of Tennessee - 47th TCRC.\n\nMail to: Dr. Phil P. Hunter  \nU. T. Tobacco Experiment Station  \nRoute 5 Box 113  \nGreeneville, TN 37743\n\nTelephone: (615) 638-6532  \nFAX: (615) 638-6458\n\n87332450"
+                }
+              }
+            ],
+            "metadata": {
+              "pageRange": {
+                "start": 1,
+                "end": 1
+              },
+              "chunkIndex": 0
+            }
+          }
+        ]
+      },
+      "studio_link": "https://docld.com/documents/5e95d7d1-30a3-4079-81b3-05b013614c9e"
+    },
+    "meta": {
+      "timestamp": "2026-03-08T08:44:58.485Z",
+      "requestId": "f85c1356-8a69-45e1-803c-3b81b329008f",
+      "method": "POST",
+      "url": "https://docld.com/api/parse",
+      "duration": 5516
+    }
+  },
+  "extracted_text": ""
+}

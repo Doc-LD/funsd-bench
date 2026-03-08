@@ -1,0 +1,56 @@
+{
+  "filename": "85240939.png",
+  "success": true,
+  "duration_ms": 7418,
+  "response": {
+    "data": {
+      "job_id": "40ce5f63-47e2-4d00-8b60-63cf8f80fcfb",
+      "duration": 4.343,
+      "usage": {
+        "num_pages": 1,
+        "credits": 1
+      },
+      "result": {
+        "type": "full",
+        "chunks": [
+          {
+            "content": "Black-and-white scanned document (speckled/dirty edges) titled a registration form. Extracted text:\n\nSHERATON-CARLTON  \nHOTEL  \nWASHINGTON, D.C.\n\nTHE TOBACCO INSTITUTE  \nFIFTH ANNUAL  \nCOLLEGE OF TOBACCO KNOWLEDGE  \nREGISTRATION FORM\n\nFEBRUARY 19-21, 1980\n\nNAME:  GEORGE R. TELFORD  \nTITLE:  Brand Manager  \nCOMPANY:  Lorillard  \nADDRESS:  666 Fifth Avenue, New York, NY  10019  \nPHONE:  (212) 841-8787\n\nCHECK ONE:  \n___ Please reserve a room for me at the Sheraton-Carlton.  \n__X__ I will make my own housing arrangements.\n\nARRIVAL DATE AND TIME:  2/18/80   7:00 P.M.  \nDEPARTURE DATE AND TIME:  2/21/80   4:00 P.M.\n\nPlease attach a brief (50 words or so) autobiographical sketch.  \nNote your first name or nickname, your current professional responsibilities, employment background and whatever personal information you feel would be helpful in giving your fellow students an idea of your activities and interests. The sketches will be assembled and provided at the opening class session.\n\nAny questions?  Call Connie Drath or Carol Musgrave at 800/424-9876.\n\n\"PLEASE RETURN IN SELF-ADDRESSED ENVELOPE BY FRIDAY, JANUARY 18, 1980\"",
+            "blocks": [
+              {
+                "type": "Figure",
+                "content": "Black-and-white scanned document (speckled/dirty edges) titled a registration form. Extracted text:\n\nSHERATON-CARLTON  \nHOTEL  \nWASHINGTON, D.C.\n\nTHE TOBACCO INSTITUTE  \nFIFTH ANNUAL  \nCOLLEGE OF TOBACCO KNOWLEDGE  \nREGISTRATION FORM\n\nFEBRUARY 19-21, 1980\n\nNAME:  GEORGE R. TELFORD  \nTITLE:  Brand Manager  \nCOMPANY:  Lorillard  \nADDRESS:  666 Fifth Avenue, New York, NY  10019  \nPHONE:  (212) 841-8787\n\nCHECK ONE:  \n___ Please reserve a room for me at the Sheraton-Carlton.  \n__X__ I will make my own housing arrangements.\n\nARRIVAL DATE AND TIME:  2/18/80   7:00 P.M.  \nDEPARTURE DATE AND TIME:  2/21/80   4:00 P.M.\n\nPlease attach a brief (50 words or so) autobiographical sketch.  \nNote your first name or nickname, your current professional responsibilities, employment background and whatever personal information you feel would be helpful in giving your fellow students an idea of your activities and interests. The sketches will be assembled and provided at the opening class session.\n\nAny questions?  Call Connie Drath or Carol Musgrave at 800/424-9876.\n\n\"PLEASE RETURN IN SELF-ADDRESSED ENVELOPE BY FRIDAY, JANUARY 18, 1980\"",
+                "bbox": {
+                  "page": 1,
+                  "left": 0,
+                  "top": 0,
+                  "width": 1,
+                  "height": 1
+                },
+                "confidence": "medium",
+                "metadata": {
+                  "description": "Black-and-white scanned document (speckled/dirty edges) titled a registration form. Extracted text:\n\nSHERATON-CARLTON  \nHOTEL  \nWASHINGTON, D.C.\n\nTHE TOBACCO INSTITUTE  \nFIFTH ANNUAL  \nCOLLEGE OF TOBACCO KNOWLEDGE  \nREGISTRATION FORM\n\nFEBRUARY 19-21, 1980\n\nNAME:  GEORGE R. TELFORD  \nTITLE:  Brand Manager  \nCOMPANY:  Lorillard  \nADDRESS:  666 Fifth Avenue, New York, NY  10019  \nPHONE:  (212) 841-8787\n\nCHECK ONE:  \n___ Please reserve a room for me at the Sheraton-Carlton.  \n__X__ I will make my own housing arrangements.\n\nARRIVAL DATE AND TIME:  2/18/80   7:00 P.M.  \nDEPARTURE DATE AND TIME:  2/21/80   4:00 P.M.\n\nPlease attach a brief (50 words or so) autobiographical sketch.  \nNote your first name or nickname, your current professional responsibilities, employment background and whatever personal information you feel would be helpful in giving your fellow students an idea of your activities and interests. The sketches will be assembled and provided at the opening class session.\n\nAny questions?  Call Connie Drath or Carol Musgrave at 800/424-9876.\n\n\"PLEASE RETURN IN SELF-ADDRESSED ENVELOPE BY FRIDAY, JANUARY 18, 1980\""
+                }
+              }
+            ],
+            "metadata": {
+              "pageRange": {
+                "start": 1,
+                "end": 1
+              },
+              "chunkIndex": 0
+            }
+          }
+        ]
+      },
+      "studio_link": "https://docld.com/documents/959513f6-b519-491d-a5e2-556a8c171a1d"
+    },
+    "meta": {
+      "timestamp": "2026-03-08T08:24:07.504Z",
+      "requestId": "11672f3f-d4d6-42cf-9262-b0b7e504b252",
+      "method": "POST",
+      "url": "https://docld.com/api/parse",
+      "duration": 5663
+    }
+  },
+  "extracted_text": ""
+}

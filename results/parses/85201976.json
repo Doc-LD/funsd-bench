@@ -1,0 +1,56 @@
+{
+  "filename": "85201976.png",
+  "success": true,
+  "duration_ms": 5770,
+  "response": {
+    "data": {
+      "job_id": "12de9371-ff91-4162-be27-e0ce59084f02",
+      "duration": 3.382,
+      "usage": {
+        "num_pages": 1,
+        "credits": 1
+      },
+      "result": {
+        "type": "full",
+        "chunks": [
+          {
+            "content": "Marden-Kane, Inc.\n\nTRUE \"YOU FOUND IT\" SWEEPSTAKES  \nSECOND PRIZE WINNER  \nTRAVEL INFORMATION SHEET\n\nTHE DESTINATION IN THE CONTINENTAL UNITED STATES I WISH  \nTO TRAVEL TO IS: ______________________________________________\n\nNAME ______________________________________________\n\nADDRESS ____________________________________________\n\nCITY ____________________ STATE ______________ ZIP ____________\n\nHOME PHONE ______________________________\n\nBUSINESS PHONE ___________________________\n\nNAME OF GUEST ______________________________________\n\nAGE ______________________\n\nRELATIONSHIP  \nTO WINNER __________________________________________\n\nPLEASE LIST THREE ALTERNATIVE DATES YOU WOULD LIKE TO TRAVEL\n\n1. __________________________________________  \n2. __________________________________________  \n3. __________________________________________\n\nMAJOR AIRPORT  \nNEAREST YOUR HOME __________________________________________\n\nAIRLINE:  \n(CHECK ONE) ________ SMOKING __________ NON-SMOKING\n\nSPECIAL DIETARY REQUIREMENTS ________________________________\n\nANY ADDITIONAL  \nINFORMATION YOU WOULD LIKE TO PROVIDE _______________________\n\n85201978",
+            "blocks": [
+              {
+                "type": "Figure",
+                "content": "Marden-Kane, Inc.\n\nTRUE \"YOU FOUND IT\" SWEEPSTAKES  \nSECOND PRIZE WINNER  \nTRAVEL INFORMATION SHEET\n\nTHE DESTINATION IN THE CONTINENTAL UNITED STATES I WISH  \nTO TRAVEL TO IS: ______________________________________________\n\nNAME ______________________________________________\n\nADDRESS ____________________________________________\n\nCITY ____________________ STATE ______________ ZIP ____________\n\nHOME PHONE ______________________________\n\nBUSINESS PHONE ___________________________\n\nNAME OF GUEST ______________________________________\n\nAGE ______________________\n\nRELATIONSHIP  \nTO WINNER __________________________________________\n\nPLEASE LIST THREE ALTERNATIVE DATES YOU WOULD LIKE TO TRAVEL\n\n1. __________________________________________  \n2. __________________________________________  \n3. __________________________________________\n\nMAJOR AIRPORT  \nNEAREST YOUR HOME __________________________________________\n\nAIRLINE:  \n(CHECK ONE) ________ SMOKING __________ NON-SMOKING\n\nSPECIAL DIETARY REQUIREMENTS ________________________________\n\nANY ADDITIONAL  \nINFORMATION YOU WOULD LIKE TO PROVIDE _______________________\n\n85201978",
+                "bbox": {
+                  "page": 1,
+                  "left": 0,
+                  "top": 0,
+                  "width": 1,
+                  "height": 1
+                },
+                "confidence": "medium",
+                "metadata": {
+                  "description": "Marden-Kane, Inc.\n\nTRUE \"YOU FOUND IT\" SWEEPSTAKES  \nSECOND PRIZE WINNER  \nTRAVEL INFORMATION SHEET\n\nTHE DESTINATION IN THE CONTINENTAL UNITED STATES I WISH  \nTO TRAVEL TO IS: ______________________________________________\n\nNAME ______________________________________________\n\nADDRESS ____________________________________________\n\nCITY ____________________ STATE ______________ ZIP ____________\n\nHOME PHONE ______________________________\n\nBUSINESS PHONE ___________________________\n\nNAME OF GUEST ______________________________________\n\nAGE ______________________\n\nRELATIONSHIP  \nTO WINNER __________________________________________\n\nPLEASE LIST THREE ALTERNATIVE DATES YOU WOULD LIKE TO TRAVEL\n\n1. __________________________________________  \n2. __________________________________________  \n3. __________________________________________\n\nMAJOR AIRPORT  \nNEAREST YOUR HOME __________________________________________\n\nAIRLINE:  \n(CHECK ONE) ________ SMOKING __________ NON-SMOKING\n\nSPECIAL DIETARY REQUIREMENTS ________________________________\n\nANY ADDITIONAL  \nINFORMATION YOU WOULD LIKE TO PROVIDE _______________________\n\n85201978"
+                }
+              }
+            ],
+            "metadata": {
+              "pageRange": {
+                "start": 1,
+                "end": 1
+              },
+              "chunkIndex": 0
+            }
+          }
+        ]
+      },
+      "studio_link": "https://docld.com/documents/939b3aad-14cc-46bc-891d-0f7ae3bc3e8b"
+    },
+    "meta": {
+      "timestamp": "2026-03-08T08:22:42.427Z",
+      "requestId": "366239b6-bd97-43d9-9c4f-175a83abba43",
+      "method": "POST",
+      "url": "https://docld.com/api/parse",
+      "duration": 4265
+    }
+  },
+  "extracted_text": ""
+}

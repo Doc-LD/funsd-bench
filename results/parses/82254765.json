@@ -1,0 +1,56 @@
+{
+  "filename": "82254765.png",
+  "success": true,
+  "duration_ms": 6926,
+  "response": {
+    "data": {
+      "job_id": "583c34e7-b3e4-4dd8-be6d-b285ef864498",
+      "duration": 3.874,
+      "usage": {
+        "num_pages": 1,
+        "credits": 1
+      },
+      "result": {
+        "type": "full",
+        "chunks": [
+          {
+            "content": "TO: K. A. SPARROW  \nFROM: S. Reindel  \nDIV. NAME/NO: Nassau / 107  \nDATE TO NYO: 1/24/97  \n\n1997 SPECIAL EVENT REQUEST FORM  \n\nNAME OF EVENT: H. Levinson Tradeshow  \n*DATE OF EVENT: 3/18/97  \n\nSAMPLES / ITEMS REQUIRED: SAMPLE 10’S (400 PACKS PER CASE)  \n\n# CASES  \nNEWPORT K.S. — 2  \nNEWPORT 100’S — ______  \nNEWPORT LTS K.S. — 1  \nNEWPORT LTS. 100 — ______  \n\nKENT II K.S. — ______  \nKENT II 100 — ______  \nTRUE K.S. — 1  \nKENT K.S. — 1  \nKENT 100 — ______  \n\nKENT GLLTS K.S. — ______  \nKENT GL 100 — ______  \n\nITEMS — QUANTITY REQUIRED  \nBASEBALL CAP — 1500  \nWATER BOTTLES — 500  \n\nSHIP TO:  \nCUSTOMER SHIPPING NUMBER: 198-1160006  \n\nNYO ONLY:  \nDATE FORWARDED TO PROMOTION SERVICES: 2/6/97  \n\n* PLEASE ALLOW 6 WEEKS FOR PROCESSING OF YOUR REQUEST.  \n\nREQFORM  \n01/17/97  \n\n82254765",
+            "blocks": [
+              {
+                "type": "Figure",
+                "content": "TO: K. A. SPARROW  \nFROM: S. Reindel  \nDIV. NAME/NO: Nassau / 107  \nDATE TO NYO: 1/24/97  \n\n1997 SPECIAL EVENT REQUEST FORM  \n\nNAME OF EVENT: H. Levinson Tradeshow  \n*DATE OF EVENT: 3/18/97  \n\nSAMPLES / ITEMS REQUIRED: SAMPLE 10’S (400 PACKS PER CASE)  \n\n# CASES  \nNEWPORT K.S. — 2  \nNEWPORT 100’S — ______  \nNEWPORT LTS K.S. — 1  \nNEWPORT LTS. 100 — ______  \n\nKENT II K.S. — ______  \nKENT II 100 — ______  \nTRUE K.S. — 1  \nKENT K.S. — 1  \nKENT 100 — ______  \n\nKENT GLLTS K.S. — ______  \nKENT GL 100 — ______  \n\nITEMS — QUANTITY REQUIRED  \nBASEBALL CAP — 1500  \nWATER BOTTLES — 500  \n\nSHIP TO:  \nCUSTOMER SHIPPING NUMBER: 198-1160006  \n\nNYO ONLY:  \nDATE FORWARDED TO PROMOTION SERVICES: 2/6/97  \n\n* PLEASE ALLOW 6 WEEKS FOR PROCESSING OF YOUR REQUEST.  \n\nREQFORM  \n01/17/97  \n\n82254765",
+                "bbox": {
+                  "page": 1,
+                  "left": 0,
+                  "top": 0,
+                  "width": 1,
+                  "height": 1
+                },
+                "confidence": "medium",
+                "metadata": {
+                  "description": "TO: K. A. SPARROW  \nFROM: S. Reindel  \nDIV. NAME/NO: Nassau / 107  \nDATE TO NYO: 1/24/97  \n\n1997 SPECIAL EVENT REQUEST FORM  \n\nNAME OF EVENT: H. Levinson Tradeshow  \n*DATE OF EVENT: 3/18/97  \n\nSAMPLES / ITEMS REQUIRED: SAMPLE 10’S (400 PACKS PER CASE)  \n\n# CASES  \nNEWPORT K.S. — 2  \nNEWPORT 100’S — ______  \nNEWPORT LTS K.S. — 1  \nNEWPORT LTS. 100 — ______  \n\nKENT II K.S. — ______  \nKENT II 100 — ______  \nTRUE K.S. — 1  \nKENT K.S. — 1  \nKENT 100 — ______  \n\nKENT GLLTS K.S. — ______  \nKENT GL 100 — ______  \n\nITEMS — QUANTITY REQUIRED  \nBASEBALL CAP — 1500  \nWATER BOTTLES — 500  \n\nSHIP TO:  \nCUSTOMER SHIPPING NUMBER: 198-1160006  \n\nNYO ONLY:  \nDATE FORWARDED TO PROMOTION SERVICES: 2/6/97  \n\n* PLEASE ALLOW 6 WEEKS FOR PROCESSING OF YOUR REQUEST.  \n\nREQFORM  \n01/17/97  \n\n82254765"
+                }
+              }
+            ],
+            "metadata": {
+              "pageRange": {
+                "start": 1,
+                "end": 1
+              },
+              "chunkIndex": 0
+            }
+          }
+        ]
+      },
+      "studio_link": "https://docld.com/documents/f81062aa-1ff1-4612-9f47-c16579a74dad"
+    },
+    "meta": {
+      "timestamp": "2026-03-08T08:00:08.217Z",
+      "requestId": "b2d0c0c5-3cfd-4b70-8bc7-d19e2e726f34",
+      "method": "POST",
+      "url": "https://docld.com/api/parse",
+      "duration": 4805
+    }
+  },
+  "extracted_text": ""
+}

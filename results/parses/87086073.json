@@ -1,0 +1,56 @@
+{
+  "filename": "87086073.png",
+  "success": true,
+  "duration_ms": 5337,
+  "response": {
+    "data": {
+      "job_id": "075ab636-0156-4d18-82da-5b5b9f72b26e",
+      "duration": 3.424,
+      "usage": {
+        "num_pages": 1,
+        "credits": 1
+      },
+      "result": {
+        "type": "full",
+        "chunks": [
+          {
+            "content": "DECISION TREE ESTIMATION OF TOXIC RISK\n\nNAME: J. D. Ergle and R. F. Dufresne                 DATE: August 14, 1990\n\nCOMPOUND NAME  \nVanitrope\n\nSTRUCTURE  \n(chemical structure diagram shown: an aromatic ring with substituents labeled “CH3CH2O” and “OH”, and a side chain extending from the ring)\n\nESTIMATED TOXICITY CLASS: III                 LORILLARD COMPOUND CODE NUMBER: B134\n\nCOMMENTS  \nThis ethoxy substituted aromatic falls into class III.\n\n(signatures)  \nJ. D. Ergle  \nResearch Chemist\n\nR. F. Dufresne  \nResearch Chemist\n\nLORILLARD RESEARCH CENTER\n\nFORM 1 (5-90)\n\n(vertical number along right edge) 8708028  \n(vertical number near right edge) 2093073",
+            "blocks": [
+              {
+                "type": "Figure",
+                "content": "DECISION TREE ESTIMATION OF TOXIC RISK\n\nNAME: J. D. Ergle and R. F. Dufresne                 DATE: August 14, 1990\n\nCOMPOUND NAME  \nVanitrope\n\nSTRUCTURE  \n(chemical structure diagram shown: an aromatic ring with substituents labeled “CH3CH2O” and “OH”, and a side chain extending from the ring)\n\nESTIMATED TOXICITY CLASS: III                 LORILLARD COMPOUND CODE NUMBER: B134\n\nCOMMENTS  \nThis ethoxy substituted aromatic falls into class III.\n\n(signatures)  \nJ. D. Ergle  \nResearch Chemist\n\nR. F. Dufresne  \nResearch Chemist\n\nLORILLARD RESEARCH CENTER\n\nFORM 1 (5-90)\n\n(vertical number along right edge) 8708028  \n(vertical number near right edge) 2093073",
+                "bbox": {
+                  "page": 1,
+                  "left": 0,
+                  "top": 0,
+                  "width": 1,
+                  "height": 1
+                },
+                "confidence": "medium",
+                "metadata": {
+                  "description": "DECISION TREE ESTIMATION OF TOXIC RISK\n\nNAME: J. D. Ergle and R. F. Dufresne                 DATE: August 14, 1990\n\nCOMPOUND NAME  \nVanitrope\n\nSTRUCTURE  \n(chemical structure diagram shown: an aromatic ring with substituents labeled “CH3CH2O” and “OH”, and a side chain extending from the ring)\n\nESTIMATED TOXICITY CLASS: III                 LORILLARD COMPOUND CODE NUMBER: B134\n\nCOMMENTS  \nThis ethoxy substituted aromatic falls into class III.\n\n(signatures)  \nJ. D. Ergle  \nResearch Chemist\n\nR. F. Dufresne  \nResearch Chemist\n\nLORILLARD RESEARCH CENTER\n\nFORM 1 (5-90)\n\n(vertical number along right edge) 8708028  \n(vertical number near right edge) 2093073"
+                }
+              }
+            ],
+            "metadata": {
+              "pageRange": {
+                "start": 1,
+                "end": 1
+              },
+              "chunkIndex": 0
+            }
+          }
+        ]
+      },
+      "studio_link": "https://docld.com/documents/ab337429-440b-4db7-be15-07ff475de5a2"
+    },
+    "meta": {
+      "timestamp": "2026-03-08T07:58:53.690Z",
+      "requestId": "090e6ffc-a5ff-4fe3-9709-466b4325d953",
+      "method": "POST",
+      "url": "https://docld.com/api/parse",
+      "duration": 4122
+    }
+  },
+  "extracted_text": ""
+}

@@ -1,0 +1,56 @@
+{
+  "filename": "82250337_0338.png",
+  "success": true,
+  "duration_ms": 8363,
+  "response": {
+    "data": {
+      "job_id": "ac945894-10a6-4178-9424-9c1ca21d7804",
+      "duration": 5.984,
+      "usage": {
+        "num_pages": 1,
+        "credits": 1
+      },
+      "result": {
+        "type": "full",
+        "chunks": [
+          {
+            "content": "COMPETITIVE PRODUCT INTRODUCTION  \nPROGRESS REPORT\n\nTO: Sam Zolot  \nFROM: D. J. Landro  \nDATE: 2-Dec-97\n\nMANUFACTURER: B&W  \nBRAND: Kool Waterfall  \nTYPE OF PACKINGS: All Packings\n\nREPORTING PERIODS: Oct. ____  Nov. X  Dec. ____  Jan. ____\n\nTEST MARKET GEOGRAPHY: Divisions 621 and 627 (Wisconsin)\n\nPRICE POINT: FULL $ ____  P/V $ ____  (Indicate Distributor’s Cost Per Carton)\n\nSALES FORCE INVOLVEMENT:  \nThey have crew-worked distribution, and it is reported that they may crew-work it again. Sales force has been busy promoting old style packs to clean up inventory. All POS is being converted to “B” Kool.\n\nDISTRIBUTORS - ACCEPTANCE/INTRO TERMS/INTRO DEALS/INVOLVEMENT:  \nAll accounts have the new packaging. It was not a problem obtaining new distribution. All accounts appear to have 100% distribution of new packings.\n\nCHAINS - ACCEPTANCE/MERCHANDISING:  \nThis has not been a problem. New packaging is just following up on the old “packaging”.\n\nINDEPENDENTS - ACCEPTANCE/MERCHANDISING:  \nVery well received. The old paks are being consolidated and promoted in select retail locations at 40¢ off/$4.00 off cartons.\n\nADVERTISING - EFFECTIVENESS OF P.O.S.:  \nThe theme “B” Kool has replaced all previous POS. They have effectively replaced all old POS. New door signage, hour signs, poster mats, and clocks have the new design. “B” Kool also appears on billboards in Illinois.\n\nPAGE 1 OF 2\n\n82250337 (printed vertically along the right margin)",
+            "blocks": [
+              {
+                "type": "Figure",
+                "content": "COMPETITIVE PRODUCT INTRODUCTION  \nPROGRESS REPORT\n\nTO: Sam Zolot  \nFROM: D. J. Landro  \nDATE: 2-Dec-97\n\nMANUFACTURER: B&W  \nBRAND: Kool Waterfall  \nTYPE OF PACKINGS: All Packings\n\nREPORTING PERIODS: Oct. ____  Nov. X  Dec. ____  Jan. ____\n\nTEST MARKET GEOGRAPHY: Divisions 621 and 627 (Wisconsin)\n\nPRICE POINT: FULL $ ____  P/V $ ____  (Indicate Distributor’s Cost Per Carton)\n\nSALES FORCE INVOLVEMENT:  \nThey have crew-worked distribution, and it is reported that they may crew-work it again. Sales force has been busy promoting old style packs to clean up inventory. All POS is being converted to “B” Kool.\n\nDISTRIBUTORS - ACCEPTANCE/INTRO TERMS/INTRO DEALS/INVOLVEMENT:  \nAll accounts have the new packaging. It was not a problem obtaining new distribution. All accounts appear to have 100% distribution of new packings.\n\nCHAINS - ACCEPTANCE/MERCHANDISING:  \nThis has not been a problem. New packaging is just following up on the old “packaging”.\n\nINDEPENDENTS - ACCEPTANCE/MERCHANDISING:  \nVery well received. The old paks are being consolidated and promoted in select retail locations at 40¢ off/$4.00 off cartons.\n\nADVERTISING - EFFECTIVENESS OF P.O.S.:  \nThe theme “B” Kool has replaced all previous POS. They have effectively replaced all old POS. New door signage, hour signs, poster mats, and clocks have the new design. “B” Kool also appears on billboards in Illinois.\n\nPAGE 1 OF 2\n\n82250337 (printed vertically along the right margin)",
+                "bbox": {
+                  "page": 1,
+                  "left": 0,
+                  "top": 0,
+                  "width": 1,
+                  "height": 1
+                },
+                "confidence": "medium",
+                "metadata": {
+                  "description": "COMPETITIVE PRODUCT INTRODUCTION  \nPROGRESS REPORT\n\nTO: Sam Zolot  \nFROM: D. J. Landro  \nDATE: 2-Dec-97\n\nMANUFACTURER: B&W  \nBRAND: Kool Waterfall  \nTYPE OF PACKINGS: All Packings\n\nREPORTING PERIODS: Oct. ____  Nov. X  Dec. ____  Jan. ____\n\nTEST MARKET GEOGRAPHY: Divisions 621 and 627 (Wisconsin)\n\nPRICE POINT: FULL $ ____  P/V $ ____  (Indicate Distributor’s Cost Per Carton)\n\nSALES FORCE INVOLVEMENT:  \nThey have crew-worked distribution, and it is reported that they may crew-work it again. Sales force has been busy promoting old style packs to clean up inventory. All POS is being converted to “B” Kool.\n\nDISTRIBUTORS - ACCEPTANCE/INTRO TERMS/INTRO DEALS/INVOLVEMENT:  \nAll accounts have the new packaging. It was not a problem obtaining new distribution. All accounts appear to have 100% distribution of new packings.\n\nCHAINS - ACCEPTANCE/MERCHANDISING:  \nThis has not been a problem. New packaging is just following up on the old “packaging”.\n\nINDEPENDENTS - ACCEPTANCE/MERCHANDISING:  \nVery well received. The old paks are being consolidated and promoted in select retail locations at 40¢ off/$4.00 off cartons.\n\nADVERTISING - EFFECTIVENESS OF P.O.S.:  \nThe theme “B” Kool has replaced all previous POS. They have effectively replaced all old POS. New door signage, hour signs, poster mats, and clocks have the new design. “B” Kool also appears on billboards in Illinois.\n\nPAGE 1 OF 2\n\n82250337 (printed vertically along the right margin)"
+                }
+              }
+            ],
+            "metadata": {
+              "pageRange": {
+                "start": 1,
+                "end": 1
+              },
+              "chunkIndex": 0
+            }
+          }
+        ]
+      },
+      "studio_link": "https://docld.com/documents/5a5700e4-7e3c-4522-9136-8e9790d624e6"
+    },
+    "meta": {
+      "timestamp": "2026-03-08T07:57:10.793Z",
+      "requestId": "b11aea45-4023-485f-ac87-c0d2d028685a",
+      "method": "POST",
+      "url": "https://docld.com/api/parse",
+      "duration": 6782
+    }
+  },
+  "extracted_text": ""
+}

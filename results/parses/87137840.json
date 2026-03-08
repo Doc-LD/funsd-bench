@@ -1,0 +1,56 @@
+{
+  "filename": "87137840.png",
+  "success": true,
+  "duration_ms": 5793,
+  "response": {
+    "data": {
+      "job_id": "4e90fa7d-a1b6-4023-a5fc-26a4fadb27ec",
+      "duration": 3.011,
+      "usage": {
+        "num_pages": 1,
+        "credits": 1
+      },
+      "result": {
+        "type": "full",
+        "chunks": [
+          {
+            "content": "TEST ARTICLE RECEIPT\n\nTA #: 707281A\n\nSPONSOR’S NAME: Lorillard\n\nTEST ARTICLE IDENTIFICATION: B220\n\nLOT #: 312590\n\nCONDITION OF SHIPMENT: GOOD (circled)  BROKEN  LEAKED\n\nSHIPPED VIA: Direct Express\n\nPHYSICAL DESCRIPTION: Clear brown liquid\n\nNO. OF CONTAINERS: one\n\nGROSS WEIGHT: not provided      NET WEIGHT (if provided): 100 g\n\nEXPIRATION DATE: not provided\n\nSPECIAL HANDLING REQUIREMENTS: Store refrigerated in dark.\n\nRECEIVED BY: (signature)      DATE: 03/01/90\n\nSTUDY DIRECTOR/DEPARTMENT: Ray David\n\nSIGNATURE OF DEPARTMENT CONSIGNEE: (signature)\n\nDATE: 03/01/90\n\n(Vertical number at lower right margin): 87237040",
+            "blocks": [
+              {
+                "type": "Figure",
+                "content": "TEST ARTICLE RECEIPT\n\nTA #: 707281A\n\nSPONSOR’S NAME: Lorillard\n\nTEST ARTICLE IDENTIFICATION: B220\n\nLOT #: 312590\n\nCONDITION OF SHIPMENT: GOOD (circled)  BROKEN  LEAKED\n\nSHIPPED VIA: Direct Express\n\nPHYSICAL DESCRIPTION: Clear brown liquid\n\nNO. OF CONTAINERS: one\n\nGROSS WEIGHT: not provided      NET WEIGHT (if provided): 100 g\n\nEXPIRATION DATE: not provided\n\nSPECIAL HANDLING REQUIREMENTS: Store refrigerated in dark.\n\nRECEIVED BY: (signature)      DATE: 03/01/90\n\nSTUDY DIRECTOR/DEPARTMENT: Ray David\n\nSIGNATURE OF DEPARTMENT CONSIGNEE: (signature)\n\nDATE: 03/01/90\n\n(Vertical number at lower right margin): 87237040",
+                "bbox": {
+                  "page": 1,
+                  "left": 0,
+                  "top": 0,
+                  "width": 1,
+                  "height": 1
+                },
+                "confidence": "medium",
+                "metadata": {
+                  "description": "TEST ARTICLE RECEIPT\n\nTA #: 707281A\n\nSPONSOR’S NAME: Lorillard\n\nTEST ARTICLE IDENTIFICATION: B220\n\nLOT #: 312590\n\nCONDITION OF SHIPMENT: GOOD (circled)  BROKEN  LEAKED\n\nSHIPPED VIA: Direct Express\n\nPHYSICAL DESCRIPTION: Clear brown liquid\n\nNO. OF CONTAINERS: one\n\nGROSS WEIGHT: not provided      NET WEIGHT (if provided): 100 g\n\nEXPIRATION DATE: not provided\n\nSPECIAL HANDLING REQUIREMENTS: Store refrigerated in dark.\n\nRECEIVED BY: (signature)      DATE: 03/01/90\n\nSTUDY DIRECTOR/DEPARTMENT: Ray David\n\nSIGNATURE OF DEPARTMENT CONSIGNEE: (signature)\n\nDATE: 03/01/90\n\n(Vertical number at lower right margin): 87237040"
+                }
+              }
+            ],
+            "metadata": {
+              "pageRange": {
+                "start": 1,
+                "end": 1
+              },
+              "chunkIndex": 0
+            }
+          }
+        ]
+      },
+      "studio_link": "https://docld.com/documents/5251e176-05e1-4371-bb29-a12dd14c2baa"
+    },
+    "meta": {
+      "timestamp": "2026-03-08T08:42:10.000Z",
+      "requestId": "7e5fc509-0c1e-4922-b4d4-5ac65c2ea9ba",
+      "method": "POST",
+      "url": "https://docld.com/api/parse",
+      "duration": 4032
+    }
+  },
+  "extracted_text": ""
+}

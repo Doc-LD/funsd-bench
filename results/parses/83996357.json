@@ -1,0 +1,56 @@
+{
+  "filename": "83996357.png",
+  "success": true,
+  "duration_ms": 6386,
+  "response": {
+    "data": {
+      "job_id": "7d75d399-e74b-4839-bf91-a7d01d1bab35",
+      "duration": 3.928,
+      "usage": {
+        "num_pages": 1,
+        "credits": 1
+      },
+      "result": {
+        "type": "full",
+        "chunks": [
+          {
+            "content": "COUPON CODE REGISTRATION FORM\n\nTO: KELLI SCRUGGS\n\nFROM: LEONARD JONES\n\nCC:  \nV. LOSITO  \nG. BAROODY  \nB. VON DER LIPPE  \nM. TAHMASEB  \nL. STEVENS  \nD. Hirsling\n\nBRAND(S) APPLICABLE: OLD GOLD  \nMEDIA TYPE: DIRECT MAIL  \nMEDIA NAME:  \nISSUE FREQUENCY/YEAR:  \nSPACE/COLOR:  \nCOUPON ISSUE DATE: 10/4/99  \nCOUPON EXPIRATION DATE: 3/31/00  \nCIRCULATION (#): 201,500  \nCIRCULATION DATES: OCTOBER 1999  \nGEOGRAPHICAL AREA(S): DISCOUNT SMOKERS -OG GROUPS I AND II  \nCOUPON VALUE: $1.00 OFF PACK  \nPACK/CARTON: PACK  \nADVERTISING CREATIVE TITLE:  \nSIGNATURE OF INITIATOR: Leonard H Jones  \nDATE INITIATED: 4/14/99\n\nREQUIREMENTS    REDEMPTION RESULTS\n\nCODE ASSIGNED: 07809  \nJOB #: 584  \nEST. REDEMPTION: 14%\n\n30165\n\n83996357",
+            "blocks": [
+              {
+                "type": "Figure",
+                "content": "COUPON CODE REGISTRATION FORM\n\nTO: KELLI SCRUGGS\n\nFROM: LEONARD JONES\n\nCC:  \nV. LOSITO  \nG. BAROODY  \nB. VON DER LIPPE  \nM. TAHMASEB  \nL. STEVENS  \nD. Hirsling\n\nBRAND(S) APPLICABLE: OLD GOLD  \nMEDIA TYPE: DIRECT MAIL  \nMEDIA NAME:  \nISSUE FREQUENCY/YEAR:  \nSPACE/COLOR:  \nCOUPON ISSUE DATE: 10/4/99  \nCOUPON EXPIRATION DATE: 3/31/00  \nCIRCULATION (#): 201,500  \nCIRCULATION DATES: OCTOBER 1999  \nGEOGRAPHICAL AREA(S): DISCOUNT SMOKERS -OG GROUPS I AND II  \nCOUPON VALUE: $1.00 OFF PACK  \nPACK/CARTON: PACK  \nADVERTISING CREATIVE TITLE:  \nSIGNATURE OF INITIATOR: Leonard H Jones  \nDATE INITIATED: 4/14/99\n\nREQUIREMENTS    REDEMPTION RESULTS\n\nCODE ASSIGNED: 07809  \nJOB #: 584  \nEST. REDEMPTION: 14%\n\n30165\n\n83996357",
+                "bbox": {
+                  "page": 1,
+                  "left": 0,
+                  "top": 0,
+                  "width": 1,
+                  "height": 1
+                },
+                "confidence": "medium",
+                "metadata": {
+                  "description": "COUPON CODE REGISTRATION FORM\n\nTO: KELLI SCRUGGS\n\nFROM: LEONARD JONES\n\nCC:  \nV. LOSITO  \nG. BAROODY  \nB. VON DER LIPPE  \nM. TAHMASEB  \nL. STEVENS  \nD. Hirsling\n\nBRAND(S) APPLICABLE: OLD GOLD  \nMEDIA TYPE: DIRECT MAIL  \nMEDIA NAME:  \nISSUE FREQUENCY/YEAR:  \nSPACE/COLOR:  \nCOUPON ISSUE DATE: 10/4/99  \nCOUPON EXPIRATION DATE: 3/31/00  \nCIRCULATION (#): 201,500  \nCIRCULATION DATES: OCTOBER 1999  \nGEOGRAPHICAL AREA(S): DISCOUNT SMOKERS -OG GROUPS I AND II  \nCOUPON VALUE: $1.00 OFF PACK  \nPACK/CARTON: PACK  \nADVERTISING CREATIVE TITLE:  \nSIGNATURE OF INITIATOR: Leonard H Jones  \nDATE INITIATED: 4/14/99\n\nREQUIREMENTS    REDEMPTION RESULTS\n\nCODE ASSIGNED: 07809  \nJOB #: 584  \nEST. REDEMPTION: 14%\n\n30165\n\n83996357"
+                }
+              }
+            ],
+            "metadata": {
+              "pageRange": {
+                "start": 1,
+                "end": 1
+              },
+              "chunkIndex": 0
+            }
+          }
+        ]
+      },
+      "studio_link": "https://docld.com/documents/a8df0f61-1db0-45e3-9025-c74b4f92978d"
+    },
+    "meta": {
+      "timestamp": "2026-03-08T08:21:20.158Z",
+      "requestId": "d2d243b0-4e7f-4e6a-afd6-c1ad587825a0",
+      "method": "POST",
+      "url": "https://docld.com/api/parse",
+      "duration": 4833
+    }
+  },
+  "extracted_text": ""
+}

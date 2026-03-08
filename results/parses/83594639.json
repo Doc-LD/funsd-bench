@@ -1,0 +1,56 @@
+{
+  "filename": "83594639.png",
+  "success": true,
+  "duration_ms": 6443,
+  "response": {
+    "data": {
+      "job_id": "67301c87-ffe0-49ca-9fc1-3a6bebb9279d",
+      "duration": 3.766,
+      "usage": {
+        "num_pages": 1,
+        "credits": 1
+      },
+      "result": {
+        "type": "full",
+        "chunks": [
+          {
+            "content": "09/22/97  MON 15:35  FAX 12124554800      ROPER STARCH WORLDWIDE      001\n\nROPER  \nSTARCH\n\nTURNING DATA INTO INTELLIGENCE WORLDWIDE™\n\nFax  Fax  Fax  Fax  Fax  Fax  Fax  Fax  Fax\n\nDate: September 22, 1997  \nTo: Ron Milstein                          From: “JJ” Klein  \nCompany: Lorillard  \nFax Number: (910) 335-7707                Pages (including cover page): 3\n\nRoper Starch Worldwide Inc.  \n205 East 42nd Street  \nNew York, NY 10017  \n212 599 0700 Tel  \n212 867 7008 Fax\n\nRoper Marketing and Public Opinion Research  \nStarch Advertising and Media Research  \nFind/SVP Marketing Services  \nINRA World Headquarters\n\n83594639",
+            "blocks": [
+              {
+                "type": "Figure",
+                "content": "09/22/97  MON 15:35  FAX 12124554800      ROPER STARCH WORLDWIDE      001\n\nROPER  \nSTARCH\n\nTURNING DATA INTO INTELLIGENCE WORLDWIDE™\n\nFax  Fax  Fax  Fax  Fax  Fax  Fax  Fax  Fax\n\nDate: September 22, 1997  \nTo: Ron Milstein                          From: “JJ” Klein  \nCompany: Lorillard  \nFax Number: (910) 335-7707                Pages (including cover page): 3\n\nRoper Starch Worldwide Inc.  \n205 East 42nd Street  \nNew York, NY 10017  \n212 599 0700 Tel  \n212 867 7008 Fax\n\nRoper Marketing and Public Opinion Research  \nStarch Advertising and Media Research  \nFind/SVP Marketing Services  \nINRA World Headquarters\n\n83594639",
+                "bbox": {
+                  "page": 1,
+                  "left": 0,
+                  "top": 0,
+                  "width": 1,
+                  "height": 1
+                },
+                "confidence": "medium",
+                "metadata": {
+                  "description": "09/22/97  MON 15:35  FAX 12124554800      ROPER STARCH WORLDWIDE      001\n\nROPER  \nSTARCH\n\nTURNING DATA INTO INTELLIGENCE WORLDWIDE™\n\nFax  Fax  Fax  Fax  Fax  Fax  Fax  Fax  Fax\n\nDate: September 22, 1997  \nTo: Ron Milstein                          From: “JJ” Klein  \nCompany: Lorillard  \nFax Number: (910) 335-7707                Pages (including cover page): 3\n\nRoper Starch Worldwide Inc.  \n205 East 42nd Street  \nNew York, NY 10017  \n212 599 0700 Tel  \n212 867 7008 Fax\n\nRoper Marketing and Public Opinion Research  \nStarch Advertising and Media Research  \nFind/SVP Marketing Services  \nINRA World Headquarters\n\n83594639"
+                }
+              }
+            ],
+            "metadata": {
+              "pageRange": {
+                "start": 1,
+                "end": 1
+              },
+              "chunkIndex": 0
+            }
+          }
+        ]
+      },
+      "studio_link": "https://docld.com/documents/545bf663-47c2-4a49-8ab1-2f073e73a32e"
+    },
+    "meta": {
+      "timestamp": "2026-03-08T08:12:49.531Z",
+      "requestId": "9b1302b1-0365-463f-b144-ec6d85576bbe",
+      "method": "POST",
+      "url": "https://docld.com/api/parse",
+      "duration": 5025
+    }
+  },
+  "extracted_text": ""
+}

@@ -1,0 +1,1193 @@
+{
+  "correlations": {
+    "entity_count_vs_cer": -0.17855078177868441,
+    "word_count_vs_cer": -0.3043782617640978,
+    "char_count_vs_cer": -0.2986397014429594,
+    "entity_count_vs_wer": 0.1580449975310408,
+    "word_count_vs_wer": -0.3158833478316694,
+    "cer_vs_wer": 0.6139528044738051,
+    "char_count_vs_duration": 0.8677467094418584,
+    "word_count_vs_duration": 0.885538417608859
+  },
+  "cer_buckets": {
+    "0-5%": 0,
+    "5-10%": 0,
+    "10-15%": 1,
+    "15-20%": 3,
+    "20-25%": 3,
+    "25%+": 43
+  },
+  "wer_buckets": {
+    "0-20%": 0,
+    "20-40%": 10,
+    "40-60%": 13,
+    "60-80%": 11,
+    "80-100%": 16
+  },
+  "duration_buckets": {
+    "0-1s": 0,
+    "1-2s": 0,
+    "2-3s": 0,
+    "3-5s": 1,
+    "5s+": 49
+  },
+  "top_error_patterns": [
+    {
+      "original": "",
+      "recognized": " ",
+      "count": 704,
+      "type": "insertion"
+    },
+    {
+      "original": " ",
+      "recognized": "",
+      "count": 622,
+      "type": "deletion"
+    },
+    {
+      "original": "",
+      "recognized": "_",
+      "count": 536,
+      "type": "insertion"
+    },
+    {
+      "original": "",
+      "recognized": "\n",
+      "count": 468,
+      "type": "insertion"
+    },
+    {
+      "original": "e",
+      "recognized": "",
+      "count": 269,
+      "type": "deletion"
+    },
+    {
+      "original": "",
+      "recognized": "e",
+      "count": 225,
+      "type": "insertion"
+    },
+    {
+      "original": "a",
+      "recognized": "",
+      "count": 217,
+      "type": "deletion"
+    },
+    {
+      "original": "r",
+      "recognized": "",
+      "count": 197,
+      "type": "deletion"
+    },
+    {
+      "original": "o",
+      "recognized": "",
+      "count": 188,
+      "type": "deletion"
+    },
+    {
+      "original": "t",
+      "recognized": "",
+      "count": 181,
+      "type": "deletion"
+    },
+    {
+      "original": "",
+      "recognized": "a",
+      "count": 176,
+      "type": "insertion"
+    },
+    {
+      "original": "n",
+      "recognized": "",
+      "count": 174,
+      "type": "deletion"
+    },
+    {
+      "original": "",
+      "recognized": "t",
+      "count": 166,
+      "type": "insertion"
+    },
+    {
+      "original": "",
+      "recognized": "o",
+      "count": 165,
+      "type": "insertion"
+    },
+    {
+      "original": "",
+      "recognized": "r",
+      "count": 157,
+      "type": "insertion"
+    },
+    {
+      "original": "i",
+      "recognized": "",
+      "count": 156,
+      "type": "deletion"
+    },
+    {
+      "original": "s",
+      "recognized": "",
+      "count": 155,
+      "type": "deletion"
+    },
+    {
+      "original": "",
+      "recognized": "s",
+      "count": 144,
+      "type": "insertion"
+    },
+    {
+      "original": "",
+      "recognized": "n",
+      "count": 143,
+      "type": "insertion"
+    },
+    {
+      "original": "",
+      "recognized": "i",
+      "count": 141,
+      "type": "insertion"
+    },
+    {
+      "original": " ",
+      "recognized": "\n",
+      "count": 137,
+      "type": "substitution"
+    },
+    {
+      "original": "1",
+      "recognized": "",
+      "count": 116,
+      "type": "deletion"
+    },
+    {
+      "original": "d",
+      "recognized": "",
+      "count": 112,
+      "type": "deletion"
+    },
+    {
+      "original": " ",
+      "recognized": "_",
+      "count": 111,
+      "type": "substitution"
+    },
+    {
+      "original": "c",
+      "recognized": "",
+      "count": 110,
+      "type": "deletion"
+    },
+    {
+      "original": "",
+      "recognized": " ",
+      "count": 107,
+      "type": "insertion"
+    },
+    {
+      "original": ":",
+      "recognized": "",
+      "count": 105,
+      "type": "deletion"
+    },
+    {
+      "original": "",
+      "recognized": "c",
+      "count": 104,
+      "type": "insertion"
+    },
+    {
+      "original": "",
+      "recognized": ":",
+      "count": 102,
+      "type": "insertion"
+    },
+    {
+      "original": "e",
+      "recognized": " ",
+      "count": 101,
+      "type": "substitution"
+    },
+    {
+      "original": "",
+      "recognized": "d",
+      "count": 94,
+      "type": "insertion"
+    },
+    {
+      "original": "m",
+      "recognized": "",
+      "count": 92,
+      "type": "deletion"
+    },
+    {
+      "original": "",
+      "recognized": "l",
+      "count": 84,
+      "type": "insertion"
+    },
+    {
+      "original": "e",
+      "recognized": "_",
+      "count": 83,
+      "type": "substitution"
+    },
+    {
+      "original": "",
+      "recognized": "m",
+      "count": 80,
+      "type": "insertion"
+    },
+    {
+      "original": "p",
+      "recognized": "",
+      "count": 78,
+      "type": "deletion"
+    },
+    {
+      "original": "l",
+      "recognized": "",
+      "count": 76,
+      "type": "deletion"
+    },
+    {
+      "original": "u",
+      "recognized": "",
+      "count": 76,
+      "type": "deletion"
+    },
+    {
+      "original": "2",
+      "recognized": "",
+      "count": 76,
+      "type": "deletion"
+    },
+    {
+      "original": "0",
+      "recognized": "",
+      "count": 74,
+      "type": "deletion"
+    },
+    {
+      "original": "t",
+      "recognized": " ",
+      "count": 72,
+      "type": "substitution"
+    },
+    {
+      "original": "9",
+      "recognized": "",
+      "count": 70,
+      "type": "deletion"
+    },
+    {
+      "original": "",
+      "recognized": "p",
+      "count": 68,
+      "type": "insertion"
+    },
+    {
+      "original": "i",
+      "recognized": " ",
+      "count": 68,
+      "type": "substitution"
+    },
+    {
+      "original": "a",
+      "recognized": " ",
+      "count": 63,
+      "type": "substitution"
+    },
+    {
+      "original": "",
+      "recognized": "u",
+      "count": 60,
+      "type": "insertion"
+    },
+    {
+      "original": "n",
+      "recognized": " ",
+      "count": 60,
+      "type": "substitution"
+    },
+    {
+      "original": "",
+      "recognized": ".",
+      "count": 59,
+      "type": "insertion"
+    },
+    {
+      "original": "3",
+      "recognized": "",
+      "count": 59,
+      "type": "deletion"
+    },
+    {
+      "original": "o",
+      "recognized": " ",
+      "count": 59,
+      "type": "substitution"
+    }
+  ],
+  "best_documents": [
+    {
+      "filename": "82252956_2958",
+      "cer": 1.2188905547226387,
+      "wer": 1.4867256637168142,
+      "ocr_accuracy": -21.889055472263873,
+      "word_match_accuracy": 1,
+      "entity_count": 42
+    },
+    {
+      "filename": "86244113",
+      "cer": 1.9566115702479339,
+      "wer": 0.65,
+      "ocr_accuracy": -95.66115702479338,
+      "word_match_accuracy": 1,
+      "entity_count": 24
+    },
+    {
+      "filename": "87086073",
+      "cer": 0.9532967032967034,
+      "wer": 1.1607142857142858,
+      "ocr_accuracy": 4.670329670329664,
+      "word_match_accuracy": 1,
+      "entity_count": 28
+    },
+    {
+      "filename": "87594142_87594144",
+      "cer": 0.2884892086330935,
+      "wer": 0.36155606407322655,
+      "ocr_accuracy": 71.15107913669065,
+      "word_match_accuracy": 0.9953596287703016,
+      "entity_count": 71
+    },
+    {
+      "filename": "87147607",
+      "cer": 0.38984375,
+      "wer": 0.5294117647058824,
+      "ocr_accuracy": 61.01562499999999,
+      "word_match_accuracy": 0.995049504950495,
+      "entity_count": 43
+    }
+  ],
+  "worst_documents": [
+    {
+      "filename": "85629964",
+      "cer": 0.6544585987261147,
+      "wer": 0.7978723404255319,
+      "ocr_accuracy": 34.554140127388536,
+      "word_match_accuracy": 0.7021276595744681,
+      "entity_count": 38
+    },
+    {
+      "filename": "86328049_8050",
+      "cer": 0.6256637168141593,
+      "wer": 0.8442211055276382,
+      "ocr_accuracy": 37.43362831858407,
+      "word_match_accuracy": 0.7817258883248731,
+      "entity_count": 84
+    },
+    {
+      "filename": "86075409_5410",
+      "cer": 0.7742382271468145,
+      "wer": 0.896,
+      "ocr_accuracy": 22.576177285318554,
+      "word_match_accuracy": 0.7868852459016393,
+      "entity_count": 57
+    },
+    {
+      "filename": "83553333_3334",
+      "cer": 0.5215272136474411,
+      "wer": 0.7205882352941176,
+      "ocr_accuracy": 47.84727863525588,
+      "word_match_accuracy": 0.803030303030303,
+      "entity_count": 51
+    },
+    {
+      "filename": "82253245_3247",
+      "cer": 0.2907421576128539,
+      "wer": 0.5085470085470085,
+      "ocr_accuracy": 70.92578423871461,
+      "word_match_accuracy": 0.8706896551724138,
+      "entity_count": 70
+    }
+  ],
+  "entity_type_stats": {
+    "question": {
+      "total": 1077,
+      "avg_per_doc": 21.54
+    },
+    "answer": {
+      "total": 821,
+      "avg_per_doc": 16.42
+    },
+    "header": {
+      "total": 122,
+      "avg_per_doc": 2.44
+    },
+    "other": {
+      "total": 312,
+      "avg_per_doc": 6.24
+    }
+  },
+  "cdf_data": [
+    {
+      "cer": 0.14880201765447668,
+      "cumulative_pct": 2
+    },
+    {
+      "cer": 0.16428571428571428,
+      "cumulative_pct": 4
+    },
+    {
+      "cer": 0.16951672862453532,
+      "cumulative_pct": 6
+    },
+    {
+      "cer": 0.19387755102040816,
+      "cumulative_pct": 8
+    },
+    {
+      "cer": 0.21096096096096095,
+      "cumulative_pct": 10
+    },
+    {
+      "cer": 0.22272385252069224,
+      "cumulative_pct": 12
+    },
+    {
+      "cer": 0.24394319131161235,
+      "cumulative_pct": 14.000000000000002
+    },
+    {
+      "cer": 0.25225225225225223,
+      "cumulative_pct": 16
+    },
+    {
+      "cer": 0.2550231839258114,
+      "cumulative_pct": 18
+    },
+    {
+      "cer": 0.2708512467755804,
+      "cumulative_pct": 20
+    },
+    {
+      "cer": 0.2884892086330935,
+      "cumulative_pct": 22
+    },
+    {
+      "cer": 0.2885964912280702,
+      "cumulative_pct": 24
+    },
+    {
+      "cer": 0.2907421576128539,
+      "cumulative_pct": 26
+    },
+    {
+      "cer": 0.3441441441441441,
+      "cumulative_pct": 28.000000000000004
+    },
+    {
+      "cer": 0.3686382393397524,
+      "cumulative_pct": 30
+    },
+    {
+      "cer": 0.3693181818181818,
+      "cumulative_pct": 32
+    },
+    {
+      "cer": 0.3737980769230769,
+      "cumulative_pct": 34
+    },
+    {
+      "cer": 0.38984375,
+      "cumulative_pct": 36
+    },
+    {
+      "cer": 0.4027586206896552,
+      "cumulative_pct": 38
+    },
+    {
+      "cer": 0.4383561643835616,
+      "cumulative_pct": 40
+    },
+    {
+      "cer": 0.4479638009049774,
+      "cumulative_pct": 42
+    },
+    {
+      "cer": 0.45828144458281445,
+      "cumulative_pct": 44
+    },
+    {
+      "cer": 0.49742268041237114,
+      "cumulative_pct": 46
+    },
+    {
+      "cer": 0.5215272136474411,
+      "cumulative_pct": 48
+    },
+    {
+      "cer": 0.5329341317365269,
+      "cumulative_pct": 50
+    },
+    {
+      "cer": 0.5377358490566038,
+      "cumulative_pct": 52
+    },
+    {
+      "cer": 0.5473684210526316,
+      "cumulative_pct": 54
+    },
+    {
+      "cer": 0.547673531655225,
+      "cumulative_pct": 56.00000000000001
+    },
+    {
+      "cer": 0.5611650485436893,
+      "cumulative_pct": 57.99999999999999
+    },
+    {
+      "cer": 0.6044657097288676,
+      "cumulative_pct": 60
+    },
+    {
+      "cer": 0.6097804391217565,
+      "cumulative_pct": 62
+    },
+    {
+      "cer": 0.6256637168141593,
+      "cumulative_pct": 64
+    },
+    {
+      "cer": 0.6285370258880193,
+      "cumulative_pct": 66
+    },
+    {
+      "cer": 0.6544585987261147,
+      "cumulative_pct": 68
+    },
+    {
+      "cer": 0.6584527220630373,
+      "cumulative_pct": 70
+    },
+    {
+      "cer": 0.6724137931034483,
+      "cumulative_pct": 72
+    },
+    {
+      "cer": 0.678453947368421,
+      "cumulative_pct": 74
+    },
+    {
+      "cer": 0.7184684684684685,
+      "cumulative_pct": 76
+    },
+    {
+      "cer": 0.7253668763102725,
+      "cumulative_pct": 78
+    },
+    {
+      "cer": 0.7491197183098591,
+      "cumulative_pct": 80
+    },
+    {
+      "cer": 0.751412429378531,
+      "cumulative_pct": 82
+    },
+    {
+      "cer": 0.7633525061626951,
+      "cumulative_pct": 84
+    },
+    {
+      "cer": 0.7742382271468145,
+      "cumulative_pct": 86
+    },
+    {
+      "cer": 0.8039702233250621,
+      "cumulative_pct": 88
+    },
+    {
+      "cer": 0.9532967032967034,
+      "cumulative_pct": 90
+    },
+    {
+      "cer": 1.2188905547226387,
+      "cumulative_pct": 92
+    },
+    {
+      "cer": 1.2318840579710144,
+      "cumulative_pct": 94
+    },
+    {
+      "cer": 1.4428857715430863,
+      "cumulative_pct": 96
+    },
+    {
+      "cer": 1.9566115702479339,
+      "cumulative_pct": 98
+    },
+    {
+      "cer": 12.180904522613066,
+      "cumulative_pct": 100
+    }
+  ],
+  "scatter_data": [
+    {
+      "filename": "82092117",
+      "cer": 0.16951672862453532,
+      "wer": 0.29596412556053814,
+      "entity_count": 28,
+      "word_count": 223,
+      "char_count": 1345,
+      "duration_ms": 12330,
+      "ocr_accuracy": 83.04832713754647,
+      "word_match_accuracy": 0.9234234234234234
+    },
+    {
+      "filename": "82200067_0069",
+      "cer": 0.5329341317365269,
+      "wer": 0.6646706586826348,
+      "entity_count": 64,
+      "word_count": 167,
+      "char_count": 835,
+      "duration_ms": 8584,
+      "ocr_accuracy": 46.706586826347305,
+      "word_match_accuracy": 0.9072847682119205
+    },
+    {
+      "filename": "82250337_0338",
+      "cer": 0.21096096096096095,
+      "wer": 0.3691588785046729,
+      "entity_count": 36,
+      "word_count": 214,
+      "char_count": 1332,
+      "duration_ms": 8363,
+      "ocr_accuracy": 78.90390390390391,
+      "word_match_accuracy": 0.9481132075471698
+    },
+    {
+      "filename": "82251504",
+      "cer": 0.22272385252069224,
+      "wer": 0.4369369369369369,
+      "entity_count": 42,
+      "word_count": 222,
+      "char_count": 1329,
+      "duration_ms": 8741,
+      "ocr_accuracy": 77.72761474793077,
+      "word_match_accuracy": 0.9272727272727272
+    },
+    {
+      "filename": "82252956_2958",
+      "cer": 1.2188905547226387,
+      "wer": 1.4867256637168142,
+      "entity_count": 42,
+      "word_count": 113,
+      "char_count": 667,
+      "duration_ms": 9186,
+      "ocr_accuracy": -21.889055472263873,
+      "word_match_accuracy": 1
+    },
+    {
+      "filename": "82253058_3059",
+      "cer": 0.24394319131161235,
+      "wer": 0.3850267379679144,
+      "entity_count": 43,
+      "word_count": 187,
+      "char_count": 1197,
+      "duration_ms": 7257,
+      "ocr_accuracy": 75.60568086883876,
+      "word_match_accuracy": 0.9175824175824175
+    },
+    {
+      "filename": "82253245_3247",
+      "cer": 0.2907421576128539,
+      "wer": 0.5085470085470085,
+      "entity_count": 70,
+      "word_count": 234,
+      "char_count": 1307,
+      "duration_ms": 8354,
+      "ocr_accuracy": 70.92578423871461,
+      "word_match_accuracy": 0.8706896551724138
+    },
+    {
+      "filename": "82253362_3364",
+      "cer": 0.678453947368421,
+      "wer": 0.9210526315789473,
+      "entity_count": 105,
+      "word_count": 228,
+      "char_count": 1216,
+      "duration_ms": 8512,
+      "ocr_accuracy": 32.1546052631579,
+      "word_match_accuracy": 0.8773584905660378
+    },
+    {
+      "filename": "82254765",
+      "cer": 0.5377358490566038,
+      "wer": 0.7586206896551724,
+      "entity_count": 47,
+      "word_count": 116,
+      "char_count": 636,
+      "duration_ms": 6926,
+      "ocr_accuracy": 46.22641509433962,
+      "word_match_accuracy": 0.9304347826086956
+    },
+    {
+      "filename": "82491256",
+      "cer": 0.7253668763102725,
+      "wer": 0.9436619718309859,
+      "entity_count": 19,
+      "word_count": 71,
+      "char_count": 477,
+      "duration_ms": 5093,
+      "ocr_accuracy": 27.463312368972748,
+      "word_match_accuracy": 0.9565217391304348
+    },
+    {
+      "filename": "82504862",
+      "cer": 0.7184684684684685,
+      "wer": 1.0317460317460319,
+      "entity_count": 18,
+      "word_count": 63,
+      "char_count": 444,
+      "duration_ms": 5157,
+      "ocr_accuracy": 28.153153153153156,
+      "word_match_accuracy": 0.9682539682539683
+    },
+    {
+      "filename": "82562350",
+      "cer": 0.49742268041237114,
+      "wer": 0.6041666666666666,
+      "entity_count": 36,
+      "word_count": 192,
+      "char_count": 1164,
+      "duration_ms": 8969,
+      "ocr_accuracy": 50.25773195876289,
+      "word_match_accuracy": 0.9947916666666666
+    },
+    {
+      "filename": "82573104",
+      "cer": 0.45828144458281445,
+      "wer": 0.6888888888888889,
+      "entity_count": 17,
+      "word_count": 135,
+      "char_count": 803,
+      "duration_ms": 6803,
+      "ocr_accuracy": 54.17185554171855,
+      "word_match_accuracy": 0.9696969696969697
+    },
+    {
+      "filename": "82837252",
+      "cer": 1.2318840579710144,
+      "wer": 0.9107142857142857,
+      "entity_count": 24,
+      "word_count": 112,
+      "char_count": 621,
+      "duration_ms": 8231,
+      "ocr_accuracy": -23.188405797101442,
+      "word_match_accuracy": 0.990990990990991
+    },
+    {
+      "filename": "83443897",
+      "cer": 0.2708512467755804,
+      "wer": 0.38461538461538464,
+      "entity_count": 33,
+      "word_count": 195,
+      "char_count": 1163,
+      "duration_ms": 7519,
+      "ocr_accuracy": 72.91487532244196,
+      "word_match_accuracy": 0.9076923076923077
+    },
+    {
+      "filename": "83553333_3334",
+      "cer": 0.5215272136474411,
+      "wer": 0.7205882352941176,
+      "entity_count": 51,
+      "word_count": 204,
+      "char_count": 1231,
+      "duration_ms": 9062,
+      "ocr_accuracy": 47.84727863525588,
+      "word_match_accuracy": 0.803030303030303
+    },
+    {
+      "filename": "83573282",
+      "cer": 0.6584527220630373,
+      "wer": 0.8662207357859532,
+      "entity_count": 55,
+      "word_count": 299,
+      "char_count": 1745,
+      "duration_ms": 13667,
+      "ocr_accuracy": 34.154727793696274,
+      "word_match_accuracy": 0.9659863945578231
+    },
+    {
+      "filename": "83594639",
+      "cer": 0.3693181818181818,
+      "wer": 0.5172413793103449,
+      "entity_count": 21,
+      "word_count": 87,
+      "char_count": 528,
+      "duration_ms": 6443,
+      "ocr_accuracy": 63.06818181818181,
+      "word_match_accuracy": 0.9425287356321839
+    },
+    {
+      "filename": "83624198",
+      "cer": 0.2885964912280702,
+      "wer": 0.37894736842105264,
+      "entity_count": 36,
+      "word_count": 190,
+      "char_count": 1140,
+      "duration_ms": 7495,
+      "ocr_accuracy": 71.14035087719299,
+      "word_match_accuracy": 0.9105263157894737
+    },
+    {
+      "filename": "83635935",
+      "cer": 0.3737980769230769,
+      "wer": 0.6099290780141844,
+      "entity_count": 17,
+      "word_count": 141,
+      "char_count": 832,
+      "duration_ms": 8066,
+      "ocr_accuracy": 62.620192307692314,
+      "word_match_accuracy": 0.9424460431654677
+    },
+    {
+      "filename": "83641919_1921",
+      "cer": 0.7633525061626951,
+      "wer": 1.0382775119617225,
+      "entity_count": 103,
+      "word_count": 209,
+      "char_count": 1217,
+      "duration_ms": 10337,
+      "ocr_accuracy": 23.664749383730488,
+      "word_match_accuracy": 0.9902912621359223
+    },
+    {
+      "filename": "83772145",
+      "cer": 0.3686382393397524,
+      "wer": 0.5169491525423728,
+      "entity_count": 37,
+      "word_count": 236,
+      "char_count": 1454,
+      "duration_ms": 8592,
+      "ocr_accuracy": 63.13617606602475,
+      "word_match_accuracy": 0.9700854700854701
+    },
+    {
+      "filename": "83823750",
+      "cer": 0.6097804391217565,
+      "wer": 0.7177914110429447,
+      "entity_count": 34,
+      "word_count": 163,
+      "char_count": 1002,
+      "duration_ms": 8379,
+      "ocr_accuracy": 39.02195608782435,
+      "word_match_accuracy": 0.9259259259259259
+    },
+    {
+      "filename": "83996357",
+      "cer": 0.6044657097288676,
+      "wer": 0.8367346938775511,
+      "entity_count": 43,
+      "word_count": 98,
+      "char_count": 627,
+      "duration_ms": 6386,
+      "ocr_accuracy": 39.55342902711324,
+      "word_match_accuracy": 0.9285714285714286
+    },
+    {
+      "filename": "85201976",
+      "cer": 1.4428857715430863,
+      "wer": 0.55,
+      "entity_count": 24,
+      "word_count": 80,
+      "char_count": 499,
+      "duration_ms": 5770,
+      "ocr_accuracy": -44.288577154308626,
+      "word_match_accuracy": 0.9746835443037974
+    },
+    {
+      "filename": "85240939",
+      "cer": 0.16428571428571428,
+      "wer": 0.2792207792207792,
+      "entity_count": 25,
+      "word_count": 154,
+      "char_count": 980,
+      "duration_ms": 7418,
+      "ocr_accuracy": 83.57142857142857,
+      "word_match_accuracy": 0.961038961038961
+    },
+    {
+      "filename": "85540866",
+      "cer": 12.180904522613066,
+      "wer": 1.76,
+      "entity_count": 13,
+      "word_count": 25,
+      "char_count": 199,
+      "duration_ms": 5390,
+      "ocr_accuracy": -1118.0904522613066,
+      "word_match_accuracy": 0.92
+    },
+    {
+      "filename": "85629964",
+      "cer": 0.6544585987261147,
+      "wer": 0.7978723404255319,
+      "entity_count": 38,
+      "word_count": 94,
+      "char_count": 628,
+      "duration_ms": 6418,
+      "ocr_accuracy": 34.554140127388536,
+      "word_match_accuracy": 0.7021276595744681
+    },
+    {
+      "filename": "86075409_5410",
+      "cer": 0.7742382271468145,
+      "wer": 0.896,
+      "entity_count": 57,
+      "word_count": 125,
+      "char_count": 722,
+      "duration_ms": 7160,
+      "ocr_accuracy": 22.576177285318554,
+      "word_match_accuracy": 0.7868852459016393
+    },
+    {
+      "filename": "86079776_9777",
+      "cer": 0.547673531655225,
+      "wer": 0.5095238095238095,
+      "entity_count": 42,
+      "word_count": 210,
+      "char_count": 1311,
+      "duration_ms": 6890,
+      "ocr_accuracy": 45.2326468344775,
+      "word_match_accuracy": 0.9897959183673469
+    },
+    {
+      "filename": "86220490",
+      "cer": 0.4479638009049774,
+      "wer": 0.52,
+      "entity_count": 25,
+      "word_count": 75,
+      "char_count": 442,
+      "duration_ms": 4830,
+      "ocr_accuracy": 55.203619909502265,
+      "word_match_accuracy": 0.9565217391304348
+    },
+    {
+      "filename": "86230203_0206",
+      "cer": 0.8039702233250621,
+      "wer": 0.9416058394160584,
+      "entity_count": 76,
+      "word_count": 137,
+      "char_count": 806,
+      "duration_ms": 8248,
+      "ocr_accuracy": 19.602977667493793,
+      "word_match_accuracy": 0.9925373134328358
+    },
+    {
+      "filename": "86236474_6476",
+      "cer": 0.14880201765447668,
+      "wer": 0.2711864406779661,
+      "entity_count": 23,
+      "word_count": 118,
+      "char_count": 793,
+      "duration_ms": 5670,
+      "ocr_accuracy": 85.11979823455233,
+      "word_match_accuracy": 0.9829059829059829
+    },
+    {
+      "filename": "86244113",
+      "cer": 1.9566115702479339,
+      "wer": 0.65,
+      "entity_count": 24,
+      "word_count": 80,
+      "char_count": 484,
+      "duration_ms": 5696,
+      "ocr_accuracy": -95.66115702479338,
+      "word_match_accuracy": 1
+    },
+    {
+      "filename": "86263525",
+      "cer": 0.3441441441441441,
+      "wer": 0.4888888888888889,
+      "entity_count": 29,
+      "word_count": 90,
+      "char_count": 555,
+      "duration_ms": 5505,
+      "ocr_accuracy": 65.58558558558558,
+      "word_match_accuracy": 0.8735632183908046
+    },
+    {
+      "filename": "86328049_8050",
+      "cer": 0.6256637168141593,
+      "wer": 0.8442211055276382,
+      "entity_count": 84,
+      "word_count": 199,
+      "char_count": 1130,
+      "duration_ms": 7922,
+      "ocr_accuracy": 37.43362831858407,
+      "word_match_accuracy": 0.7817258883248731
+    },
+    {
+      "filename": "87086073",
+      "cer": 0.9532967032967034,
+      "wer": 1.1607142857142858,
+      "entity_count": 28,
+      "word_count": 56,
+      "char_count": 364,
+      "duration_ms": 5337,
+      "ocr_accuracy": 4.670329670329664,
+      "word_match_accuracy": 1
+    },
+    {
+      "filename": "87093315_87093318",
+      "cer": 0.7491197183098591,
+      "wer": 0.8608247422680413,
+      "entity_count": 103,
+      "word_count": 194,
+      "char_count": 1136,
+      "duration_ms": 9044,
+      "ocr_accuracy": 25.088028169014088,
+      "word_match_accuracy": 0.9047619047619048
+    },
+    {
+      "filename": "87125460",
+      "cer": 0.4383561643835616,
+      "wer": 0.4444444444444444,
+      "entity_count": 27,
+      "word_count": 72,
+      "char_count": 438,
+      "duration_ms": 5165,
+      "ocr_accuracy": 56.16438356164384,
+      "word_match_accuracy": 0.9444444444444444
+    },
+    {
+      "filename": "87137840",
+      "cer": 0.5611650485436893,
+      "wer": 0.631578947368421,
+      "entity_count": 38,
+      "word_count": 76,
+      "char_count": 515,
+      "duration_ms": 5793,
+      "ocr_accuracy": 43.883495145631066,
+      "word_match_accuracy": 0.9324324324324325
+    },
+    {
+      "filename": "87147607",
+      "cer": 0.38984375,
+      "wer": 0.5294117647058824,
+      "entity_count": 43,
+      "word_count": 204,
+      "char_count": 1280,
+      "duration_ms": 7894,
+      "ocr_accuracy": 61.01562499999999,
+      "word_match_accuracy": 0.995049504950495
+    },
+    {
+      "filename": "87332450",
+      "cer": 0.6724137931034483,
+      "wer": 0.55625,
+      "entity_count": 48,
+      "word_count": 160,
+      "char_count": 986,
+      "duration_ms": 7035,
+      "ocr_accuracy": 32.758620689655174,
+      "word_match_accuracy": 0.961038961038961
+    },
+    {
+      "filename": "87428306",
+      "cer": 0.25225225225225223,
+      "wer": 0.39037433155080214,
+      "entity_count": 36,
+      "word_count": 187,
+      "char_count": 1110,
+      "duration_ms": 7617,
+      "ocr_accuracy": 74.77477477477478,
+      "word_match_accuracy": 0.9775280898876404
+    },
+    {
+      "filename": "87528321",
+      "cer": 0.5473684210526316,
+      "wer": 0.6414141414141414,
+      "entity_count": 90,
+      "word_count": 198,
+      "char_count": 1235,
+      "duration_ms": 7788,
+      "ocr_accuracy": 45.263157894736835,
+      "word_match_accuracy": 0.9432989690721649
+    },
+    {
+      "filename": "87528380",
+      "cer": 0.751412429378531,
+      "wer": 1.002433090024331,
+      "entity_count": 108,
+      "word_count": 411,
+      "char_count": 2301,
+      "duration_ms": 14849,
+      "ocr_accuracy": 24.858757062146896,
+      "word_match_accuracy": 0.9155672823218998
+    },
+    {
+      "filename": "87594142_87594144",
+      "cer": 0.2884892086330935,
+      "wer": 0.36155606407322655,
+      "entity_count": 71,
+      "word_count": 437,
+      "char_count": 2780,
+      "duration_ms": 15017,
+      "ocr_accuracy": 71.15107913669065,
+      "word_match_accuracy": 0.9953596287703016
+    },
+    {
+      "filename": "89856243",
+      "cer": 0.2550231839258114,
+      "wer": 0.42765273311897106,
+      "entity_count": 54,
+      "word_count": 311,
+      "char_count": 1941,
+      "duration_ms": 9763,
+      "ocr_accuracy": 74.49768160741885,
+      "word_match_accuracy": 0.9836065573770492
+    },
+    {
+      "filename": "91814768_91814769",
+      "cer": 0.4027586206896552,
+      "wer": 0.4859550561797753,
+      "entity_count": 75,
+      "word_count": 356,
+      "char_count": 2175,
+      "duration_ms": 11197,
+      "ocr_accuracy": 59.724137931034484,
+      "word_match_accuracy": 0.9544159544159544
+    },
+    {
+      "filename": "92380595",
+      "cer": 0.6285370258880193,
+      "wer": 0.8740740740740741,
+      "entity_count": 83,
+      "word_count": 270,
+      "char_count": 1661,
+      "duration_ms": 13244,
+      "ocr_accuracy": 37.14629741119807,
+      "word_match_accuracy": 0.9657794676806084
+    },
+    {
+      "filename": "93106788",
+      "cer": 0.19387755102040816,
+      "wer": 0.2315112540192926,
+      "entity_count": 47,
+      "word_count": 311,
+      "char_count": 1960,
+      "duration_ms": 10510,
+      "ocr_accuracy": 80.61224489795919,
+      "word_match_accuracy": 0.9902597402597403
+    }
+  ],
+  "timestamp": "2026-03-08T10:20:55.880Z"
+}

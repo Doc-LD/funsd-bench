@@ -1,0 +1,56 @@
+{
+  "filename": "87428306.png",
+  "success": true,
+  "duration_ms": 7617,
+  "response": {
+    "data": {
+      "job_id": "8cf198cd-3cad-48a1-90de-0db35208c16c",
+      "duration": 4.936,
+      "usage": {
+        "num_pages": 1,
+        "credits": 1
+      },
+      "result": {
+        "type": "full",
+        "chunks": [
+          {
+            "content": "COMPOUND PHYSICAL PARAMETERS\n\nLOC FILE NUMBER  \nA221\n\nLOT NUMBER  \n(blank)\n\nPHYSICAL STATE  \nA crystalline solid at room temperature which melts at >56°C.\n\npH  \nThe pH of a 50% concentration of A221 in water was theoretically calculated to be 7.26 at 22°C from a 0.5% solution in 79.5% aqueous dioxane according to the extrapolation procedures of Dr. P. D. Schidantz, Lorillard Accession Number 1662. Reference 45-10-1.\n\nSPECIFIC GRAVITY  \nNot Determined.\n\nSOLUBILITY\n\nMUTAGENICITY SOLVENTS  \nA221 is soluble in EtOH at 0.2 g/mL, with stirring, at room temperature. Reference BC30-88.\n\nA221 forms a solution in corn oil at 0.5 g/0.5 mL, with stirring at room temperature. Reference BC30-88.\n\nORAL  \nA221 forms a solution in corn oil at 0.5 g/0.5 mL, with stirring at room temperature. Reference BC30-88.\n\nACUTE CARDIOVASCULAR  \nA221 is insoluble for this procedure. Reference BC30-88.\n\nSTORAGE RECOMMENDATIONS  \nRefrigerate in an amber glass bottle at no more than 8°C.\n\nCOMPOUND SENSITIVE TO  \n□ AIR   □ HEAT   □ MOISTURE   □ OTHER\n\nSAFETY COMMENTS (SUGGESTED HANDLING PROCEDURE)  \n(blank)\n\nSIGNATURE  \nElizabeth W. Crouse\n\nA - 13\n\nDATE  \nNovember 28, 1990\n\nLORILLARD RESEARCH CENTER\n\nFORM 9 (8/83)\n\n(Vertical text along right margin: 87428306)",
+            "blocks": [
+              {
+                "type": "Figure",
+                "content": "COMPOUND PHYSICAL PARAMETERS\n\nLOC FILE NUMBER  \nA221\n\nLOT NUMBER  \n(blank)\n\nPHYSICAL STATE  \nA crystalline solid at room temperature which melts at >56°C.\n\npH  \nThe pH of a 50% concentration of A221 in water was theoretically calculated to be 7.26 at 22°C from a 0.5% solution in 79.5% aqueous dioxane according to the extrapolation procedures of Dr. P. D. Schidantz, Lorillard Accession Number 1662. Reference 45-10-1.\n\nSPECIFIC GRAVITY  \nNot Determined.\n\nSOLUBILITY\n\nMUTAGENICITY SOLVENTS  \nA221 is soluble in EtOH at 0.2 g/mL, with stirring, at room temperature. Reference BC30-88.\n\nA221 forms a solution in corn oil at 0.5 g/0.5 mL, with stirring at room temperature. Reference BC30-88.\n\nORAL  \nA221 forms a solution in corn oil at 0.5 g/0.5 mL, with stirring at room temperature. Reference BC30-88.\n\nACUTE CARDIOVASCULAR  \nA221 is insoluble for this procedure. Reference BC30-88.\n\nSTORAGE RECOMMENDATIONS  \nRefrigerate in an amber glass bottle at no more than 8°C.\n\nCOMPOUND SENSITIVE TO  \n□ AIR   □ HEAT   □ MOISTURE   □ OTHER\n\nSAFETY COMMENTS (SUGGESTED HANDLING PROCEDURE)  \n(blank)\n\nSIGNATURE  \nElizabeth W. Crouse\n\nA - 13\n\nDATE  \nNovember 28, 1990\n\nLORILLARD RESEARCH CENTER\n\nFORM 9 (8/83)\n\n(Vertical text along right margin: 87428306)",
+                "bbox": {
+                  "page": 1,
+                  "left": 0,
+                  "top": 0,
+                  "width": 1,
+                  "height": 1
+                },
+                "confidence": "medium",
+                "metadata": {
+                  "description": "COMPOUND PHYSICAL PARAMETERS\n\nLOC FILE NUMBER  \nA221\n\nLOT NUMBER  \n(blank)\n\nPHYSICAL STATE  \nA crystalline solid at room temperature which melts at >56°C.\n\npH  \nThe pH of a 50% concentration of A221 in water was theoretically calculated to be 7.26 at 22°C from a 0.5% solution in 79.5% aqueous dioxane according to the extrapolation procedures of Dr. P. D. Schidantz, Lorillard Accession Number 1662. Reference 45-10-1.\n\nSPECIFIC GRAVITY  \nNot Determined.\n\nSOLUBILITY\n\nMUTAGENICITY SOLVENTS  \nA221 is soluble in EtOH at 0.2 g/mL, with stirring, at room temperature. Reference BC30-88.\n\nA221 forms a solution in corn oil at 0.5 g/0.5 mL, with stirring at room temperature. Reference BC30-88.\n\nORAL  \nA221 forms a solution in corn oil at 0.5 g/0.5 mL, with stirring at room temperature. Reference BC30-88.\n\nACUTE CARDIOVASCULAR  \nA221 is insoluble for this procedure. Reference BC30-88.\n\nSTORAGE RECOMMENDATIONS  \nRefrigerate in an amber glass bottle at no more than 8°C.\n\nCOMPOUND SENSITIVE TO  \n□ AIR   □ HEAT   □ MOISTURE   □ OTHER\n\nSAFETY COMMENTS (SUGGESTED HANDLING PROCEDURE)  \n(blank)\n\nSIGNATURE  \nElizabeth W. Crouse\n\nA - 13\n\nDATE  \nNovember 28, 1990\n\nLORILLARD RESEARCH CENTER\n\nFORM 9 (8/83)\n\n(Vertical text along right margin: 87428306)"
+                }
+              }
+            ],
+            "metadata": {
+              "pageRange": {
+                "start": 1,
+                "end": 1
+              },
+              "chunkIndex": 0
+            }
+          }
+        ]
+      },
+      "studio_link": "https://docld.com/documents/f636cf2a-46b3-471f-9ba9-6888b909eac3"
+    },
+    "meta": {
+      "timestamp": "2026-03-08T08:46:23.018Z",
+      "requestId": "404b2715-d751-447c-89f2-97a83dad4cb3",
+      "method": "POST",
+      "url": "https://docld.com/api/parse",
+      "duration": 5753
+    }
+  },
+  "extracted_text": ""
+}

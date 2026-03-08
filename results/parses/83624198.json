@@ -1,0 +1,56 @@
+{
+  "filename": "83624198.png",
+  "success": true,
+  "duration_ms": 7495,
+  "response": {
+    "data": {
+      "job_id": "bf8b4595-75ad-43aa-99d6-bd5410b3baea",
+      "duration": 5.134,
+      "usage": {
+        "num_pages": 1,
+        "credits": 1
+      },
+      "result": {
+        "type": "full",
+        "chunks": [
+          {
+            "content": "FEB 25 ’98 18:23 FR  \nTO 1[redacted]128557*?002# P.01\n\nFAX TRANSMISSION\n\n(Dickstein Shapiro Morin & Oshinsky LLP logo)\n\nDATE: February 25, 1998  \nCLIENT NO.: L8557.002  \nMESSAGE TO: Ronald S. Milstein  \nCOMPANY: Lorillard Tobacco Company  \nFAX NUMBER: 910/335-7707  \nPHONE: 910/335-7718  \n\nFROM: Andy Zausner  \nPHONE: 202/828-2259  \n\nPAGES (including Cover Sheet): 12  \nHARD COPY TO FOLLOW: ___ YES ___ NO  \n\nMESSAGE: See attached fax from the Committee on Commerce just received in my office. Call me to discuss.\n\nIf your receipt of this transmission is in error, please notify this firm immediately by collect call to our Facsimile Department at 202-861-9106, and send the original transmission to us by return mail at the address below.\n\nThis transmission is intended for the sole use of the individual and entity to whom it is addressed, and may contain information that is privileged, confidential and exempt from disclosure under applicable law. You are hereby notified that any dissemination, distribution or duplication of this transmission by someone other than the intended addressee or its designated agent is strictly prohibited.\n\n2101 L Street NW  Washington, DC 20037-1528  Tel 202-785-9700  Fax 202-887-0689\n\n83624198 (printed vertically along the right margin)",
+            "blocks": [
+              {
+                "type": "Figure",
+                "content": "FEB 25 ’98 18:23 FR  \nTO 1[redacted]128557*?002# P.01\n\nFAX TRANSMISSION\n\n(Dickstein Shapiro Morin & Oshinsky LLP logo)\n\nDATE: February 25, 1998  \nCLIENT NO.: L8557.002  \nMESSAGE TO: Ronald S. Milstein  \nCOMPANY: Lorillard Tobacco Company  \nFAX NUMBER: 910/335-7707  \nPHONE: 910/335-7718  \n\nFROM: Andy Zausner  \nPHONE: 202/828-2259  \n\nPAGES (including Cover Sheet): 12  \nHARD COPY TO FOLLOW: ___ YES ___ NO  \n\nMESSAGE: See attached fax from the Committee on Commerce just received in my office. Call me to discuss.\n\nIf your receipt of this transmission is in error, please notify this firm immediately by collect call to our Facsimile Department at 202-861-9106, and send the original transmission to us by return mail at the address below.\n\nThis transmission is intended for the sole use of the individual and entity to whom it is addressed, and may contain information that is privileged, confidential and exempt from disclosure under applicable law. You are hereby notified that any dissemination, distribution or duplication of this transmission by someone other than the intended addressee or its designated agent is strictly prohibited.\n\n2101 L Street NW  Washington, DC 20037-1528  Tel 202-785-9700  Fax 202-887-0689\n\n83624198 (printed vertically along the right margin)",
+                "bbox": {
+                  "page": 1,
+                  "left": 0,
+                  "top": 0,
+                  "width": 1,
+                  "height": 1
+                },
+                "confidence": "medium",
+                "metadata": {
+                  "description": "FEB 25 ’98 18:23 FR  \nTO 1[redacted]128557*?002# P.01\n\nFAX TRANSMISSION\n\n(Dickstein Shapiro Morin & Oshinsky LLP logo)\n\nDATE: February 25, 1998  \nCLIENT NO.: L8557.002  \nMESSAGE TO: Ronald S. Milstein  \nCOMPANY: Lorillard Tobacco Company  \nFAX NUMBER: 910/335-7707  \nPHONE: 910/335-7718  \n\nFROM: Andy Zausner  \nPHONE: 202/828-2259  \n\nPAGES (including Cover Sheet): 12  \nHARD COPY TO FOLLOW: ___ YES ___ NO  \n\nMESSAGE: See attached fax from the Committee on Commerce just received in my office. Call me to discuss.\n\nIf your receipt of this transmission is in error, please notify this firm immediately by collect call to our Facsimile Department at 202-861-9106, and send the original transmission to us by return mail at the address below.\n\nThis transmission is intended for the sole use of the individual and entity to whom it is addressed, and may contain information that is privileged, confidential and exempt from disclosure under applicable law. You are hereby notified that any dissemination, distribution or duplication of this transmission by someone other than the intended addressee or its designated agent is strictly prohibited.\n\n2101 L Street NW  Washington, DC 20037-1528  Tel 202-785-9700  Fax 202-887-0689\n\n83624198 (printed vertically along the right margin)"
+                }
+              }
+            ],
+            "metadata": {
+              "pageRange": {
+                "start": 1,
+                "end": 1
+              },
+              "chunkIndex": 0
+            }
+          }
+        ]
+      },
+      "studio_link": "https://docld.com/documents/ed7b8e3f-49c2-4556-90f9-62ce5617d6dc"
+    },
+    "meta": {
+      "timestamp": "2026-03-08T08:14:14.045Z",
+      "requestId": "3d2b724f-8e2b-405f-81af-3ccae2ae103a",
+      "method": "POST",
+      "url": "https://docld.com/api/parse",
+      "duration": 6013
+    }
+  },
+  "extracted_text": ""
+}

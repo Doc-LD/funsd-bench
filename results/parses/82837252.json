@@ -1,0 +1,56 @@
+{
+  "filename": "82837252.png",
+  "success": true,
+  "duration_ms": 8231,
+  "response": {
+    "data": {
+      "job_id": "428a6691-2b25-466d-8cc0-45ba8e71c53b",
+      "duration": 5.325,
+      "usage": {
+        "num_pages": 1,
+        "credits": 1
+      },
+      "result": {
+        "type": "full",
+        "chunks": [
+          {
+            "content": "Scanned black-and-white form titled **“NEW COMPETITIVE PRODUCTS”** (with a small circled mark at top right that looks like “Mkt”). The form contains typed entries and many blank lines.\n\nExtracted text (as shown):\n\n**NEW COMPETITIVE PRODUCTS**\n\n**REPORTED BY:** BOBBY MILLS, REGIONAL SALES MGR., INDIANAPOLIS, IN  \n**DATE:** 8/10/90   **TIME:** ________\n\n**SOURCE OF INFORMATION:** HALL RODECAP, NOBLESVILLE, IN\n\n**MANUFACTURER:** B & W\n\n**BRAND NAME:** VICEROY KING BOX AND VICEROY LIGHTS KING BOX\n\n**TYPE OF PRODUCT:** ______________________________\n\n**SIZE OR SIZES:** ______________________________\n\n**LIST PRICE:** ______________________________\n\n**EXTENT OF DISTRIBUTION:** ______________________________  \n______________________________________________\n\n**OTHER INFORMATION:** SEE ATTACHED INFORMATION SHEET  \n______________________________________________  \n______________________________________________  \n______________________________________________\n\n**cc:**  \nA. H. Tisch  \nR. H. Orcutt  \nM. A. Peterson  \nT. H. Mai  \nL. Gordon  \nJ. P. Mastandrea  \n\nG. Telford  \nF. J. Schultz  \nA. W. Spears  \nN. P. Ruffalo  \nT. L. Achey  \nP. J. McCann  \nA. J. Giacolo  \n\nJ. J. Tatulli  \nL. H. Kersh  \nJ. R. Slater  \nS. T. Jones  \nR. S. Goldbrenner  \nE. R. Harrow\n\nNumber printed vertically along the right edge: **82837252**.",
+            "blocks": [
+              {
+                "type": "Figure",
+                "content": "Scanned black-and-white form titled **“NEW COMPETITIVE PRODUCTS”** (with a small circled mark at top right that looks like “Mkt”). The form contains typed entries and many blank lines.\n\nExtracted text (as shown):\n\n**NEW COMPETITIVE PRODUCTS**\n\n**REPORTED BY:** BOBBY MILLS, REGIONAL SALES MGR., INDIANAPOLIS, IN  \n**DATE:** 8/10/90   **TIME:** ________\n\n**SOURCE OF INFORMATION:** HALL RODECAP, NOBLESVILLE, IN\n\n**MANUFACTURER:** B & W\n\n**BRAND NAME:** VICEROY KING BOX AND VICEROY LIGHTS KING BOX\n\n**TYPE OF PRODUCT:** ______________________________\n\n**SIZE OR SIZES:** ______________________________\n\n**LIST PRICE:** ______________________________\n\n**EXTENT OF DISTRIBUTION:** ______________________________  \n______________________________________________\n\n**OTHER INFORMATION:** SEE ATTACHED INFORMATION SHEET  \n______________________________________________  \n______________________________________________  \n______________________________________________\n\n**cc:**  \nA. H. Tisch  \nR. H. Orcutt  \nM. A. Peterson  \nT. H. Mai  \nL. Gordon  \nJ. P. Mastandrea  \n\nG. Telford  \nF. J. Schultz  \nA. W. Spears  \nN. P. Ruffalo  \nT. L. Achey  \nP. J. McCann  \nA. J. Giacolo  \n\nJ. J. Tatulli  \nL. H. Kersh  \nJ. R. Slater  \nS. T. Jones  \nR. S. Goldbrenner  \nE. R. Harrow\n\nNumber printed vertically along the right edge: **82837252**.",
+                "bbox": {
+                  "page": 1,
+                  "left": 0,
+                  "top": 0,
+                  "width": 1,
+                  "height": 1
+                },
+                "confidence": "medium",
+                "metadata": {
+                  "description": "Scanned black-and-white form titled **“NEW COMPETITIVE PRODUCTS”** (with a small circled mark at top right that looks like “Mkt”). The form contains typed entries and many blank lines.\n\nExtracted text (as shown):\n\n**NEW COMPETITIVE PRODUCTS**\n\n**REPORTED BY:** BOBBY MILLS, REGIONAL SALES MGR., INDIANAPOLIS, IN  \n**DATE:** 8/10/90   **TIME:** ________\n\n**SOURCE OF INFORMATION:** HALL RODECAP, NOBLESVILLE, IN\n\n**MANUFACTURER:** B & W\n\n**BRAND NAME:** VICEROY KING BOX AND VICEROY LIGHTS KING BOX\n\n**TYPE OF PRODUCT:** ______________________________\n\n**SIZE OR SIZES:** ______________________________\n\n**LIST PRICE:** ______________________________\n\n**EXTENT OF DISTRIBUTION:** ______________________________  \n______________________________________________\n\n**OTHER INFORMATION:** SEE ATTACHED INFORMATION SHEET  \n______________________________________________  \n______________________________________________  \n______________________________________________\n\n**cc:**  \nA. H. Tisch  \nR. H. Orcutt  \nM. A. Peterson  \nT. H. Mai  \nL. Gordon  \nJ. P. Mastandrea  \n\nG. Telford  \nF. J. Schultz  \nA. W. Spears  \nN. P. Ruffalo  \nT. L. Achey  \nP. J. McCann  \nA. J. Giacolo  \n\nJ. J. Tatulli  \nL. H. Kersh  \nJ. R. Slater  \nS. T. Jones  \nR. S. Goldbrenner  \nE. R. Harrow\n\nNumber printed vertically along the right edge: **82837252**."
+                }
+              }
+            ],
+            "metadata": {
+              "pageRange": {
+                "start": 1,
+                "end": 1
+              },
+              "chunkIndex": 0
+            }
+          }
+        ]
+      },
+      "studio_link": "https://docld.com/documents/5e01dfd1-dbcc-4c72-bba0-0ab3a91c189e"
+    },
+    "meta": {
+      "timestamp": "2026-03-08T08:07:05.478Z",
+      "requestId": "1a39af37-e831-46b9-9e8e-36ff2607bbe0",
+      "method": "POST",
+      "url": "https://docld.com/api/parse",
+      "duration": 6350
+    }
+  },
+  "extracted_text": ""
+}

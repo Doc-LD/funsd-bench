@@ -1,0 +1,56 @@
+{
+  "filename": "82252956_2958.png",
+  "success": true,
+  "duration_ms": 9186,
+  "response": {
+    "data": {
+      "job_id": "71fbab1a-8000-4811-ba1d-cdcab0f2a816",
+      "duration": 7.055,
+      "usage": {
+        "num_pages": 1,
+        "credits": 1
+      },
+      "result": {
+        "type": "full",
+        "chunks": [
+          {
+            "content": "A scanned form titled as a progress report.\n\n**Header fields:**\n- **TO:** K. A. Sparrow  \n- **FROM:** D. J. Landro  \n- **SUBMISSION DATE** (four date options with boxes):\n  - **MAY 12** [blank box]\n  - **AUG 4** [blank box]\n  - **JUN 23** [box marked with an “X”]\n  - **SEP 15** [blank box]\n- **SUBJECT:** OLD GOLD MENTHOL LIGHTS & ULTRA LIGHTS 100'S - PROGRESS REPORT\n\n**Section: GEOGRAPHY**\n- **REGION:** (blank)\n- Note: **(ONLY IF PARTIAL REGION CONTINUE WITH DIVISION(S) SCOPE)**\n- **DIVISION:**\n  - **DIVISION NAME:** Milw. South    **DIVISION NAME:** ________    **# REP:** 7\n  - **DIVISION NAME:** Milw. North    **DIVISION NAME:** ________    **# REP:** 7\n  - **DIVISION NAME:** ________       **DIVISION NAME:** ________    **# REPS:** ________\n\n**Section: DISTRIBUTION**\nText:\n- **DIRECT ACCOUNTS AND CHAINS HEADQUARTERED WITHIN THE REGION**\n- **(15 + STORES) STOCKING NO OLD GOLD MENTHOL LIGHTS OR ULTRA LIGHTS 100'S**\n\nA table with two mirrored halves. Column headers (left half and repeated on right half):\n- **NAME OF ACCOUNT | IND/LOR VOLUME | NO. OF STORES | NAME OF ACCOUNT | IND/LOR VOLUME | NO. OF STORES**\n\nFirst filled row (left half):\n- **Walgreen Drug | 144/14 | 93**\nRight half of the row is blank. Remaining rows are blank.\n\n**Footer/other markings:**\n- Bottom left: **OLDGOLD.XLS**\n- Bottom right: **Page1 of 3 Pages**\n- Right edge (vertical number): **82252956**",
+            "blocks": [
+              {
+                "type": "Figure",
+                "content": "A scanned form titled as a progress report.\n\n**Header fields:**\n- **TO:** K. A. Sparrow  \n- **FROM:** D. J. Landro  \n- **SUBMISSION DATE** (four date options with boxes):\n  - **MAY 12** [blank box]\n  - **AUG 4** [blank box]\n  - **JUN 23** [box marked with an “X”]\n  - **SEP 15** [blank box]\n- **SUBJECT:** OLD GOLD MENTHOL LIGHTS & ULTRA LIGHTS 100'S - PROGRESS REPORT\n\n**Section: GEOGRAPHY**\n- **REGION:** (blank)\n- Note: **(ONLY IF PARTIAL REGION CONTINUE WITH DIVISION(S) SCOPE)**\n- **DIVISION:**\n  - **DIVISION NAME:** Milw. South    **DIVISION NAME:** ________    **# REP:** 7\n  - **DIVISION NAME:** Milw. North    **DIVISION NAME:** ________    **# REP:** 7\n  - **DIVISION NAME:** ________       **DIVISION NAME:** ________    **# REPS:** ________\n\n**Section: DISTRIBUTION**\nText:\n- **DIRECT ACCOUNTS AND CHAINS HEADQUARTERED WITHIN THE REGION**\n- **(15 + STORES) STOCKING NO OLD GOLD MENTHOL LIGHTS OR ULTRA LIGHTS 100'S**\n\nA table with two mirrored halves. Column headers (left half and repeated on right half):\n- **NAME OF ACCOUNT | IND/LOR VOLUME | NO. OF STORES | NAME OF ACCOUNT | IND/LOR VOLUME | NO. OF STORES**\n\nFirst filled row (left half):\n- **Walgreen Drug | 144/14 | 93**\nRight half of the row is blank. Remaining rows are blank.\n\n**Footer/other markings:**\n- Bottom left: **OLDGOLD.XLS**\n- Bottom right: **Page1 of 3 Pages**\n- Right edge (vertical number): **82252956**",
+                "bbox": {
+                  "page": 1,
+                  "left": 0,
+                  "top": 0,
+                  "width": 1,
+                  "height": 1
+                },
+                "confidence": "medium",
+                "metadata": {
+                  "description": "A scanned form titled as a progress report.\n\n**Header fields:**\n- **TO:** K. A. Sparrow  \n- **FROM:** D. J. Landro  \n- **SUBMISSION DATE** (four date options with boxes):\n  - **MAY 12** [blank box]\n  - **AUG 4** [blank box]\n  - **JUN 23** [box marked with an “X”]\n  - **SEP 15** [blank box]\n- **SUBJECT:** OLD GOLD MENTHOL LIGHTS & ULTRA LIGHTS 100'S - PROGRESS REPORT\n\n**Section: GEOGRAPHY**\n- **REGION:** (blank)\n- Note: **(ONLY IF PARTIAL REGION CONTINUE WITH DIVISION(S) SCOPE)**\n- **DIVISION:**\n  - **DIVISION NAME:** Milw. South    **DIVISION NAME:** ________    **# REP:** 7\n  - **DIVISION NAME:** Milw. North    **DIVISION NAME:** ________    **# REP:** 7\n  - **DIVISION NAME:** ________       **DIVISION NAME:** ________    **# REPS:** ________\n\n**Section: DISTRIBUTION**\nText:\n- **DIRECT ACCOUNTS AND CHAINS HEADQUARTERED WITHIN THE REGION**\n- **(15 + STORES) STOCKING NO OLD GOLD MENTHOL LIGHTS OR ULTRA LIGHTS 100'S**\n\nA table with two mirrored halves. Column headers (left half and repeated on right half):\n- **NAME OF ACCOUNT | IND/LOR VOLUME | NO. OF STORES | NAME OF ACCOUNT | IND/LOR VOLUME | NO. OF STORES**\n\nFirst filled row (left half):\n- **Walgreen Drug | 144/14 | 93**\nRight half of the row is blank. Remaining rows are blank.\n\n**Footer/other markings:**\n- Bottom left: **OLDGOLD.XLS**\n- Bottom right: **Page1 of 3 Pages**\n- Right edge (vertical number): **82252956**"
+                }
+              }
+            ],
+            "metadata": {
+              "pageRange": {
+                "start": 1,
+                "end": 1
+              },
+              "chunkIndex": 0
+            }
+          }
+        ]
+      },
+      "studio_link": "https://docld.com/documents/09bcdddd-208c-42bc-8872-394cd77b1218"
+    },
+    "meta": {
+      "timestamp": "2026-03-08T07:57:29.727Z",
+      "requestId": "525d8369-82b7-4040-9237-24fababac45c",
+      "method": "POST",
+      "url": "https://docld.com/api/parse",
+      "duration": 7811
+    }
+  },
+  "extracted_text": ""
+}

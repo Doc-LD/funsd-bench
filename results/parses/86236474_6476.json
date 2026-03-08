@@ -1,0 +1,56 @@
+{
+  "filename": "86236474_6476.png",
+  "success": true,
+  "duration_ms": 5670,
+  "response": {
+    "data": {
+      "job_id": "0a6e177d-7cf0-4de6-8997-e35ecc9f6238",
+      "duration": 3.107,
+      "usage": {
+        "num_pages": 1,
+        "credits": 1
+      },
+      "result": {
+        "type": "full",
+        "chunks": [
+          {
+            "content": "TO: Mrs. K.A. Sparrow  \nFROM: R.G. Ryan  \n\nSUBMISSION DATE:  \nJUNE 7  X  \nAUG. 2  \nOCT. 7  \n\nNEWPORT LIGHTS HEAVY UP PROGRESS REPORT  \n\nEFFECTIVENESS OF DISTRIBUTION ALLOWANCE:  \n\nDIRECT ACCOUNT/WHOLESALERS:  \nDistribution allowance was very effective in accomplishing our objectives. All accounts have purchased introductory products.  \n\nDIRECT ACCOUNT CHAINS:  \nEagle Foods is the only Void.  \n\nNON—DIRECT ACCOUNT CHAINS:  \nReception from these accounts is most positive with a solid incentive to purchase.  \n\nEFFECTIVENESS OF THE  \nRETAIL (1.00 OFF CARTON)  \nDISTRIBUTION ALLOWANCE:  \nHas been most helpful in acquiring desirable distribution when needed by Sales Reps.  \n\nPROMOTIONAL ACTIVITY  \n\n40c OFF PACK –  \nGENERAL MARKET:  \nThe 40c off promotions continue to be well received at the retail stores and by consumers, as well.  \n\n86236474 (printed vertically along the right margin)",
+            "blocks": [
+              {
+                "type": "Figure",
+                "content": "TO: Mrs. K.A. Sparrow  \nFROM: R.G. Ryan  \n\nSUBMISSION DATE:  \nJUNE 7  X  \nAUG. 2  \nOCT. 7  \n\nNEWPORT LIGHTS HEAVY UP PROGRESS REPORT  \n\nEFFECTIVENESS OF DISTRIBUTION ALLOWANCE:  \n\nDIRECT ACCOUNT/WHOLESALERS:  \nDistribution allowance was very effective in accomplishing our objectives. All accounts have purchased introductory products.  \n\nDIRECT ACCOUNT CHAINS:  \nEagle Foods is the only Void.  \n\nNON—DIRECT ACCOUNT CHAINS:  \nReception from these accounts is most positive with a solid incentive to purchase.  \n\nEFFECTIVENESS OF THE  \nRETAIL (1.00 OFF CARTON)  \nDISTRIBUTION ALLOWANCE:  \nHas been most helpful in acquiring desirable distribution when needed by Sales Reps.  \n\nPROMOTIONAL ACTIVITY  \n\n40c OFF PACK –  \nGENERAL MARKET:  \nThe 40c off promotions continue to be well received at the retail stores and by consumers, as well.  \n\n86236474 (printed vertically along the right margin)",
+                "bbox": {
+                  "page": 1,
+                  "left": 0,
+                  "top": 0,
+                  "width": 1,
+                  "height": 1
+                },
+                "confidence": "medium",
+                "metadata": {
+                  "description": "TO: Mrs. K.A. Sparrow  \nFROM: R.G. Ryan  \n\nSUBMISSION DATE:  \nJUNE 7  X  \nAUG. 2  \nOCT. 7  \n\nNEWPORT LIGHTS HEAVY UP PROGRESS REPORT  \n\nEFFECTIVENESS OF DISTRIBUTION ALLOWANCE:  \n\nDIRECT ACCOUNT/WHOLESALERS:  \nDistribution allowance was very effective in accomplishing our objectives. All accounts have purchased introductory products.  \n\nDIRECT ACCOUNT CHAINS:  \nEagle Foods is the only Void.  \n\nNON—DIRECT ACCOUNT CHAINS:  \nReception from these accounts is most positive with a solid incentive to purchase.  \n\nEFFECTIVENESS OF THE  \nRETAIL (1.00 OFF CARTON)  \nDISTRIBUTION ALLOWANCE:  \nHas been most helpful in acquiring desirable distribution when needed by Sales Reps.  \n\nPROMOTIONAL ACTIVITY  \n\n40c OFF PACK –  \nGENERAL MARKET:  \nThe 40c off promotions continue to be well received at the retail stores and by consumers, as well.  \n\n86236474 (printed vertically along the right margin)"
+                }
+              }
+            ],
+            "metadata": {
+              "pageRange": {
+                "start": 1,
+                "end": 1
+              },
+              "chunkIndex": 0
+            }
+          }
+        ]
+      },
+      "studio_link": "https://docld.com/documents/ed2c52e9-c581-4985-aa29-fa8266316b07"
+    },
+    "meta": {
+      "timestamp": "2026-03-08T08:33:49.356Z",
+      "requestId": "e0aa68bc-58b5-4920-81a9-a0a8319c2099",
+      "method": "POST",
+      "url": "https://docld.com/api/parse",
+      "duration": 4100
+    }
+  },
+  "extracted_text": ""
+}

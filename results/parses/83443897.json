@@ -1,0 +1,56 @@
+{
+  "filename": "83443897.png",
+  "success": true,
+  "duration_ms": 7519,
+  "response": {
+    "data": {
+      "job_id": "1fc92cd2-1a0e-4723-911f-4320f3b955b4",
+      "duration": 5.165,
+      "usage": {
+        "num_pages": 1,
+        "credits": 1
+      },
+      "result": {
+        "type": "full",
+        "chunks": [
+          {
+            "content": "JAN 11 ’99 16:29 FR 8220                         TO 3212#128557#002# P.01\n\nFAX TRANSMISSION\n\nDATE: January 11, 1999  \nCLIENT NO.: L8557.002  \nMESSAGE TO: Dewey Tedder  \nCOMPANY: Lorillard Tobacco Company  \nFAX NUMBER: 336/373-6917  \nPHONE: 336/373-6750  \n\nFROM: Andy Zausner and Rob Mangas  \nPHONE: 202/828-2259 and 202/828-2241  \n\nPAGES (Including Cover Sheet): 2  \nHARD COPY TO FOLLOW: ____ YES   _X_ NO  \n\nMESSAGE: The following is for your review.\n\nJAN 12 1999\n\nIf your receipt of this transmission is in error, please notify this firm immediately by collect call to our Facsimile Department at 202-861-9106, and send the original transmission to us by return mail at the address below.\n\nThis transmission is intended for the sole use of the individual and entity to whom it is addressed, and may contain information that is privileged, confidential and exempt from disclosure under applicable law. You are hereby notified that any dissemination, distribution or duplication of this transmission by someone other than the intended addressee or its designated agent is strictly prohibited.\n\nDICKSTEIN SHAPIRO MORIN & OSHINSKY LLP\n\n2160 L Street NW   Washington, DC 20037-1526   Tel 202-785-9700   Fax 202-887-0689\n\n83443897",
+            "blocks": [
+              {
+                "type": "Figure",
+                "content": "JAN 11 ’99 16:29 FR 8220                         TO 3212#128557#002# P.01\n\nFAX TRANSMISSION\n\nDATE: January 11, 1999  \nCLIENT NO.: L8557.002  \nMESSAGE TO: Dewey Tedder  \nCOMPANY: Lorillard Tobacco Company  \nFAX NUMBER: 336/373-6917  \nPHONE: 336/373-6750  \n\nFROM: Andy Zausner and Rob Mangas  \nPHONE: 202/828-2259 and 202/828-2241  \n\nPAGES (Including Cover Sheet): 2  \nHARD COPY TO FOLLOW: ____ YES   _X_ NO  \n\nMESSAGE: The following is for your review.\n\nJAN 12 1999\n\nIf your receipt of this transmission is in error, please notify this firm immediately by collect call to our Facsimile Department at 202-861-9106, and send the original transmission to us by return mail at the address below.\n\nThis transmission is intended for the sole use of the individual and entity to whom it is addressed, and may contain information that is privileged, confidential and exempt from disclosure under applicable law. You are hereby notified that any dissemination, distribution or duplication of this transmission by someone other than the intended addressee or its designated agent is strictly prohibited.\n\nDICKSTEIN SHAPIRO MORIN & OSHINSKY LLP\n\n2160 L Street NW   Washington, DC 20037-1526   Tel 202-785-9700   Fax 202-887-0689\n\n83443897",
+                "bbox": {
+                  "page": 1,
+                  "left": 0,
+                  "top": 0,
+                  "width": 1,
+                  "height": 1
+                },
+                "confidence": "medium",
+                "metadata": {
+                  "description": "JAN 11 ’99 16:29 FR 8220                         TO 3212#128557#002# P.01\n\nFAX TRANSMISSION\n\nDATE: January 11, 1999  \nCLIENT NO.: L8557.002  \nMESSAGE TO: Dewey Tedder  \nCOMPANY: Lorillard Tobacco Company  \nFAX NUMBER: 336/373-6917  \nPHONE: 336/373-6750  \n\nFROM: Andy Zausner and Rob Mangas  \nPHONE: 202/828-2259 and 202/828-2241  \n\nPAGES (Including Cover Sheet): 2  \nHARD COPY TO FOLLOW: ____ YES   _X_ NO  \n\nMESSAGE: The following is for your review.\n\nJAN 12 1999\n\nIf your receipt of this transmission is in error, please notify this firm immediately by collect call to our Facsimile Department at 202-861-9106, and send the original transmission to us by return mail at the address below.\n\nThis transmission is intended for the sole use of the individual and entity to whom it is addressed, and may contain information that is privileged, confidential and exempt from disclosure under applicable law. You are hereby notified that any dissemination, distribution or duplication of this transmission by someone other than the intended addressee or its designated agent is strictly prohibited.\n\nDICKSTEIN SHAPIRO MORIN & OSHINSKY LLP\n\n2160 L Street NW   Washington, DC 20037-1526   Tel 202-785-9700   Fax 202-887-0689\n\n83443897"
+                }
+              }
+            ],
+            "metadata": {
+              "pageRange": {
+                "start": 1,
+                "end": 1
+              },
+              "chunkIndex": 0
+            }
+          }
+        ]
+      },
+      "studio_link": "https://docld.com/documents/f1ba391f-925e-4759-b605-ebf166b95eb0"
+    },
+    "meta": {
+      "timestamp": "2026-03-08T08:08:30.085Z",
+      "requestId": "a1c9b95d-c1eb-4204-b1e8-3b5e3606f03e",
+      "method": "POST",
+      "url": "https://docld.com/api/parse",
+      "duration": 6059
+    }
+  },
+  "extracted_text": ""
+}

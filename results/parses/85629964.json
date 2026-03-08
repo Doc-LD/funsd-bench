@@ -1,0 +1,56 @@
+{
+  "filename": "85629964.png",
+  "success": true,
+  "duration_ms": 6418,
+  "response": {
+    "data": {
+      "job_id": "cb11a102-ed68-4767-b9b5-3129fdfc3b07",
+      "duration": 3.985,
+      "usage": {
+        "num_pages": 1,
+        "credits": 1
+      },
+      "result": {
+        "type": "full",
+        "chunks": [
+          {
+            "content": "CIGARETTE REPORT FORM\n\nYEAR:__________                                   NO. PER PACK:__________\n\nBRAND NAME:____________________________\n\nVAR. DESC:____________________________                         (SEE EXPLANATION)\n\nVARIETY UNIT SALES:__________     VARIETY DOLLAR SALES:__________\n\nCIG. LENGTH:__________     FILTER LENGTH:__________\n\nFILTER TYPE:___   FLAVORING:___   OVERWRAP:___   PACK TYPE:___\n\n1ST MANUFACT. DATE:___   1ST SALES DATE:___   LAST SOLD DATE:___\n\nYEARLY SUMMARY:\n\nTAR:__________     NICOTINE:__________     CARBON MONO:___\n\n\nADVERTISING EXPENDITURES (SEE EXPLANATION)\n\nCAT-A-EXPENSES:_____     CAT-B-EXPENSES:_____     CAT-C-EXPENSES:_____\n\nCAT-D-EXPENSES:_____     CAT-E-EXPENSES:_____     CAT-F-EXPENSES:_____\n\nCAT-G-EXPENSES:_____     CAT-H-EXPENSES:_____     CAT-I-EXPENSES:_____\n\nCAT-J-EXPENSES:_____     CAT-K-EXPENSES:_____     CAT-L-EXPENSES:_____\n\nCAT-M-EXPENSES:_____     CAT-N-EXPENSES:_____\n\nTOTAL ADVERTISING EXPENDITURES:______________\n\n85633964",
+            "blocks": [
+              {
+                "type": "Figure",
+                "content": "CIGARETTE REPORT FORM\n\nYEAR:__________                                   NO. PER PACK:__________\n\nBRAND NAME:____________________________\n\nVAR. DESC:____________________________                         (SEE EXPLANATION)\n\nVARIETY UNIT SALES:__________     VARIETY DOLLAR SALES:__________\n\nCIG. LENGTH:__________     FILTER LENGTH:__________\n\nFILTER TYPE:___   FLAVORING:___   OVERWRAP:___   PACK TYPE:___\n\n1ST MANUFACT. DATE:___   1ST SALES DATE:___   LAST SOLD DATE:___\n\nYEARLY SUMMARY:\n\nTAR:__________     NICOTINE:__________     CARBON MONO:___\n\n\nADVERTISING EXPENDITURES (SEE EXPLANATION)\n\nCAT-A-EXPENSES:_____     CAT-B-EXPENSES:_____     CAT-C-EXPENSES:_____\n\nCAT-D-EXPENSES:_____     CAT-E-EXPENSES:_____     CAT-F-EXPENSES:_____\n\nCAT-G-EXPENSES:_____     CAT-H-EXPENSES:_____     CAT-I-EXPENSES:_____\n\nCAT-J-EXPENSES:_____     CAT-K-EXPENSES:_____     CAT-L-EXPENSES:_____\n\nCAT-M-EXPENSES:_____     CAT-N-EXPENSES:_____\n\nTOTAL ADVERTISING EXPENDITURES:______________\n\n85633964",
+                "bbox": {
+                  "page": 1,
+                  "left": 0,
+                  "top": 0,
+                  "width": 1,
+                  "height": 1
+                },
+                "confidence": "medium",
+                "metadata": {
+                  "description": "CIGARETTE REPORT FORM\n\nYEAR:__________                                   NO. PER PACK:__________\n\nBRAND NAME:____________________________\n\nVAR. DESC:____________________________                         (SEE EXPLANATION)\n\nVARIETY UNIT SALES:__________     VARIETY DOLLAR SALES:__________\n\nCIG. LENGTH:__________     FILTER LENGTH:__________\n\nFILTER TYPE:___   FLAVORING:___   OVERWRAP:___   PACK TYPE:___\n\n1ST MANUFACT. DATE:___   1ST SALES DATE:___   LAST SOLD DATE:___\n\nYEARLY SUMMARY:\n\nTAR:__________     NICOTINE:__________     CARBON MONO:___\n\n\nADVERTISING EXPENDITURES (SEE EXPLANATION)\n\nCAT-A-EXPENSES:_____     CAT-B-EXPENSES:_____     CAT-C-EXPENSES:_____\n\nCAT-D-EXPENSES:_____     CAT-E-EXPENSES:_____     CAT-F-EXPENSES:_____\n\nCAT-G-EXPENSES:_____     CAT-H-EXPENSES:_____     CAT-I-EXPENSES:_____\n\nCAT-J-EXPENSES:_____     CAT-K-EXPENSES:_____     CAT-L-EXPENSES:_____\n\nCAT-M-EXPENSES:_____     CAT-N-EXPENSES:_____\n\nTOTAL ADVERTISING EXPENDITURES:______________\n\n85633964"
+                }
+              }
+            ],
+            "metadata": {
+              "pageRange": {
+                "start": 1,
+                "end": 1
+              },
+              "chunkIndex": 0
+            }
+          }
+        ]
+      },
+      "studio_link": "https://docld.com/documents/048c3d31-907c-4d3a-9770-6386132f462c"
+    },
+    "meta": {
+      "timestamp": "2026-03-08T08:26:53.429Z",
+      "requestId": "b5eda9eb-cac7-4c7d-a7a1-4e84c6296355",
+      "method": "POST",
+      "url": "https://docld.com/api/parse",
+      "duration": 4882
+    }
+  },
+  "extracted_text": ""
+}

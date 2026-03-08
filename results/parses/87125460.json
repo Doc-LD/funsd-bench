@@ -1,0 +1,56 @@
+{
+  "filename": "87125460.png",
+  "success": true,
+  "duration_ms": 5165,
+  "response": {
+    "data": {
+      "job_id": "08b76df0-7c57-473d-b9cd-e0de6370d260",
+      "duration": 3.011,
+      "usage": {
+        "num_pages": 1,
+        "credits": 1
+      },
+      "result": {
+        "type": "full",
+        "chunks": [
+          {
+            "content": "FINAL REPORT AMENDMENT\n\nSTUDY NAME Induction of Hepatic Enzymes in Rats (B202)\n\nSTUDY NUMBER I-7016.401\n\nINITIATION DATE October 27, 1986    DATE OF FINAL REPORT February 26, 1987\n\nPART OF FINAL REPORT TO BE AMENDED (EXACT LOCATION)\nPage 14 and Table 4\n\nREASON FOR THE AMENDMENT\nRequest from sponsor\n\nAMENDMENT (Attach additional sheets as necessary)\nsee attached\n\nAPPROVALS\nDATE 8/7/87 — STUDY DIRECTOR (signature)\n\nDATE 08/14/87 — QUALITY ASSURANCE (signature)\n\nStamp (top right): RECEIVED AUG 2, 1987\n\nVertical number (right side): 87125460",
+            "blocks": [
+              {
+                "type": "Figure",
+                "content": "FINAL REPORT AMENDMENT\n\nSTUDY NAME Induction of Hepatic Enzymes in Rats (B202)\n\nSTUDY NUMBER I-7016.401\n\nINITIATION DATE October 27, 1986    DATE OF FINAL REPORT February 26, 1987\n\nPART OF FINAL REPORT TO BE AMENDED (EXACT LOCATION)\nPage 14 and Table 4\n\nREASON FOR THE AMENDMENT\nRequest from sponsor\n\nAMENDMENT (Attach additional sheets as necessary)\nsee attached\n\nAPPROVALS\nDATE 8/7/87 — STUDY DIRECTOR (signature)\n\nDATE 08/14/87 — QUALITY ASSURANCE (signature)\n\nStamp (top right): RECEIVED AUG 2, 1987\n\nVertical number (right side): 87125460",
+                "bbox": {
+                  "page": 1,
+                  "left": 0,
+                  "top": 0,
+                  "width": 1,
+                  "height": 1
+                },
+                "confidence": "medium",
+                "metadata": {
+                  "description": "FINAL REPORT AMENDMENT\n\nSTUDY NAME Induction of Hepatic Enzymes in Rats (B202)\n\nSTUDY NUMBER I-7016.401\n\nINITIATION DATE October 27, 1986    DATE OF FINAL REPORT February 26, 1987\n\nPART OF FINAL REPORT TO BE AMENDED (EXACT LOCATION)\nPage 14 and Table 4\n\nREASON FOR THE AMENDMENT\nRequest from sponsor\n\nAMENDMENT (Attach additional sheets as necessary)\nsee attached\n\nAPPROVALS\nDATE 8/7/87 — STUDY DIRECTOR (signature)\n\nDATE 08/14/87 — QUALITY ASSURANCE (signature)\n\nStamp (top right): RECEIVED AUG 2, 1987\n\nVertical number (right side): 87125460"
+                }
+              }
+            ],
+            "metadata": {
+              "pageRange": {
+                "start": 1,
+                "end": 1
+              },
+              "chunkIndex": 0
+            }
+          }
+        ]
+      },
+      "studio_link": "https://docld.com/documents/8a0dcc3c-2736-4a5c-bd13-bc386fa79d83"
+    },
+    "meta": {
+      "timestamp": "2026-03-08T08:40:46.237Z",
+      "requestId": "11fb37b8-b025-4754-9394-ded3f8472582",
+      "method": "POST",
+      "url": "https://docld.com/api/parse",
+      "duration": 3883
+    }
+  },
+  "extracted_text": ""
+}

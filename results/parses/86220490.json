@@ -1,0 +1,56 @@
+{
+  "filename": "86220490.png",
+  "success": true,
+  "duration_ms": 4830,
+  "response": {
+    "data": {
+      "job_id": "a361997b-d870-473c-9006-77fd9ddf132a",
+      "duration": 2.301,
+      "usage": {
+        "num_pages": 1,
+        "credits": 1
+      },
+      "result": {
+        "type": "full",
+        "chunks": [
+          {
+            "content": "LORILLARD TOBACCO COMPANY  \nMarket Planning and Information Department\n\nTo: Mike Mozina  \nFirm: MSA  \nFAX #: Autodial\n\nFrom: Susan Smith  \nFAX #: 335-7733  \nPhone #: 335-7150\n\nDate: 8/31/98  \n# Pages: 3 (including this cover page)\n\nMike,\n\nAs promised, here are:\n\n-- Approval for AWS Quarterly Store Count Database to begin 3rd Quarter 1998\n\n-- Table showing significant jump in Convenience Store market importance  \n   in 2nd Quarter 1998\n\nTalk to you soon!  Sue\n\n(Vertical number along right margin: 86220470)",
+            "blocks": [
+              {
+                "type": "Figure",
+                "content": "LORILLARD TOBACCO COMPANY  \nMarket Planning and Information Department\n\nTo: Mike Mozina  \nFirm: MSA  \nFAX #: Autodial\n\nFrom: Susan Smith  \nFAX #: 335-7733  \nPhone #: 335-7150\n\nDate: 8/31/98  \n# Pages: 3 (including this cover page)\n\nMike,\n\nAs promised, here are:\n\n-- Approval for AWS Quarterly Store Count Database to begin 3rd Quarter 1998\n\n-- Table showing significant jump in Convenience Store market importance  \n   in 2nd Quarter 1998\n\nTalk to you soon!  Sue\n\n(Vertical number along right margin: 86220470)",
+                "bbox": {
+                  "page": 1,
+                  "left": 0,
+                  "top": 0,
+                  "width": 1,
+                  "height": 1
+                },
+                "confidence": "medium",
+                "metadata": {
+                  "description": "LORILLARD TOBACCO COMPANY  \nMarket Planning and Information Department\n\nTo: Mike Mozina  \nFirm: MSA  \nFAX #: Autodial\n\nFrom: Susan Smith  \nFAX #: 335-7733  \nPhone #: 335-7150\n\nDate: 8/31/98  \n# Pages: 3 (including this cover page)\n\nMike,\n\nAs promised, here are:\n\n-- Approval for AWS Quarterly Store Count Database to begin 3rd Quarter 1998\n\n-- Table showing significant jump in Convenience Store market importance  \n   in 2nd Quarter 1998\n\nTalk to you soon!  Sue\n\n(Vertical number along right margin: 86220470)"
+                }
+              }
+            ],
+            "metadata": {
+              "pageRange": {
+                "start": 1,
+                "end": 1
+              },
+              "chunkIndex": 0
+            }
+          }
+        ]
+      },
+      "studio_link": "https://docld.com/documents/0a568227-bce0-4df9-953c-bee61a2d5454"
+    },
+    "meta": {
+      "timestamp": "2026-03-08T08:31:01.900Z",
+      "requestId": "47377003-3b19-4b82-bce8-3f1767507700",
+      "method": "POST",
+      "url": "https://docld.com/api/parse",
+      "duration": 3081
+    }
+  },
+  "extracted_text": ""
+}

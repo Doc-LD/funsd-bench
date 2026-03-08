@@ -1,0 +1,56 @@
+{
+  "filename": "82491256.png",
+  "success": true,
+  "duration_ms": 5093,
+  "response": {
+    "data": {
+      "job_id": "478b6bd0-b3d1-4caa-ac91-131eda32885f",
+      "duration": 2.965,
+      "usage": {
+        "num_pages": 1,
+        "credits": 1
+      },
+      "result": {
+        "type": "full",
+        "chunks": [
+          {
+            "content": "CASE FORM\n\nCASE NAME: Wanda G. Robinson and Carroll Robinson v. Raybestos-Manhattan, et al.\n\nCOURT: San Francisco Superior Court - No. 996378\n\nLORILLARD ENTITIES: Lorillard Tobacco Company\n\nDATE FILED: July 23, 1998\n\nDATE SERVED: August 3, 1998\n\nCASE TYPE: Asbestos\n\nPLAINTIFF'S COUNSEL: Wartnick, Chaber, Harowitz, Smith& Tigerman  \nMadelyn J. Chaber  \n101 California Street, Suite 2200  \nSan Francisco, California 94111  \n415/986-5566\n\nLORILLARD COUNSEL:\n\nJUDGE:\n\nTRIAL DATE:\n\n(Vertical numbers at lower right margin)  \n94674999  \n82491256",
+            "blocks": [
+              {
+                "type": "Figure",
+                "content": "CASE FORM\n\nCASE NAME: Wanda G. Robinson and Carroll Robinson v. Raybestos-Manhattan, et al.\n\nCOURT: San Francisco Superior Court - No. 996378\n\nLORILLARD ENTITIES: Lorillard Tobacco Company\n\nDATE FILED: July 23, 1998\n\nDATE SERVED: August 3, 1998\n\nCASE TYPE: Asbestos\n\nPLAINTIFF'S COUNSEL: Wartnick, Chaber, Harowitz, Smith& Tigerman  \nMadelyn J. Chaber  \n101 California Street, Suite 2200  \nSan Francisco, California 94111  \n415/986-5566\n\nLORILLARD COUNSEL:\n\nJUDGE:\n\nTRIAL DATE:\n\n(Vertical numbers at lower right margin)  \n94674999  \n82491256",
+                "bbox": {
+                  "page": 1,
+                  "left": 0,
+                  "top": 0,
+                  "width": 1,
+                  "height": 1
+                },
+                "confidence": "medium",
+                "metadata": {
+                  "description": "CASE FORM\n\nCASE NAME: Wanda G. Robinson and Carroll Robinson v. Raybestos-Manhattan, et al.\n\nCOURT: San Francisco Superior Court - No. 996378\n\nLORILLARD ENTITIES: Lorillard Tobacco Company\n\nDATE FILED: July 23, 1998\n\nDATE SERVED: August 3, 1998\n\nCASE TYPE: Asbestos\n\nPLAINTIFF'S COUNSEL: Wartnick, Chaber, Harowitz, Smith& Tigerman  \nMadelyn J. Chaber  \n101 California Street, Suite 2200  \nSan Francisco, California 94111  \n415/986-5566\n\nLORILLARD COUNSEL:\n\nJUDGE:\n\nTRIAL DATE:\n\n(Vertical numbers at lower right margin)  \n94674999  \n82491256"
+                }
+              }
+            ],
+            "metadata": {
+              "pageRange": {
+                "start": 1,
+                "end": 1
+              },
+              "chunkIndex": 0
+            }
+          }
+        ]
+      },
+      "studio_link": "https://docld.com/documents/67dba3db-4071-45d5-951f-b984b973b324"
+    },
+    "meta": {
+      "timestamp": "2026-03-08T08:01:29.853Z",
+      "requestId": "a6aa4d11-f82c-45d5-a3e8-760ecaad83ac",
+      "method": "POST",
+      "url": "https://docld.com/api/parse",
+      "duration": 3931
+    }
+  },
+  "extracted_text": ""
+}

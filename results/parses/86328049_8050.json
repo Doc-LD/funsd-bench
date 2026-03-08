@@ -1,0 +1,56 @@
+{
+  "filename": "86328049_8050.png",
+  "success": true,
+  "duration_ms": 7922,
+  "response": {
+    "data": {
+      "job_id": "d0bc7bbc-4e50-4e66-ae2c-c85983cf894a",
+      "duration": 5.459,
+      "usage": {
+        "num_pages": 1,
+        "credits": 1
+      },
+      "result": {
+        "type": "full",
+        "chunks": [
+          {
+            "content": "Feb-24-99 10:53  From-HUNTON WILLI…  1426  T-122  P.01/04  F-066\n\nTELECOPY INFORMATION\n\nHUNTON & WILLIAMS:\nRiverfront Plaza  \n951 East Byrd Street  \nRichmond, Virginia 23219-4074  \n(804)788-8200  \n2nd Floor Telecopier\n\nTelecopier Nos.  \n(804)788-8218  \n(804)788-8219  \n(804)788-8669\n\nTO:\nName: Ken Forrest  \nFAX NO.: 212-403-2211\n\nName: Tom Frederick  \nFAX NO.: 312-558-5700\n\nName: Tom Griffin  \nFAX NO.: 617-523-1231\n\nName: Even Hurwitz  \nFAX NO.: 202-942-5998\n\nName: Barry Levin/Curt Caton  \nFAX NO.: 415-772-6268\n\nName: Barbara Robbins  \nFAX NO.: 212-403-2033\n\nName: Greg Stone/Ron Olson  \nFAX NO.: 213-687-3702\n\nName: Bill Allinder/Jeff Nelson  \nFAX NO.: 816-421-2708\n\nName: Steve Krigbaum  \nFAX NO.: 917-663-5593\n\nName: Tom Stoever  \nFAX NO.: 303-832-0428\n\nName: Judy Bernstein-Gaeta  \nFAX NO.: 202-942-5999\n\nName: Dal Burton  \nFAX NO.: 404-581-8330\n\nName: Andy McGaan  \nFAX NO.: 312-861-2200\n\nName: James Wilson  \nFAX NO.: 336-335-7707\n\nName: Eric Sarner/Doug Flemming/  \nPeter McKenna  \nFAX NO.: 212-735-2000\n\nName: Thomas McKim  \nFAX NO.: 336-741-0671\n\nName: D. Scott Wise  \nFAX NO.: 212-450-4800\n\n4 Pages (including Cover)\n\nOriginal to follow in mail:  ☐ Yes   ☒ No\n\n(Vertical number at right margin): 9863280499",
+            "blocks": [
+              {
+                "type": "Figure",
+                "content": "Feb-24-99 10:53  From-HUNTON WILLI…  1426  T-122  P.01/04  F-066\n\nTELECOPY INFORMATION\n\nHUNTON & WILLIAMS:\nRiverfront Plaza  \n951 East Byrd Street  \nRichmond, Virginia 23219-4074  \n(804)788-8200  \n2nd Floor Telecopier\n\nTelecopier Nos.  \n(804)788-8218  \n(804)788-8219  \n(804)788-8669\n\nTO:\nName: Ken Forrest  \nFAX NO.: 212-403-2211\n\nName: Tom Frederick  \nFAX NO.: 312-558-5700\n\nName: Tom Griffin  \nFAX NO.: 617-523-1231\n\nName: Even Hurwitz  \nFAX NO.: 202-942-5998\n\nName: Barry Levin/Curt Caton  \nFAX NO.: 415-772-6268\n\nName: Barbara Robbins  \nFAX NO.: 212-403-2033\n\nName: Greg Stone/Ron Olson  \nFAX NO.: 213-687-3702\n\nName: Bill Allinder/Jeff Nelson  \nFAX NO.: 816-421-2708\n\nName: Steve Krigbaum  \nFAX NO.: 917-663-5593\n\nName: Tom Stoever  \nFAX NO.: 303-832-0428\n\nName: Judy Bernstein-Gaeta  \nFAX NO.: 202-942-5999\n\nName: Dal Burton  \nFAX NO.: 404-581-8330\n\nName: Andy McGaan  \nFAX NO.: 312-861-2200\n\nName: James Wilson  \nFAX NO.: 336-335-7707\n\nName: Eric Sarner/Doug Flemming/  \nPeter McKenna  \nFAX NO.: 212-735-2000\n\nName: Thomas McKim  \nFAX NO.: 336-741-0671\n\nName: D. Scott Wise  \nFAX NO.: 212-450-4800\n\n4 Pages (including Cover)\n\nOriginal to follow in mail:  ☐ Yes   ☒ No\n\n(Vertical number at right margin): 9863280499",
+                "bbox": {
+                  "page": 1,
+                  "left": 0,
+                  "top": 0,
+                  "width": 1,
+                  "height": 1
+                },
+                "confidence": "medium",
+                "metadata": {
+                  "description": "Feb-24-99 10:53  From-HUNTON WILLI…  1426  T-122  P.01/04  F-066\n\nTELECOPY INFORMATION\n\nHUNTON & WILLIAMS:\nRiverfront Plaza  \n951 East Byrd Street  \nRichmond, Virginia 23219-4074  \n(804)788-8200  \n2nd Floor Telecopier\n\nTelecopier Nos.  \n(804)788-8218  \n(804)788-8219  \n(804)788-8669\n\nTO:\nName: Ken Forrest  \nFAX NO.: 212-403-2211\n\nName: Tom Frederick  \nFAX NO.: 312-558-5700\n\nName: Tom Griffin  \nFAX NO.: 617-523-1231\n\nName: Even Hurwitz  \nFAX NO.: 202-942-5998\n\nName: Barry Levin/Curt Caton  \nFAX NO.: 415-772-6268\n\nName: Barbara Robbins  \nFAX NO.: 212-403-2033\n\nName: Greg Stone/Ron Olson  \nFAX NO.: 213-687-3702\n\nName: Bill Allinder/Jeff Nelson  \nFAX NO.: 816-421-2708\n\nName: Steve Krigbaum  \nFAX NO.: 917-663-5593\n\nName: Tom Stoever  \nFAX NO.: 303-832-0428\n\nName: Judy Bernstein-Gaeta  \nFAX NO.: 202-942-5999\n\nName: Dal Burton  \nFAX NO.: 404-581-8330\n\nName: Andy McGaan  \nFAX NO.: 312-861-2200\n\nName: James Wilson  \nFAX NO.: 336-335-7707\n\nName: Eric Sarner/Doug Flemming/  \nPeter McKenna  \nFAX NO.: 212-735-2000\n\nName: Thomas McKim  \nFAX NO.: 336-741-0671\n\nName: D. Scott Wise  \nFAX NO.: 212-450-4800\n\n4 Pages (including Cover)\n\nOriginal to follow in mail:  ☐ Yes   ☒ No\n\n(Vertical number at right margin): 9863280499"
+                }
+              }
+            ],
+            "metadata": {
+              "pageRange": {
+                "start": 1,
+                "end": 1
+              },
+              "chunkIndex": 0
+            }
+          }
+        ]
+      },
+      "studio_link": "https://docld.com/documents/e94c6f07-9e08-4eb4-b7ea-49197b3a4030"
+    },
+    "meta": {
+      "timestamp": "2026-03-08T08:37:57.844Z",
+      "requestId": "cbf3c534-c98d-476b-9407-02b62239a4f5",
+      "method": "POST",
+      "url": "https://docld.com/api/parse",
+      "duration": 6444
+    }
+  },
+  "extracted_text": ""
+}

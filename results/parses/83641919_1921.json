@@ -1,0 +1,56 @@
+{
+  "filename": "83641919_1921.png",
+  "success": true,
+  "duration_ms": 10337,
+  "response": {
+    "data": {
+      "job_id": "1800062e-e592-40a5-af7a-c5d4df0fb962",
+      "duration": 7.976,
+      "usage": {
+        "num_pages": 1,
+        "credits": 1
+      },
+      "result": {
+        "type": "full",
+        "chunks": [
+          {
+            "content": "TO: S. P. ZOLOT  \nFROM: R. W. RICHARDSON  \n\nSUBMISSION DATE:  \nOCT 05 [blank box]  \nNOV 16 [blank box]  \nDEC 21 [X]\n\nSUBJECT: OLD GOLD - LIGHT BOX 100’S PROGRESS REPORT\n\nGEOGRAPHY  \nREGION: FULL ______    PARTIAL __X__  \n(ONLY IF PARTIAL REGION, CONTINUE WITH DIVISION(S) SCOPE)\n\nDIVISION: FULL __X__    PARTIAL ______\n\nDIVISION NAME: Detroit North  \nDIVISION NAME: Detroit East  \nDIVISION NAME: Grand Rapids  \n\nDIVISION NAME: Detroit South    # REPS: 13  \nDIVISION NAME: Detroit West     # REPS: 12  \nDIVISION NAME: Flint            # REPS: 13\n\nDISTRIBUTION\n\nDirect Accounts and Chains Headquartered within the Region.  \n(15+ Stores) Stocking No Old Gold Light Box 100’s\n\nLeft table columns: Name of Account | Ind./Lor Volume | Number of Stores  \nQuality Dairy | 151/15 | 31  \nBay Stations | 81/9 | 18  \nSchmuckal Oil | 138/9 | 22  \nWilson Oil | 140/13 | 15  \nQuick Stop | 117/9 | 24  \nForwards | 118/8 | 19  \nPhil Flint | 166/15 | 15  \nArbor Rx | 115/13 | 209  \nImperial Oil | 163/11 | 32  \n\nRight table columns: Name of Account | Ind./Lor Volume | Number of Stores  \nSpeedy Q | 196/13 | 16\n\nDirect Accounts and Chains Headquartered Outside the Region.  \n(15+ Stores) Stocking No Old Gold Light Box 100’s\n\nColumns: Name of Account | Ind./Lor Volume | Number of Stores  \nClark Gas | [blank] | 142  \nEmro | [blank] | 237  \n7-Eleven Southland | [blank] | 102  \nWalmart | [blank] | 39  \nUltra Diamond | [blank] | 184  \nDairy Mart | [blank] | 32  \nMobil Oil | [blank] | 40  \nACA Amoco | [blank] | 31\n\nVertical number at right margin: 83641919  \nBottom right: Page 1 of 3  \nBottom left (small): PROGRESS RPT OLD GOLD LT BOX 100’S.",
+            "blocks": [
+              {
+                "type": "Figure",
+                "content": "TO: S. P. ZOLOT  \nFROM: R. W. RICHARDSON  \n\nSUBMISSION DATE:  \nOCT 05 [blank box]  \nNOV 16 [blank box]  \nDEC 21 [X]\n\nSUBJECT: OLD GOLD - LIGHT BOX 100’S PROGRESS REPORT\n\nGEOGRAPHY  \nREGION: FULL ______    PARTIAL __X__  \n(ONLY IF PARTIAL REGION, CONTINUE WITH DIVISION(S) SCOPE)\n\nDIVISION: FULL __X__    PARTIAL ______\n\nDIVISION NAME: Detroit North  \nDIVISION NAME: Detroit East  \nDIVISION NAME: Grand Rapids  \n\nDIVISION NAME: Detroit South    # REPS: 13  \nDIVISION NAME: Detroit West     # REPS: 12  \nDIVISION NAME: Flint            # REPS: 13\n\nDISTRIBUTION\n\nDirect Accounts and Chains Headquartered within the Region.  \n(15+ Stores) Stocking No Old Gold Light Box 100’s\n\nLeft table columns: Name of Account | Ind./Lor Volume | Number of Stores  \nQuality Dairy | 151/15 | 31  \nBay Stations | 81/9 | 18  \nSchmuckal Oil | 138/9 | 22  \nWilson Oil | 140/13 | 15  \nQuick Stop | 117/9 | 24  \nForwards | 118/8 | 19  \nPhil Flint | 166/15 | 15  \nArbor Rx | 115/13 | 209  \nImperial Oil | 163/11 | 32  \n\nRight table columns: Name of Account | Ind./Lor Volume | Number of Stores  \nSpeedy Q | 196/13 | 16\n\nDirect Accounts and Chains Headquartered Outside the Region.  \n(15+ Stores) Stocking No Old Gold Light Box 100’s\n\nColumns: Name of Account | Ind./Lor Volume | Number of Stores  \nClark Gas | [blank] | 142  \nEmro | [blank] | 237  \n7-Eleven Southland | [blank] | 102  \nWalmart | [blank] | 39  \nUltra Diamond | [blank] | 184  \nDairy Mart | [blank] | 32  \nMobil Oil | [blank] | 40  \nACA Amoco | [blank] | 31\n\nVertical number at right margin: 83641919  \nBottom right: Page 1 of 3  \nBottom left (small): PROGRESS RPT OLD GOLD LT BOX 100’S.",
+                "bbox": {
+                  "page": 1,
+                  "left": 0,
+                  "top": 0,
+                  "width": 1,
+                  "height": 1
+                },
+                "confidence": "medium",
+                "metadata": {
+                  "description": "TO: S. P. ZOLOT  \nFROM: R. W. RICHARDSON  \n\nSUBMISSION DATE:  \nOCT 05 [blank box]  \nNOV 16 [blank box]  \nDEC 21 [X]\n\nSUBJECT: OLD GOLD - LIGHT BOX 100’S PROGRESS REPORT\n\nGEOGRAPHY  \nREGION: FULL ______    PARTIAL __X__  \n(ONLY IF PARTIAL REGION, CONTINUE WITH DIVISION(S) SCOPE)\n\nDIVISION: FULL __X__    PARTIAL ______\n\nDIVISION NAME: Detroit North  \nDIVISION NAME: Detroit East  \nDIVISION NAME: Grand Rapids  \n\nDIVISION NAME: Detroit South    # REPS: 13  \nDIVISION NAME: Detroit West     # REPS: 12  \nDIVISION NAME: Flint            # REPS: 13\n\nDISTRIBUTION\n\nDirect Accounts and Chains Headquartered within the Region.  \n(15+ Stores) Stocking No Old Gold Light Box 100’s\n\nLeft table columns: Name of Account | Ind./Lor Volume | Number of Stores  \nQuality Dairy | 151/15 | 31  \nBay Stations | 81/9 | 18  \nSchmuckal Oil | 138/9 | 22  \nWilson Oil | 140/13 | 15  \nQuick Stop | 117/9 | 24  \nForwards | 118/8 | 19  \nPhil Flint | 166/15 | 15  \nArbor Rx | 115/13 | 209  \nImperial Oil | 163/11 | 32  \n\nRight table columns: Name of Account | Ind./Lor Volume | Number of Stores  \nSpeedy Q | 196/13 | 16\n\nDirect Accounts and Chains Headquartered Outside the Region.  \n(15+ Stores) Stocking No Old Gold Light Box 100’s\n\nColumns: Name of Account | Ind./Lor Volume | Number of Stores  \nClark Gas | [blank] | 142  \nEmro | [blank] | 237  \n7-Eleven Southland | [blank] | 102  \nWalmart | [blank] | 39  \nUltra Diamond | [blank] | 184  \nDairy Mart | [blank] | 32  \nMobil Oil | [blank] | 40  \nACA Amoco | [blank] | 31\n\nVertical number at right margin: 83641919  \nBottom right: Page 1 of 3  \nBottom left (small): PROGRESS RPT OLD GOLD LT BOX 100’S."
+                }
+              }
+            ],
+            "metadata": {
+              "pageRange": {
+                "start": 1,
+                "end": 1
+              },
+              "chunkIndex": 0
+            }
+          }
+        ]
+      },
+      "studio_link": "https://docld.com/documents/5a04e9ab-eee6-47fa-9b6f-022020b8df5e"
+    },
+    "meta": {
+      "timestamp": "2026-03-08T08:17:06.493Z",
+      "requestId": "31339215-cea3-4b89-b565-30bb321ac5fc",
+      "method": "POST",
+      "url": "https://docld.com/api/parse",
+      "duration": 8810
+    }
+  },
+  "extracted_text": ""
+}

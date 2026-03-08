@@ -1,0 +1,56 @@
+{
+  "filename": "87093315_87093318.png",
+  "success": true,
+  "duration_ms": 9044,
+  "response": {
+    "data": {
+      "job_id": "65669bca-cab1-477b-8b67-4fa8d5afadfd",
+      "duration": 6.675,
+      "usage": {
+        "num_pages": 1,
+        "credits": 1
+      },
+      "result": {
+        "type": "full",
+        "chunks": [
+          {
+            "content": "Sample No. 1194-90  \nDate: 3/14/90  \n90-B-1  \n\nType of Cigarette 100 mm Filter  \nBatch Size 47.5 lbs.  \n\nOriginal Request Made By J.H. Bell on 2/15/90  \nPurpose of Sample Cigarette Modification B-451  \nSample Specifications Written By C.W. Lassiter  \n\nBLEND  \nAttached  \n\nCASING  \nNone  \n\nRECASING  \nAttached  \n\nFINAL FLAVOR  \nNone  \n\nMENTHOL  \nNone  \n\nCigarettes  \nMaker: MK 8  \nLength: 99.0 mm  \nFilter Length: 27 mm  \nCircumference: 24.8 mm  \nWeight: 78.0g/100  \nPaper: 81-01-07  \nTip. Paper: 25-04-07  \n67 mm White  \nTip. Paper Por.: 430  \nGlue Roller: G  \nAir Dilution: 13.0 %  \n\nFilters  \nSection A  \n27 mm  \n3.3/35,000  \nOG Lt.  \nRod Length: 108 mm  \nPressure Drop: 400 mm  \nCircumference: 24.45 mm  \nWeight: 75.3g/100  \nPlast.: 76 Kent  \nPlug Wrap: 84-52-28  \nPlug Wrap Por.: 655 c  \nComb. Wrap  \nComb. Wrap Por.  \n\nSection B  \nmm  \n\nWrapping  \nLabels: White  \nClosures: Blue  \nTear Tape: White  \nCartons: White  \nMarkings: Sample No. on each Carton  \n\nResponsibility  \nTobacco Blend: Lassiter/Douglas  \nFilter Production: MFG.  \nMaking & Packing: James  \nShipping  \nSample Requisition (Form 02:20:06): James  \n\nRequirements  \nLaboratory: 1 Tray  \nOther  \n\nLaboratory Analysis:  \nMainstream Smoke Analysis  \n\nSpecial Requirements  \n\nDirector, Product Development  \n\n(Vertical number at right margin): 87093315",
+            "blocks": [
+              {
+                "type": "Figure",
+                "content": "Sample No. 1194-90  \nDate: 3/14/90  \n90-B-1  \n\nType of Cigarette 100 mm Filter  \nBatch Size 47.5 lbs.  \n\nOriginal Request Made By J.H. Bell on 2/15/90  \nPurpose of Sample Cigarette Modification B-451  \nSample Specifications Written By C.W. Lassiter  \n\nBLEND  \nAttached  \n\nCASING  \nNone  \n\nRECASING  \nAttached  \n\nFINAL FLAVOR  \nNone  \n\nMENTHOL  \nNone  \n\nCigarettes  \nMaker: MK 8  \nLength: 99.0 mm  \nFilter Length: 27 mm  \nCircumference: 24.8 mm  \nWeight: 78.0g/100  \nPaper: 81-01-07  \nTip. Paper: 25-04-07  \n67 mm White  \nTip. Paper Por.: 430  \nGlue Roller: G  \nAir Dilution: 13.0 %  \n\nFilters  \nSection A  \n27 mm  \n3.3/35,000  \nOG Lt.  \nRod Length: 108 mm  \nPressure Drop: 400 mm  \nCircumference: 24.45 mm  \nWeight: 75.3g/100  \nPlast.: 76 Kent  \nPlug Wrap: 84-52-28  \nPlug Wrap Por.: 655 c  \nComb. Wrap  \nComb. Wrap Por.  \n\nSection B  \nmm  \n\nWrapping  \nLabels: White  \nClosures: Blue  \nTear Tape: White  \nCartons: White  \nMarkings: Sample No. on each Carton  \n\nResponsibility  \nTobacco Blend: Lassiter/Douglas  \nFilter Production: MFG.  \nMaking & Packing: James  \nShipping  \nSample Requisition (Form 02:20:06): James  \n\nRequirements  \nLaboratory: 1 Tray  \nOther  \n\nLaboratory Analysis:  \nMainstream Smoke Analysis  \n\nSpecial Requirements  \n\nDirector, Product Development  \n\n(Vertical number at right margin): 87093315",
+                "bbox": {
+                  "page": 1,
+                  "left": 0,
+                  "top": 0,
+                  "width": 1,
+                  "height": 1
+                },
+                "confidence": "medium",
+                "metadata": {
+                  "description": "Sample No. 1194-90  \nDate: 3/14/90  \n90-B-1  \n\nType of Cigarette 100 mm Filter  \nBatch Size 47.5 lbs.  \n\nOriginal Request Made By J.H. Bell on 2/15/90  \nPurpose of Sample Cigarette Modification B-451  \nSample Specifications Written By C.W. Lassiter  \n\nBLEND  \nAttached  \n\nCASING  \nNone  \n\nRECASING  \nAttached  \n\nFINAL FLAVOR  \nNone  \n\nMENTHOL  \nNone  \n\nCigarettes  \nMaker: MK 8  \nLength: 99.0 mm  \nFilter Length: 27 mm  \nCircumference: 24.8 mm  \nWeight: 78.0g/100  \nPaper: 81-01-07  \nTip. Paper: 25-04-07  \n67 mm White  \nTip. Paper Por.: 430  \nGlue Roller: G  \nAir Dilution: 13.0 %  \n\nFilters  \nSection A  \n27 mm  \n3.3/35,000  \nOG Lt.  \nRod Length: 108 mm  \nPressure Drop: 400 mm  \nCircumference: 24.45 mm  \nWeight: 75.3g/100  \nPlast.: 76 Kent  \nPlug Wrap: 84-52-28  \nPlug Wrap Por.: 655 c  \nComb. Wrap  \nComb. Wrap Por.  \n\nSection B  \nmm  \n\nWrapping  \nLabels: White  \nClosures: Blue  \nTear Tape: White  \nCartons: White  \nMarkings: Sample No. on each Carton  \n\nResponsibility  \nTobacco Blend: Lassiter/Douglas  \nFilter Production: MFG.  \nMaking & Packing: James  \nShipping  \nSample Requisition (Form 02:20:06): James  \n\nRequirements  \nLaboratory: 1 Tray  \nOther  \n\nLaboratory Analysis:  \nMainstream Smoke Analysis  \n\nSpecial Requirements  \n\nDirector, Product Development  \n\n(Vertical number at right margin): 87093315"
+                }
+              }
+            ],
+            "metadata": {
+              "pageRange": {
+                "start": 1,
+                "end": 1
+              },
+              "chunkIndex": 0
+            }
+          }
+        ]
+      },
+      "studio_link": "https://docld.com/documents/8ccc432c-2ac7-4531-b3f6-41b5c177a282"
+    },
+    "meta": {
+      "timestamp": "2026-03-08T08:39:24.294Z",
+      "requestId": "ee478eaf-997c-43ac-85be-3767728b3c7d",
+      "method": "POST",
+      "url": "https://docld.com/api/parse",
+      "duration": 7469
+    }
+  },
+  "extracted_text": ""
+}

@@ -1,0 +1,56 @@
+{
+  "filename": "86075409_5410.png",
+  "success": true,
+  "duration_ms": 7160,
+  "response": {
+    "data": {
+      "job_id": "184d3ba3-283e-4493-b905-e139794b4090",
+      "duration": 4.757,
+      "usage": {
+        "num_pages": 1,
+        "credits": 1
+      },
+      "result": {
+        "type": "full",
+        "chunks": [
+          {
+            "content": "From: Lynette Stevens  \nTo: Kelli Scruggs  \nCC: Vincent Losito  \nGeorge Baroody  \nDon Kisling  \nS. Tesh  C. Hill\n\n• Brand(s) Applicable: Newport Parent, Lights, & 120’s  \n• Media Type: Direct Mail  \n• Media Name: Competitive 21 - 34 years  \n• * Issue Frequency / Year:  \n• * Space / Color:  \n• Coupon Issue Date: 4/14/00  \n• Coupon Expiration Date: 9/30/00  \n• Circulation (#): APPROX. 600,000  \n• Geographical Area(s): Tiers II & IV  AR,AZ,AK,CA,CO,FL,ID,IA,CT,MI,MASS,MN,MT,NE, NV,NM,NY,ND,OK,OR,RI,SD,TX,WA,D.C.,WY  \n• Coupon Value: $1.50 OFF  \n• Pack and / or Carton?: PACK  \n• * Advertising Creative Title:  \n• Signature of Initiator: (signature) Lynette Kayee Stevens  \n• Date Initiated: 21-Jan-00  \n\nAnalytical Requirements:\n\nFOR CONTROL USE ONLY  \nCode Assigned: 05787  \nJob Number:  \nEst. Redemption: 13%  \n\n* Where Applicable\n\n80975409 (printed vertically along right edge)",
+            "blocks": [
+              {
+                "type": "Figure",
+                "content": "From: Lynette Stevens  \nTo: Kelli Scruggs  \nCC: Vincent Losito  \nGeorge Baroody  \nDon Kisling  \nS. Tesh  C. Hill\n\n• Brand(s) Applicable: Newport Parent, Lights, & 120’s  \n• Media Type: Direct Mail  \n• Media Name: Competitive 21 - 34 years  \n• * Issue Frequency / Year:  \n• * Space / Color:  \n• Coupon Issue Date: 4/14/00  \n• Coupon Expiration Date: 9/30/00  \n• Circulation (#): APPROX. 600,000  \n• Geographical Area(s): Tiers II & IV  AR,AZ,AK,CA,CO,FL,ID,IA,CT,MI,MASS,MN,MT,NE, NV,NM,NY,ND,OK,OR,RI,SD,TX,WA,D.C.,WY  \n• Coupon Value: $1.50 OFF  \n• Pack and / or Carton?: PACK  \n• * Advertising Creative Title:  \n• Signature of Initiator: (signature) Lynette Kayee Stevens  \n• Date Initiated: 21-Jan-00  \n\nAnalytical Requirements:\n\nFOR CONTROL USE ONLY  \nCode Assigned: 05787  \nJob Number:  \nEst. Redemption: 13%  \n\n* Where Applicable\n\n80975409 (printed vertically along right edge)",
+                "bbox": {
+                  "page": 1,
+                  "left": 0,
+                  "top": 0,
+                  "width": 1,
+                  "height": 1
+                },
+                "confidence": "medium",
+                "metadata": {
+                  "description": "From: Lynette Stevens  \nTo: Kelli Scruggs  \nCC: Vincent Losito  \nGeorge Baroody  \nDon Kisling  \nS. Tesh  C. Hill\n\n• Brand(s) Applicable: Newport Parent, Lights, & 120’s  \n• Media Type: Direct Mail  \n• Media Name: Competitive 21 - 34 years  \n• * Issue Frequency / Year:  \n• * Space / Color:  \n• Coupon Issue Date: 4/14/00  \n• Coupon Expiration Date: 9/30/00  \n• Circulation (#): APPROX. 600,000  \n• Geographical Area(s): Tiers II & IV  AR,AZ,AK,CA,CO,FL,ID,IA,CT,MI,MASS,MN,MT,NE, NV,NM,NY,ND,OK,OR,RI,SD,TX,WA,D.C.,WY  \n• Coupon Value: $1.50 OFF  \n• Pack and / or Carton?: PACK  \n• * Advertising Creative Title:  \n• Signature of Initiator: (signature) Lynette Kayee Stevens  \n• Date Initiated: 21-Jan-00  \n\nAnalytical Requirements:\n\nFOR CONTROL USE ONLY  \nCode Assigned: 05787  \nJob Number:  \nEst. Redemption: 13%  \n\n* Where Applicable\n\n80975409 (printed vertically along right edge)"
+                }
+              }
+            ],
+            "metadata": {
+              "pageRange": {
+                "start": 1,
+                "end": 1
+              },
+              "chunkIndex": 0
+            }
+          }
+        ]
+      },
+      "studio_link": "https://docld.com/documents/a188b276-5f8d-488c-9294-de679b0f885a"
+    },
+    "meta": {
+      "timestamp": "2026-03-08T08:28:16.803Z",
+      "requestId": "d7d9636a-1582-43fd-84b4-916c064a8ce5",
+      "method": "POST",
+      "url": "https://docld.com/api/parse",
+      "duration": 5606
+    }
+  },
+  "extracted_text": ""
+}

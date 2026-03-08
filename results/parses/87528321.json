@@ -1,0 +1,56 @@
+{
+  "filename": "87528321.png",
+  "success": true,
+  "duration_ms": 7788,
+  "response": {
+    "data": {
+      "job_id": "7ac72c28-a4dc-4f73-85bf-ee792a7462ab",
+      "duration": 5.354,
+      "usage": {
+        "num_pages": 1,
+        "credits": 1
+      },
+      "result": {
+        "type": "full",
+        "chunks": [
+          {
+            "content": "REQUEST FOR CHANGE  \nF-1001  7/88\n\nORIGINATOR Name: Dan Straka  \nPosition  \nDepartment Name and Location  \n611-13_3rd_Floor\n\nDate Prepared  \n8-17-88  \nTelephone No.  \n5398\n\nRFC 880029  \nPage 1 of 1  \nDate 8-17-88  \nReceived By D. Marsh  \nChange Order Number 8816059\n\nBrand/Assembly/Material Affected  \nGlass Mat and Slit Glass Mat\n\nType of Change  \n___ Addition  \n___ Deletion  \n_X_ Change  \n\n___ Design  \n___ Compatibity  \n___ Manufacturability  \n\n___ Spec Change  \n___ Cost Reduction  \n_X_ Other  \n\n___ Emergency  \n___ Urgent  \n_X_ Routine\n\nDescription of Problem  \nThe current specifications for glass mat and slit glass mat can be made more accurate and complete with the following changes:\n\nGlass Mat:  \nDelete C-glass from item description.  \nChange glass softening point to 756 +/- 10 degrees from 750.  \nChange rolls per pallet to 2 from 1.\n\nSlit Glass Mat:  \nDelete C-glass from item description.  \nChange bobbins per stack to 47 from 45.  \nAdd outside diameter specs of 30.0, 26.0 - 31.0 inches.\n\nProposed Solution  \nChange the current MSS specifications as outlined above.\n\nAccepted for Investigation  \nSignature            Title            Date\n\nFinal Disposition  \nApproved ___   Rejected ___\n\nAction Taken or Reason for Rejection\n\nProposed Effective Date:  \n9/8/88\n\nSPEC HOLDER  DATE  \n8-17-88\n\nPRODUCT REVIEW COMMITTEE  \nKAT - JDC - KAM\n\nPRODUCT ACCEPTANCE COMMITTEE  \n(Handwritten signatures/notes)  \n9/8/88",
+            "blocks": [
+              {
+                "type": "Figure",
+                "content": "REQUEST FOR CHANGE  \nF-1001  7/88\n\nORIGINATOR Name: Dan Straka  \nPosition  \nDepartment Name and Location  \n611-13_3rd_Floor\n\nDate Prepared  \n8-17-88  \nTelephone No.  \n5398\n\nRFC 880029  \nPage 1 of 1  \nDate 8-17-88  \nReceived By D. Marsh  \nChange Order Number 8816059\n\nBrand/Assembly/Material Affected  \nGlass Mat and Slit Glass Mat\n\nType of Change  \n___ Addition  \n___ Deletion  \n_X_ Change  \n\n___ Design  \n___ Compatibity  \n___ Manufacturability  \n\n___ Spec Change  \n___ Cost Reduction  \n_X_ Other  \n\n___ Emergency  \n___ Urgent  \n_X_ Routine\n\nDescription of Problem  \nThe current specifications for glass mat and slit glass mat can be made more accurate and complete with the following changes:\n\nGlass Mat:  \nDelete C-glass from item description.  \nChange glass softening point to 756 +/- 10 degrees from 750.  \nChange rolls per pallet to 2 from 1.\n\nSlit Glass Mat:  \nDelete C-glass from item description.  \nChange bobbins per stack to 47 from 45.  \nAdd outside diameter specs of 30.0, 26.0 - 31.0 inches.\n\nProposed Solution  \nChange the current MSS specifications as outlined above.\n\nAccepted for Investigation  \nSignature            Title            Date\n\nFinal Disposition  \nApproved ___   Rejected ___\n\nAction Taken or Reason for Rejection\n\nProposed Effective Date:  \n9/8/88\n\nSPEC HOLDER  DATE  \n8-17-88\n\nPRODUCT REVIEW COMMITTEE  \nKAT - JDC - KAM\n\nPRODUCT ACCEPTANCE COMMITTEE  \n(Handwritten signatures/notes)  \n9/8/88",
+                "bbox": {
+                  "page": 1,
+                  "left": 0,
+                  "top": 0,
+                  "width": 1,
+                  "height": 1
+                },
+                "confidence": "medium",
+                "metadata": {
+                  "description": "REQUEST FOR CHANGE  \nF-1001  7/88\n\nORIGINATOR Name: Dan Straka  \nPosition  \nDepartment Name and Location  \n611-13_3rd_Floor\n\nDate Prepared  \n8-17-88  \nTelephone No.  \n5398\n\nRFC 880029  \nPage 1 of 1  \nDate 8-17-88  \nReceived By D. Marsh  \nChange Order Number 8816059\n\nBrand/Assembly/Material Affected  \nGlass Mat and Slit Glass Mat\n\nType of Change  \n___ Addition  \n___ Deletion  \n_X_ Change  \n\n___ Design  \n___ Compatibity  \n___ Manufacturability  \n\n___ Spec Change  \n___ Cost Reduction  \n_X_ Other  \n\n___ Emergency  \n___ Urgent  \n_X_ Routine\n\nDescription of Problem  \nThe current specifications for glass mat and slit glass mat can be made more accurate and complete with the following changes:\n\nGlass Mat:  \nDelete C-glass from item description.  \nChange glass softening point to 756 +/- 10 degrees from 750.  \nChange rolls per pallet to 2 from 1.\n\nSlit Glass Mat:  \nDelete C-glass from item description.  \nChange bobbins per stack to 47 from 45.  \nAdd outside diameter specs of 30.0, 26.0 - 31.0 inches.\n\nProposed Solution  \nChange the current MSS specifications as outlined above.\n\nAccepted for Investigation  \nSignature            Title            Date\n\nFinal Disposition  \nApproved ___   Rejected ___\n\nAction Taken or Reason for Rejection\n\nProposed Effective Date:  \n9/8/88\n\nSPEC HOLDER  DATE  \n8-17-88\n\nPRODUCT REVIEW COMMITTEE  \nKAT - JDC - KAM\n\nPRODUCT ACCEPTANCE COMMITTEE  \n(Handwritten signatures/notes)  \n9/8/88"
+                }
+              }
+            ],
+            "metadata": {
+              "pageRange": {
+                "start": 1,
+                "end": 1
+              },
+              "chunkIndex": 0
+            }
+          }
+        ]
+      },
+      "studio_link": "https://docld.com/documents/f77eace5-e148-4053-b32d-62ffebbc3a7f"
+    },
+    "meta": {
+      "timestamp": "2026-03-08T08:47:47.904Z",
+      "requestId": "7a035583-726a-420f-88a3-c5db8d0913e2",
+      "method": "POST",
+      "url": "https://docld.com/api/parse",
+      "duration": 6211
+    }
+  },
+  "extracted_text": ""
+}

@@ -1,0 +1,56 @@
+{
+  "filename": "82253362_3364.png",
+  "success": true,
+  "duration_ms": 8512,
+  "response": {
+    "data": {
+      "job_id": "b0bfbd14-6059-4028-bf95-476328cdee09",
+      "duration": 6.263,
+      "usage": {
+        "num_pages": 1,
+        "credits": 1
+      },
+      "result": {
+        "type": "full",
+        "chunks": [
+          {
+            "content": "TO: K. A. Sparrow  \nFROM: J. L. McGinnis  \n\nSUBJECT: MAVERICK SPECIALS MENTHOL - PROGRESS REPORT  \n\nSUBMISSION DATE  \nMAY 19 [ ]    AUG 11 [ ]  \nJUN 30 [ ]    SEP 22 [shaded]\n\nGEOGRAPHY  \nREGION: FULL _X_    PARTIAL ________  \n(ONLY IF PARTIAL REGION CONTINUE WITH DIVISION(S) SCOPE)  \nDIVISION: FULL ________    PARTIAL ________  \n\nDIVISION NAME: ____________    DIVISION NAME: ____________________    # REPS ________  \nDIVISION NAME: ____________    DIVISION NAME: ____________________    # REPS ________  \nDIVISION NAME: ____________    DIVISION NAME: ____________________    # REPS ________  \n\nDISTRIBUTION  \n\nDIRECT ACCOUNTS AND CHAINS HEADQUARTERED WITHIN THE REGION  \n(15+ STORES) STOCKING NO MAVERICK SPECIALS MENTHOL  \n\nNAME OF ACCOUNT | IND/LOR VOLUME | NO. OF STORES  \nDon & Bens | 26/2 | 20  \nWestern Beverage | 42/2 | 15  \nSpeedy Stop | 106/4 | 29  \nGet-N-Go | 62/2 | 44  \nValley Shamrock | 78/4 | 17  \nAlbertson’s - Houston | 319/16 | 34  \nMini Mart | 65/3 | 15  \nNeal’s One Stop | 69/3 | 20  \nShopper Mart | 80/4 | 22  \n\nNAME OF ACCOUNT | IND/LOR VOLUME | NO. OF STORES  \nSac N Pac | 75/2 | 27  \nACO/Texaco | 95/3 | 15  \nLone Star | 76/3 | 37  \n\nDIRECT ACCOUNTS AND CHAINS HEADQUARTERED OUTSIDE THE REGION  \n(15+ STORES) STOCKING NO MAVERICK SPECIALS MENTHOL  \n\nNAME OF ACCOUNT | IND/LOR VOLUME | NO. OF STORES  \nChevron | ? | 115  \nBrooksire Bro.’s | ? | 38  \nEckerd Drugs - S. Texas | ? | 217  \nExxon | ? | 38  \nPhillip’s 66 | ? | 27  \nStar Enterprise | ? | 70  \nWalgreen’s | ? | 177  \n\nMAVPROG3.XLS  \n\nPage 1 of 3 Pages  \n\n82255362",
+            "blocks": [
+              {
+                "type": "Figure",
+                "content": "TO: K. A. Sparrow  \nFROM: J. L. McGinnis  \n\nSUBJECT: MAVERICK SPECIALS MENTHOL - PROGRESS REPORT  \n\nSUBMISSION DATE  \nMAY 19 [ ]    AUG 11 [ ]  \nJUN 30 [ ]    SEP 22 [shaded]\n\nGEOGRAPHY  \nREGION: FULL _X_    PARTIAL ________  \n(ONLY IF PARTIAL REGION CONTINUE WITH DIVISION(S) SCOPE)  \nDIVISION: FULL ________    PARTIAL ________  \n\nDIVISION NAME: ____________    DIVISION NAME: ____________________    # REPS ________  \nDIVISION NAME: ____________    DIVISION NAME: ____________________    # REPS ________  \nDIVISION NAME: ____________    DIVISION NAME: ____________________    # REPS ________  \n\nDISTRIBUTION  \n\nDIRECT ACCOUNTS AND CHAINS HEADQUARTERED WITHIN THE REGION  \n(15+ STORES) STOCKING NO MAVERICK SPECIALS MENTHOL  \n\nNAME OF ACCOUNT | IND/LOR VOLUME | NO. OF STORES  \nDon & Bens | 26/2 | 20  \nWestern Beverage | 42/2 | 15  \nSpeedy Stop | 106/4 | 29  \nGet-N-Go | 62/2 | 44  \nValley Shamrock | 78/4 | 17  \nAlbertson’s - Houston | 319/16 | 34  \nMini Mart | 65/3 | 15  \nNeal’s One Stop | 69/3 | 20  \nShopper Mart | 80/4 | 22  \n\nNAME OF ACCOUNT | IND/LOR VOLUME | NO. OF STORES  \nSac N Pac | 75/2 | 27  \nACO/Texaco | 95/3 | 15  \nLone Star | 76/3 | 37  \n\nDIRECT ACCOUNTS AND CHAINS HEADQUARTERED OUTSIDE THE REGION  \n(15+ STORES) STOCKING NO MAVERICK SPECIALS MENTHOL  \n\nNAME OF ACCOUNT | IND/LOR VOLUME | NO. OF STORES  \nChevron | ? | 115  \nBrooksire Bro.’s | ? | 38  \nEckerd Drugs - S. Texas | ? | 217  \nExxon | ? | 38  \nPhillip’s 66 | ? | 27  \nStar Enterprise | ? | 70  \nWalgreen’s | ? | 177  \n\nMAVPROG3.XLS  \n\nPage 1 of 3 Pages  \n\n82255362",
+                "bbox": {
+                  "page": 1,
+                  "left": 0,
+                  "top": 0,
+                  "width": 1,
+                  "height": 1
+                },
+                "confidence": "medium",
+                "metadata": {
+                  "description": "TO: K. A. Sparrow  \nFROM: J. L. McGinnis  \n\nSUBJECT: MAVERICK SPECIALS MENTHOL - PROGRESS REPORT  \n\nSUBMISSION DATE  \nMAY 19 [ ]    AUG 11 [ ]  \nJUN 30 [ ]    SEP 22 [shaded]\n\nGEOGRAPHY  \nREGION: FULL _X_    PARTIAL ________  \n(ONLY IF PARTIAL REGION CONTINUE WITH DIVISION(S) SCOPE)  \nDIVISION: FULL ________    PARTIAL ________  \n\nDIVISION NAME: ____________    DIVISION NAME: ____________________    # REPS ________  \nDIVISION NAME: ____________    DIVISION NAME: ____________________    # REPS ________  \nDIVISION NAME: ____________    DIVISION NAME: ____________________    # REPS ________  \n\nDISTRIBUTION  \n\nDIRECT ACCOUNTS AND CHAINS HEADQUARTERED WITHIN THE REGION  \n(15+ STORES) STOCKING NO MAVERICK SPECIALS MENTHOL  \n\nNAME OF ACCOUNT | IND/LOR VOLUME | NO. OF STORES  \nDon & Bens | 26/2 | 20  \nWestern Beverage | 42/2 | 15  \nSpeedy Stop | 106/4 | 29  \nGet-N-Go | 62/2 | 44  \nValley Shamrock | 78/4 | 17  \nAlbertson’s - Houston | 319/16 | 34  \nMini Mart | 65/3 | 15  \nNeal’s One Stop | 69/3 | 20  \nShopper Mart | 80/4 | 22  \n\nNAME OF ACCOUNT | IND/LOR VOLUME | NO. OF STORES  \nSac N Pac | 75/2 | 27  \nACO/Texaco | 95/3 | 15  \nLone Star | 76/3 | 37  \n\nDIRECT ACCOUNTS AND CHAINS HEADQUARTERED OUTSIDE THE REGION  \n(15+ STORES) STOCKING NO MAVERICK SPECIALS MENTHOL  \n\nNAME OF ACCOUNT | IND/LOR VOLUME | NO. OF STORES  \nChevron | ? | 115  \nBrooksire Bro.’s | ? | 38  \nEckerd Drugs - S. Texas | ? | 217  \nExxon | ? | 38  \nPhillip’s 66 | ? | 27  \nStar Enterprise | ? | 70  \nWalgreen’s | ? | 177  \n\nMAVPROG3.XLS  \n\nPage 1 of 3 Pages  \n\n82255362"
+                }
+              }
+            ],
+            "metadata": {
+              "pageRange": {
+                "start": 1,
+                "end": 1
+              },
+              "chunkIndex": 0
+            }
+          }
+        ]
+      },
+      "studio_link": "https://docld.com/documents/a63c97f6-b005-4f56-9c70-dcbd6b2ac22b"
+    },
+    "meta": {
+      "timestamp": "2026-03-08T07:57:55.357Z",
+      "requestId": "25dae113-751f-47bc-9bd8-da65c9d947ea",
+      "method": "POST",
+      "url": "https://docld.com/api/parse",
+      "duration": 7004
+    }
+  },
+  "extracted_text": ""
+}

@@ -1,0 +1,56 @@
+{
+  "filename": "83635935.png",
+  "success": true,
+  "duration_ms": 8066,
+  "response": {
+    "data": {
+      "job_id": "83962cb3-93c0-40b8-b847-6704f4a0b286",
+      "duration": 5.454,
+      "usage": {
+        "num_pages": 1,
+        "credits": 1
+      },
+      "result": {
+        "type": "full",
+        "chunks": [
+          {
+            "content": "JUN 05 ’97 02:02PM LOEWS CORP LEGAL                                                         P.1/6\n\nLOEWS  \nCORPORATION  \n667 Madison Avenue, New York, N.Y. 10021-8087 (212) 545-2920 Fax (212) 935-6801\n\nBARRY HIRSCH  \nSenior Vice President  \nSecretary & General Counsel\n\nFAX  \nCONFIDENTIAL\n\nDATE:     June 4, 1997  \nTO:         Dr. Spears/A.J. Stevens/R. Milstein  \nFROM:     Barry Hirsch\n\nTOTAL NUMBER OF PAGES INCLUDING THIS COVER SHEET - 6  \nIF YOU DO NOT RECEIVE ALL THE PAGES, PLEASE CALL  \nCAROL DOKTORSKI AT (212) 545-2934.\n\nOUR FAX NUMBER IS (212) 935-6801.\n\nTHIS TRANSMISSION IS INTENDED ONLY FOR THE USE OF THE INDIVIDUAL OR ENTITY TO WHOM IT IS ADDRESSED, AND MAY CONTAIN INFORMATION THAT IS PRIVILEGED, CONFIDENTIAL AND EXEMPT FROM DISCLOSURE UNDER APPLICABLE LAW. IF YOU ARE NOT THE INTENDED RECIPIENT, YOU ARE HEREBY NOTIFIED THAT ANY DISSEMINATION, DISTRIBUTION OR COPYING OF THIS COMMUNICATION IS STRICTLY PROHIBITED. IF YOU HAVE RECEIVED THIS COMMUNICATION IN ERROR, PLEASE IMMEDIATELY NOTIFY US BY TELEPHONE AND RETURN THE ORIGINAL MESSAGE TO US AT THE ABOVE ADDRESS VIA THE U.S. POSTAL SERVICE. THANK YOU.\n\n83635935",
+            "blocks": [
+              {
+                "type": "Figure",
+                "content": "JUN 05 ’97 02:02PM LOEWS CORP LEGAL                                                         P.1/6\n\nLOEWS  \nCORPORATION  \n667 Madison Avenue, New York, N.Y. 10021-8087 (212) 545-2920 Fax (212) 935-6801\n\nBARRY HIRSCH  \nSenior Vice President  \nSecretary & General Counsel\n\nFAX  \nCONFIDENTIAL\n\nDATE:     June 4, 1997  \nTO:         Dr. Spears/A.J. Stevens/R. Milstein  \nFROM:     Barry Hirsch\n\nTOTAL NUMBER OF PAGES INCLUDING THIS COVER SHEET - 6  \nIF YOU DO NOT RECEIVE ALL THE PAGES, PLEASE CALL  \nCAROL DOKTORSKI AT (212) 545-2934.\n\nOUR FAX NUMBER IS (212) 935-6801.\n\nTHIS TRANSMISSION IS INTENDED ONLY FOR THE USE OF THE INDIVIDUAL OR ENTITY TO WHOM IT IS ADDRESSED, AND MAY CONTAIN INFORMATION THAT IS PRIVILEGED, CONFIDENTIAL AND EXEMPT FROM DISCLOSURE UNDER APPLICABLE LAW. IF YOU ARE NOT THE INTENDED RECIPIENT, YOU ARE HEREBY NOTIFIED THAT ANY DISSEMINATION, DISTRIBUTION OR COPYING OF THIS COMMUNICATION IS STRICTLY PROHIBITED. IF YOU HAVE RECEIVED THIS COMMUNICATION IN ERROR, PLEASE IMMEDIATELY NOTIFY US BY TELEPHONE AND RETURN THE ORIGINAL MESSAGE TO US AT THE ABOVE ADDRESS VIA THE U.S. POSTAL SERVICE. THANK YOU.\n\n83635935",
+                "bbox": {
+                  "page": 1,
+                  "left": 0,
+                  "top": 0,
+                  "width": 1,
+                  "height": 1
+                },
+                "confidence": "medium",
+                "metadata": {
+                  "description": "JUN 05 ’97 02:02PM LOEWS CORP LEGAL                                                         P.1/6\n\nLOEWS  \nCORPORATION  \n667 Madison Avenue, New York, N.Y. 10021-8087 (212) 545-2920 Fax (212) 935-6801\n\nBARRY HIRSCH  \nSenior Vice President  \nSecretary & General Counsel\n\nFAX  \nCONFIDENTIAL\n\nDATE:     June 4, 1997  \nTO:         Dr. Spears/A.J. Stevens/R. Milstein  \nFROM:     Barry Hirsch\n\nTOTAL NUMBER OF PAGES INCLUDING THIS COVER SHEET - 6  \nIF YOU DO NOT RECEIVE ALL THE PAGES, PLEASE CALL  \nCAROL DOKTORSKI AT (212) 545-2934.\n\nOUR FAX NUMBER IS (212) 935-6801.\n\nTHIS TRANSMISSION IS INTENDED ONLY FOR THE USE OF THE INDIVIDUAL OR ENTITY TO WHOM IT IS ADDRESSED, AND MAY CONTAIN INFORMATION THAT IS PRIVILEGED, CONFIDENTIAL AND EXEMPT FROM DISCLOSURE UNDER APPLICABLE LAW. IF YOU ARE NOT THE INTENDED RECIPIENT, YOU ARE HEREBY NOTIFIED THAT ANY DISSEMINATION, DISTRIBUTION OR COPYING OF THIS COMMUNICATION IS STRICTLY PROHIBITED. IF YOU HAVE RECEIVED THIS COMMUNICATION IN ERROR, PLEASE IMMEDIATELY NOTIFY US BY TELEPHONE AND RETURN THE ORIGINAL MESSAGE TO US AT THE ABOVE ADDRESS VIA THE U.S. POSTAL SERVICE. THANK YOU.\n\n83635935"
+                }
+              }
+            ],
+            "metadata": {
+              "pageRange": {
+                "start": 1,
+                "end": 1
+              },
+              "chunkIndex": 0
+            }
+          }
+        ]
+      },
+      "studio_link": "https://docld.com/documents/4b51ea5d-fb9f-453c-a817-36d34d5ebdba"
+    },
+    "meta": {
+      "timestamp": "2026-03-08T08:15:38.711Z",
+      "requestId": "36ecbd92-7df7-4870-8976-808b03005d22",
+      "method": "POST",
+      "url": "https://docld.com/api/parse",
+      "duration": 6510
+    }
+  },
+  "extracted_text": ""
+}

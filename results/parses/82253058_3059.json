@@ -1,0 +1,56 @@
+{
+  "filename": "82253058_3059.png",
+  "success": true,
+  "duration_ms": 7257,
+  "response": {
+    "data": {
+      "job_id": "5de1e61a-7402-455e-8770-8ca3e46f663f",
+      "duration": 4.357,
+      "usage": {
+        "num_pages": 1,
+        "credits": 1
+      },
+      "result": {
+        "type": "full",
+        "chunks": [
+          {
+            "content": "12/10/96   09:51   317 8450971   LORILLARD   001/002\n\nCOMPETITIVE PRODUCT INTRODUCTION  \nPROGRESS REPORT\n\nTO:  MRS. K. A. SPARROW  \nFROM:  R.G. Ryan  \nDATE:  12/10/96\n\nMANUFACTURER:  R. J. Reynolds  \nBRAND:  Camel Menthol  \nTYPE OF PACKINGS:  Full Flavor Box and Light Box\n\nREPORTING PERIODS:  AUG ____  SEPT ____  OCT ____  NOV __X__  \n(Forward by the 10th of the following month.)\n\nTEST MARKET GEOGRAPHY:  All of Region 7.\n\nPRICE POINT:  FULL $11.89  P/V $_____  (Indicate Distributor’s Cost Per Carton)\n\nSALES FORCE INVOLVEMENT:  Merchandising the top tray of permanent counter displays and labeling carton fixtures in the Camel section. Also placing metal signs and temporary counter displays.\n\nDISTRIBUTORS – ACCEPTANCE/INTRO TERMS/INTRO DEALS:  \nProduct is being introduced to all Direct Accounts in the Region. Acceptance is spotty at this time.\n\nDISTRIBUTOR INVOLVEMENT:  \nAssembly of promotional products and shipment to retail. Indianapolis Direct Accounts are reported to be receiving B1G1F product.\n\nCHAINS – ACCEPTANCE/MERCHANDISING ALLOWANCE  \nChain acceptance has been very good.\n\nINDEPENDENTS – ACCEPTANCE/MERCHANDISING ALLOWANCE  \nAcceptance is better at high volume locations than at lower volume retail calls.\n\nCAMEL.WK1/FMT     PAGE 1 OF 2     82253058",
+            "blocks": [
+              {
+                "type": "Figure",
+                "content": "12/10/96   09:51   317 8450971   LORILLARD   001/002\n\nCOMPETITIVE PRODUCT INTRODUCTION  \nPROGRESS REPORT\n\nTO:  MRS. K. A. SPARROW  \nFROM:  R.G. Ryan  \nDATE:  12/10/96\n\nMANUFACTURER:  R. J. Reynolds  \nBRAND:  Camel Menthol  \nTYPE OF PACKINGS:  Full Flavor Box and Light Box\n\nREPORTING PERIODS:  AUG ____  SEPT ____  OCT ____  NOV __X__  \n(Forward by the 10th of the following month.)\n\nTEST MARKET GEOGRAPHY:  All of Region 7.\n\nPRICE POINT:  FULL $11.89  P/V $_____  (Indicate Distributor’s Cost Per Carton)\n\nSALES FORCE INVOLVEMENT:  Merchandising the top tray of permanent counter displays and labeling carton fixtures in the Camel section. Also placing metal signs and temporary counter displays.\n\nDISTRIBUTORS – ACCEPTANCE/INTRO TERMS/INTRO DEALS:  \nProduct is being introduced to all Direct Accounts in the Region. Acceptance is spotty at this time.\n\nDISTRIBUTOR INVOLVEMENT:  \nAssembly of promotional products and shipment to retail. Indianapolis Direct Accounts are reported to be receiving B1G1F product.\n\nCHAINS – ACCEPTANCE/MERCHANDISING ALLOWANCE  \nChain acceptance has been very good.\n\nINDEPENDENTS – ACCEPTANCE/MERCHANDISING ALLOWANCE  \nAcceptance is better at high volume locations than at lower volume retail calls.\n\nCAMEL.WK1/FMT     PAGE 1 OF 2     82253058",
+                "bbox": {
+                  "page": 1,
+                  "left": 0,
+                  "top": 0,
+                  "width": 1,
+                  "height": 1
+                },
+                "confidence": "medium",
+                "metadata": {
+                  "description": "12/10/96   09:51   317 8450971   LORILLARD   001/002\n\nCOMPETITIVE PRODUCT INTRODUCTION  \nPROGRESS REPORT\n\nTO:  MRS. K. A. SPARROW  \nFROM:  R.G. Ryan  \nDATE:  12/10/96\n\nMANUFACTURER:  R. J. Reynolds  \nBRAND:  Camel Menthol  \nTYPE OF PACKINGS:  Full Flavor Box and Light Box\n\nREPORTING PERIODS:  AUG ____  SEPT ____  OCT ____  NOV __X__  \n(Forward by the 10th of the following month.)\n\nTEST MARKET GEOGRAPHY:  All of Region 7.\n\nPRICE POINT:  FULL $11.89  P/V $_____  (Indicate Distributor’s Cost Per Carton)\n\nSALES FORCE INVOLVEMENT:  Merchandising the top tray of permanent counter displays and labeling carton fixtures in the Camel section. Also placing metal signs and temporary counter displays.\n\nDISTRIBUTORS – ACCEPTANCE/INTRO TERMS/INTRO DEALS:  \nProduct is being introduced to all Direct Accounts in the Region. Acceptance is spotty at this time.\n\nDISTRIBUTOR INVOLVEMENT:  \nAssembly of promotional products and shipment to retail. Indianapolis Direct Accounts are reported to be receiving B1G1F product.\n\nCHAINS – ACCEPTANCE/MERCHANDISING ALLOWANCE  \nChain acceptance has been very good.\n\nINDEPENDENTS – ACCEPTANCE/MERCHANDISING ALLOWANCE  \nAcceptance is better at high volume locations than at lower volume retail calls.\n\nCAMEL.WK1/FMT     PAGE 1 OF 2     82253058"
+                }
+              }
+            ],
+            "metadata": {
+              "pageRange": {
+                "start": 1,
+                "end": 1
+              },
+              "chunkIndex": 0
+            }
+          }
+        ]
+      },
+      "studio_link": "https://docld.com/documents/f9d9ffbd-4a35-4929-abcd-64cf43ffefa6"
+    },
+    "meta": {
+      "timestamp": "2026-03-08T07:57:37.486Z",
+      "requestId": "24f117bc-a93a-4434-b3ac-a0e410db0255",
+      "method": "POST",
+      "url": "https://docld.com/api/parse",
+      "duration": 5149
+    }
+  },
+  "extracted_text": ""
+}

@@ -1,0 +1,56 @@
+{
+  "filename": "82200067_0069.png",
+  "success": true,
+  "duration_ms": 8584,
+  "response": {
+    "data": {
+      "job_id": "37c0cc45-a616-485c-a0ab-15eaf27874af",
+      "duration": 6.093,
+      "usage": {
+        "num_pages": 1,
+        "credits": 1
+      },
+      "result": {
+        "type": "full",
+        "chunks": [
+          {
+            "content": "09/17/97   10:55   503 841 1898   LORILLARD PTLD   001\n\nTO:  \nK. A. Sparrow\n\nFROM:  \nT. D. Blachly\n\nSUBJECT:  \nOLD GOLD MENTHOL LIGHTS & ULTRA LIGHTS 100’S - PROGRESS REPORT\n\nMAY 12 [ ]      AUG 4 [ ]  \nJUN 23 [ ]      SEP 15 [ X ]\n\nREGION:  \n(ONLY IF PARTIAL REGION CONTINUE WITH DIVISION(S) SCOPE)\n\nDIVISION:  \nDIVISION: Portland     # REPS: 6  \nDIVISION: Boise        # REPS: 2.5  \nDIVISION: Eugene       # REPS: 5  \nDIVISION: Seattle South  # REPS: 7  \nDIVISION: Seattle North  # REPS: 4  \nDIVISION: Helena         # REPS: 4\n\nDIRECT ACCOUNTS AND CHAINS HEADQUARTERED WITHIN THE REGION  \n(15 + STORES) STOCKING NO OLD GOLD MENTHOL LIGHTS OR ULTRA LIGHTS 100’S\n\nCUSTOMER / CHAIN | INDICATOR VOLUME | NO. OF STORES  \nTexaco - Seattle | 105 / 5 | 225  \nTexaco - Portland | 81 / 3 | 27  \nMaid-O-Clover | 20 / 2 | 15  \n\nDari-Mart | 125 / 5 | 31  \nZip Trip | 106 / 4 | 18  \nMaverick | 77 / 1 | 19  \nAstro Gas | 600 / 7 | 20\n\n82200067\n\nPage1 of 3 Pages\n\nR-1  OGMUP-15.doc",
+            "blocks": [
+              {
+                "type": "Figure",
+                "content": "09/17/97   10:55   503 841 1898   LORILLARD PTLD   001\n\nTO:  \nK. A. Sparrow\n\nFROM:  \nT. D. Blachly\n\nSUBJECT:  \nOLD GOLD MENTHOL LIGHTS & ULTRA LIGHTS 100’S - PROGRESS REPORT\n\nMAY 12 [ ]      AUG 4 [ ]  \nJUN 23 [ ]      SEP 15 [ X ]\n\nREGION:  \n(ONLY IF PARTIAL REGION CONTINUE WITH DIVISION(S) SCOPE)\n\nDIVISION:  \nDIVISION: Portland     # REPS: 6  \nDIVISION: Boise        # REPS: 2.5  \nDIVISION: Eugene       # REPS: 5  \nDIVISION: Seattle South  # REPS: 7  \nDIVISION: Seattle North  # REPS: 4  \nDIVISION: Helena         # REPS: 4\n\nDIRECT ACCOUNTS AND CHAINS HEADQUARTERED WITHIN THE REGION  \n(15 + STORES) STOCKING NO OLD GOLD MENTHOL LIGHTS OR ULTRA LIGHTS 100’S\n\nCUSTOMER / CHAIN | INDICATOR VOLUME | NO. OF STORES  \nTexaco - Seattle | 105 / 5 | 225  \nTexaco - Portland | 81 / 3 | 27  \nMaid-O-Clover | 20 / 2 | 15  \n\nDari-Mart | 125 / 5 | 31  \nZip Trip | 106 / 4 | 18  \nMaverick | 77 / 1 | 19  \nAstro Gas | 600 / 7 | 20\n\n82200067\n\nPage1 of 3 Pages\n\nR-1  OGMUP-15.doc",
+                "bbox": {
+                  "page": 1,
+                  "left": 0,
+                  "top": 0,
+                  "width": 1,
+                  "height": 1
+                },
+                "confidence": "medium",
+                "metadata": {
+                  "description": "09/17/97   10:55   503 841 1898   LORILLARD PTLD   001\n\nTO:  \nK. A. Sparrow\n\nFROM:  \nT. D. Blachly\n\nSUBJECT:  \nOLD GOLD MENTHOL LIGHTS & ULTRA LIGHTS 100’S - PROGRESS REPORT\n\nMAY 12 [ ]      AUG 4 [ ]  \nJUN 23 [ ]      SEP 15 [ X ]\n\nREGION:  \n(ONLY IF PARTIAL REGION CONTINUE WITH DIVISION(S) SCOPE)\n\nDIVISION:  \nDIVISION: Portland     # REPS: 6  \nDIVISION: Boise        # REPS: 2.5  \nDIVISION: Eugene       # REPS: 5  \nDIVISION: Seattle South  # REPS: 7  \nDIVISION: Seattle North  # REPS: 4  \nDIVISION: Helena         # REPS: 4\n\nDIRECT ACCOUNTS AND CHAINS HEADQUARTERED WITHIN THE REGION  \n(15 + STORES) STOCKING NO OLD GOLD MENTHOL LIGHTS OR ULTRA LIGHTS 100’S\n\nCUSTOMER / CHAIN | INDICATOR VOLUME | NO. OF STORES  \nTexaco - Seattle | 105 / 5 | 225  \nTexaco - Portland | 81 / 3 | 27  \nMaid-O-Clover | 20 / 2 | 15  \n\nDari-Mart | 125 / 5 | 31  \nZip Trip | 106 / 4 | 18  \nMaverick | 77 / 1 | 19  \nAstro Gas | 600 / 7 | 20\n\n82200067\n\nPage1 of 3 Pages\n\nR-1  OGMUP-15.doc"
+                }
+              }
+            ],
+            "metadata": {
+              "pageRange": {
+                "start": 1,
+                "end": 1
+              },
+              "chunkIndex": 0
+            }
+          }
+        ]
+      },
+      "studio_link": "https://docld.com/documents/cf9ce2a1-167c-4e61-914a-2d6ecb39ad48"
+    },
+    "meta": {
+      "timestamp": "2026-03-08T07:57:01.882Z",
+      "requestId": "6c0a4a46-d9fa-4178-8415-b5a54ab894f1",
+      "method": "POST",
+      "url": "https://docld.com/api/parse",
+      "duration": 6961
+    }
+  },
+  "extracted_text": ""
+}

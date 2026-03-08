@@ -1,0 +1,56 @@
+{
+  "filename": "82251504.png",
+  "success": true,
+  "duration_ms": 8741,
+  "response": {
+    "data": {
+      "job_id": "90a98fbc-51d5-4307-be81-874917429ff6",
+      "duration": 5.962,
+      "usage": {
+        "num_pages": 1,
+        "credits": 1
+      },
+      "result": {
+        "type": "full",
+        "chunks": [
+          {
+            "content": "11/05/97  11:03   813 884 0863      LORILLARD TAKPA ---> GREENSBOR      002/003      #17\n\nRetail Excel Progress Report\n\nSubmission for:\nJuly 31        ( )\nAugust 29      ( )\nSeptember 30   ( )\nOctober 31     (X)\nNovember 28    ( )\nDecember 30    ( )\n\nTo: R. W. Caldarella\n\nFrom: Kent B. Mills\n\nArea: 5   Region: 17\n\nDistribution by/to:\nDM to RSM 1st of Month\nRSM to R.W.C. 10th\ncc: D.O.S.\n\nAcceptance/Response: What is the retailers response to Lorillard's Excel Merchandising plan?\nChains: This program has been successful to date with chains where our \"Flex Payment\" was not in place. The chains where we were using the \"Flex Payment\" system we have not been as successful. The P.O.S. requirements of the P-1 Plan with Oil Companies is difficult to obtain.\n\nIndependents:\nAdditional P.V. merchandising is being secured quickly.\nAdditional monies have assisted Region 17 in fighting PM Exclusives and PM/RJR co-existence situations.\n\nHardware Evaluation/Effectiveness: Comment on the assembly of displays and application of shields:\nThe displays are easily assembled and durable. Some questions have been raised concerning the inability to be flush with the counter and/or up against the register. As well as the ability to place this on the Back Bar if the settlement goes through.\n\nPermanent Advertising Evaluation/Effectiveness/Acceptance: (P-1/P-5 & C-5 Plans Only:\nNot available at this time\n\n82251504",
+            "blocks": [
+              {
+                "type": "Figure",
+                "content": "11/05/97  11:03   813 884 0863      LORILLARD TAKPA ---> GREENSBOR      002/003      #17\n\nRetail Excel Progress Report\n\nSubmission for:\nJuly 31        ( )\nAugust 29      ( )\nSeptember 30   ( )\nOctober 31     (X)\nNovember 28    ( )\nDecember 30    ( )\n\nTo: R. W. Caldarella\n\nFrom: Kent B. Mills\n\nArea: 5   Region: 17\n\nDistribution by/to:\nDM to RSM 1st of Month\nRSM to R.W.C. 10th\ncc: D.O.S.\n\nAcceptance/Response: What is the retailers response to Lorillard's Excel Merchandising plan?\nChains: This program has been successful to date with chains where our \"Flex Payment\" was not in place. The chains where we were using the \"Flex Payment\" system we have not been as successful. The P.O.S. requirements of the P-1 Plan with Oil Companies is difficult to obtain.\n\nIndependents:\nAdditional P.V. merchandising is being secured quickly.\nAdditional monies have assisted Region 17 in fighting PM Exclusives and PM/RJR co-existence situations.\n\nHardware Evaluation/Effectiveness: Comment on the assembly of displays and application of shields:\nThe displays are easily assembled and durable. Some questions have been raised concerning the inability to be flush with the counter and/or up against the register. As well as the ability to place this on the Back Bar if the settlement goes through.\n\nPermanent Advertising Evaluation/Effectiveness/Acceptance: (P-1/P-5 & C-5 Plans Only:\nNot available at this time\n\n82251504",
+                "bbox": {
+                  "page": 1,
+                  "left": 0,
+                  "top": 0,
+                  "width": 1,
+                  "height": 1
+                },
+                "confidence": "medium",
+                "metadata": {
+                  "description": "11/05/97  11:03   813 884 0863      LORILLARD TAKPA ---> GREENSBOR      002/003      #17\n\nRetail Excel Progress Report\n\nSubmission for:\nJuly 31        ( )\nAugust 29      ( )\nSeptember 30   ( )\nOctober 31     (X)\nNovember 28    ( )\nDecember 30    ( )\n\nTo: R. W. Caldarella\n\nFrom: Kent B. Mills\n\nArea: 5   Region: 17\n\nDistribution by/to:\nDM to RSM 1st of Month\nRSM to R.W.C. 10th\ncc: D.O.S.\n\nAcceptance/Response: What is the retailers response to Lorillard's Excel Merchandising plan?\nChains: This program has been successful to date with chains where our \"Flex Payment\" was not in place. The chains where we were using the \"Flex Payment\" system we have not been as successful. The P.O.S. requirements of the P-1 Plan with Oil Companies is difficult to obtain.\n\nIndependents:\nAdditional P.V. merchandising is being secured quickly.\nAdditional monies have assisted Region 17 in fighting PM Exclusives and PM/RJR co-existence situations.\n\nHardware Evaluation/Effectiveness: Comment on the assembly of displays and application of shields:\nThe displays are easily assembled and durable. Some questions have been raised concerning the inability to be flush with the counter and/or up against the register. As well as the ability to place this on the Back Bar if the settlement goes through.\n\nPermanent Advertising Evaluation/Effectiveness/Acceptance: (P-1/P-5 & C-5 Plans Only:\nNot available at this time\n\n82251504"
+                }
+              }
+            ],
+            "metadata": {
+              "pageRange": {
+                "start": 1,
+                "end": 1
+              },
+              "chunkIndex": 0
+            }
+          }
+        ]
+      },
+      "studio_link": "https://docld.com/documents/f6ab2d2d-efcf-4dc5-8064-b6f54ce07bdc"
+    },
+    "meta": {
+      "timestamp": "2026-03-08T07:57:20.021Z",
+      "requestId": "d8ea2461-8b54-4be8-be2a-577e548739f3",
+      "method": "POST",
+      "url": "https://docld.com/api/parse",
+      "duration": 6958
+    }
+  },
+  "extracted_text": ""
+}

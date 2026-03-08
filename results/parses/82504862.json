@@ -1,0 +1,56 @@
+{
+  "filename": "82504862.png",
+  "success": true,
+  "duration_ms": 5157,
+  "response": {
+    "data": {
+      "job_id": "77a54217-1aa1-43c2-83e3-8fcbba7f8d28",
+      "duration": 2.529,
+      "usage": {
+        "num_pages": 1,
+        "credits": 1
+      },
+      "result": {
+        "type": "full",
+        "chunks": [
+          {
+            "content": "CASE FORM\n\nCASE NAME: Donald D. Sellers and Robin J. Sellers v. Raybestos-Manhattan, et al.\n\nCOURT: San Francisco Superior Court - No. 996382\n\nLORILLARD ENTITIES: Lorillard Tobacco Company\n\nDATE FILED:\n\nDATE SERVED: August 3, 1998\n\nCASE TYPE: Asbestos\n\nPLAINTIFF'S COUNSEL: Wartnick, Chaber, Harowitz, Smith& Tigerman  \nStephenM.Tigerman  \n101 California Street, Suite 2200  \nSan Francisco, California 94111  \n415/986-5566\n\nLORILLARD COUNSEL:\n\nJUDGE:\n\nTRIAL DATE:\n\n(Vertical numbers at lower right)  \n99625115  \n82504862",
+            "blocks": [
+              {
+                "type": "Figure",
+                "content": "CASE FORM\n\nCASE NAME: Donald D. Sellers and Robin J. Sellers v. Raybestos-Manhattan, et al.\n\nCOURT: San Francisco Superior Court - No. 996382\n\nLORILLARD ENTITIES: Lorillard Tobacco Company\n\nDATE FILED:\n\nDATE SERVED: August 3, 1998\n\nCASE TYPE: Asbestos\n\nPLAINTIFF'S COUNSEL: Wartnick, Chaber, Harowitz, Smith& Tigerman  \nStephenM.Tigerman  \n101 California Street, Suite 2200  \nSan Francisco, California 94111  \n415/986-5566\n\nLORILLARD COUNSEL:\n\nJUDGE:\n\nTRIAL DATE:\n\n(Vertical numbers at lower right)  \n99625115  \n82504862",
+                "bbox": {
+                  "page": 1,
+                  "left": 0,
+                  "top": 0,
+                  "width": 1,
+                  "height": 1
+                },
+                "confidence": "medium",
+                "metadata": {
+                  "description": "CASE FORM\n\nCASE NAME: Donald D. Sellers and Robin J. Sellers v. Raybestos-Manhattan, et al.\n\nCOURT: San Francisco Superior Court - No. 996382\n\nLORILLARD ENTITIES: Lorillard Tobacco Company\n\nDATE FILED:\n\nDATE SERVED: August 3, 1998\n\nCASE TYPE: Asbestos\n\nPLAINTIFF'S COUNSEL: Wartnick, Chaber, Harowitz, Smith& Tigerman  \nStephenM.Tigerman  \n101 California Street, Suite 2200  \nSan Francisco, California 94111  \n415/986-5566\n\nLORILLARD COUNSEL:\n\nJUDGE:\n\nTRIAL DATE:\n\n(Vertical numbers at lower right)  \n99625115  \n82504862"
+                }
+              }
+            ],
+            "metadata": {
+              "pageRange": {
+                "start": 1,
+                "end": 1
+              },
+              "chunkIndex": 0
+            }
+          }
+        ]
+      },
+      "studio_link": "https://docld.com/documents/73088181-e376-4678-9d10-c1046c44031c"
+    },
+    "meta": {
+      "timestamp": "2026-03-08T08:02:51.770Z",
+      "requestId": "7b910c1b-fa00-4f24-a147-555503415389",
+      "method": "POST",
+      "url": "https://docld.com/api/parse",
+      "duration": 3915
+    }
+  },
+  "extracted_text": ""
+}

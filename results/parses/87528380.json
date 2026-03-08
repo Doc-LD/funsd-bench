@@ -1,0 +1,56 @@
+{
+  "filename": "87528380.png",
+  "success": true,
+  "duration_ms": 14849,
+  "response": {
+    "data": {
+      "job_id": "025a219f-f8d7-48ce-8013-2babf5919ac1",
+      "duration": 11.981,
+      "usage": {
+        "num_pages": 1,
+        "credits": 1
+      },
+      "result": {
+        "type": "full",
+        "chunks": [
+          {
+            "content": "Document image: a black-and-white proposal form on Stout Industries, Inc. letterhead.\n\nTop header:\n- Large stylized “S” logo at left.\n- “STOUT INDUSTRIES, INC.”\n- Address line: “6425 W. FLORISSANT AVE., ST. LOUIS, MO. 63136 • (314) 385-2280”\n- Number at top right: “10675”\n\nMain title:\n- “PROPOSAL”\n\nCustomer / job information box:\n- TO: “Lorillard Corporation”\n- ADDRESS: “666 Fifth Avenue”\n- CITY: “New York”\n- STATE: “New York 10103”\n- Attn: “Mr. Robert Kennedy”\n- FOR: “Metal “Pack” Plaque”\n- DATE: “October 16, 1987”\n- “Mr. A. D. Steinberg” (your representative)\n\nBody text:\n- “It is our pleasure to propose the following:”\n\nItem/specifications section:\n- ITEM: “Harley Davidson Metal Plaque”\n- MATERIAL: “STEEL [ ]   ALUMINUM [X]   OTHER [ ]”\n- SIZE: “17¼ x 23½”\n- GAUGE: “.025”\n- COLORS: “Transparent gold, opaque black, white and orange”\n- BASE COLOR: “Aluminum”\n- “SINGLE FACE [X]   DOUBLE FACE [ ]”\n- HOLES: “YES [X]   NO [ ]”\n- NUMBER OF: “4”\n- CORNERS: “ROUND [ ]   SQUARE [X]   ANGLE [ ]   CUT TO SHAPE [ ]”\n- EDGES: “HEMMED [ ]   CURLED [ ]   EMBOSSED [ ]   BEADED BORDER [ ]”\n- STAMP FRAME: “RIGHT ANGLE BEND [ ]   BACK FRAME [ ]” (Stamp frame box appears checked)\n- PACKING: “PER CARTON 10   PER CRATE ____   PER BUNDLE ____”\n- OTHER: “Price is based on reproduction of customer supplied “Pack” box.”\n- Tooling: “Form die, brass emboss die to achieve detail on eagle.”\n\nPricing/quantities box:\n- QUANTITIES: “500 Plaques”\n- “One time tooling @ $3,015.00”\n- “Steel tips $1,045.00”\n- PRICE: “$9.18 each”\n- Handwritten note near this area: “4050” (with an arrow)\n\nBilling/warehousing section:\n- BILLING: “[X] BILL AS MANUFACTURE.   [ ] BILL AS SHIP FOR.   [ ] 6 MOS.   [ ] 12 MOS.”\n- WAREHOUSING: “[X] SHIP IMMEDIATELY.   [ ] 6 MOS. WHSE.   [ ] 12 MOS. WHSE.”\n- DROP SHIPPING: “_____ PER SHIPMENT.”\n- Handwritten note: “78.?? - 2650” (partially illegible)\n\nConditions / terms section:\n- Heading: “CONDITIONS:”\n- “PRICES QUOTED HEREIN ARE BASED ON CURRENT COSTS AND ARE FOR IMMEDIATE ACCEPTANCE.”\n- Additional small-print terms about price changes, delivery, contingencies, purchaser acceptance, storage, F.O.B. St. Louis, Missouri, freight collect, and service charge (full paragraph present but too small to read perfectly in every word).\n- A number printed at right within this area: “87528380”\n\nBottom:\n- “TERMS — NET 10 DAYS:”\n- “A service charge of 1½% per month will be applied to all unpaid balances over 30 days.”\n- Signature area with “STOUT INDUSTRIES, INC.” and a handwritten signature.\n- Small footer text includes: “Dayton - Bayard” and “LITHO IN U.S.A.” plus a code “K2063” (and other tiny text).",
+            "blocks": [
+              {
+                "type": "Figure",
+                "content": "Document image: a black-and-white proposal form on Stout Industries, Inc. letterhead.\n\nTop header:\n- Large stylized “S” logo at left.\n- “STOUT INDUSTRIES, INC.”\n- Address line: “6425 W. FLORISSANT AVE., ST. LOUIS, MO. 63136 • (314) 385-2280”\n- Number at top right: “10675”\n\nMain title:\n- “PROPOSAL”\n\nCustomer / job information box:\n- TO: “Lorillard Corporation”\n- ADDRESS: “666 Fifth Avenue”\n- CITY: “New York”\n- STATE: “New York 10103”\n- Attn: “Mr. Robert Kennedy”\n- FOR: “Metal “Pack” Plaque”\n- DATE: “October 16, 1987”\n- “Mr. A. D. Steinberg” (your representative)\n\nBody text:\n- “It is our pleasure to propose the following:”\n\nItem/specifications section:\n- ITEM: “Harley Davidson Metal Plaque”\n- MATERIAL: “STEEL [ ]   ALUMINUM [X]   OTHER [ ]”\n- SIZE: “17¼ x 23½”\n- GAUGE: “.025”\n- COLORS: “Transparent gold, opaque black, white and orange”\n- BASE COLOR: “Aluminum”\n- “SINGLE FACE [X]   DOUBLE FACE [ ]”\n- HOLES: “YES [X]   NO [ ]”\n- NUMBER OF: “4”\n- CORNERS: “ROUND [ ]   SQUARE [X]   ANGLE [ ]   CUT TO SHAPE [ ]”\n- EDGES: “HEMMED [ ]   CURLED [ ]   EMBOSSED [ ]   BEADED BORDER [ ]”\n- STAMP FRAME: “RIGHT ANGLE BEND [ ]   BACK FRAME [ ]” (Stamp frame box appears checked)\n- PACKING: “PER CARTON 10   PER CRATE ____   PER BUNDLE ____”\n- OTHER: “Price is based on reproduction of customer supplied “Pack” box.”\n- Tooling: “Form die, brass emboss die to achieve detail on eagle.”\n\nPricing/quantities box:\n- QUANTITIES: “500 Plaques”\n- “One time tooling @ $3,015.00”\n- “Steel tips $1,045.00”\n- PRICE: “$9.18 each”\n- Handwritten note near this area: “4050” (with an arrow)\n\nBilling/warehousing section:\n- BILLING: “[X] BILL AS MANUFACTURE.   [ ] BILL AS SHIP FOR.   [ ] 6 MOS.   [ ] 12 MOS.”\n- WAREHOUSING: “[X] SHIP IMMEDIATELY.   [ ] 6 MOS. WHSE.   [ ] 12 MOS. WHSE.”\n- DROP SHIPPING: “_____ PER SHIPMENT.”\n- Handwritten note: “78.?? - 2650” (partially illegible)\n\nConditions / terms section:\n- Heading: “CONDITIONS:”\n- “PRICES QUOTED HEREIN ARE BASED ON CURRENT COSTS AND ARE FOR IMMEDIATE ACCEPTANCE.”\n- Additional small-print terms about price changes, delivery, contingencies, purchaser acceptance, storage, F.O.B. St. Louis, Missouri, freight collect, and service charge (full paragraph present but too small to read perfectly in every word).\n- A number printed at right within this area: “87528380”\n\nBottom:\n- “TERMS — NET 10 DAYS:”\n- “A service charge of 1½% per month will be applied to all unpaid balances over 30 days.”\n- Signature area with “STOUT INDUSTRIES, INC.” and a handwritten signature.\n- Small footer text includes: “Dayton - Bayard” and “LITHO IN U.S.A.” plus a code “K2063” (and other tiny text).",
+                "bbox": {
+                  "page": 1,
+                  "left": 0,
+                  "top": 0,
+                  "width": 1,
+                  "height": 1
+                },
+                "confidence": "medium",
+                "metadata": {
+                  "description": "Document image: a black-and-white proposal form on Stout Industries, Inc. letterhead.\n\nTop header:\n- Large stylized “S” logo at left.\n- “STOUT INDUSTRIES, INC.”\n- Address line: “6425 W. FLORISSANT AVE., ST. LOUIS, MO. 63136 • (314) 385-2280”\n- Number at top right: “10675”\n\nMain title:\n- “PROPOSAL”\n\nCustomer / job information box:\n- TO: “Lorillard Corporation”\n- ADDRESS: “666 Fifth Avenue”\n- CITY: “New York”\n- STATE: “New York 10103”\n- Attn: “Mr. Robert Kennedy”\n- FOR: “Metal “Pack” Plaque”\n- DATE: “October 16, 1987”\n- “Mr. A. D. Steinberg” (your representative)\n\nBody text:\n- “It is our pleasure to propose the following:”\n\nItem/specifications section:\n- ITEM: “Harley Davidson Metal Plaque”\n- MATERIAL: “STEEL [ ]   ALUMINUM [X]   OTHER [ ]”\n- SIZE: “17¼ x 23½”\n- GAUGE: “.025”\n- COLORS: “Transparent gold, opaque black, white and orange”\n- BASE COLOR: “Aluminum”\n- “SINGLE FACE [X]   DOUBLE FACE [ ]”\n- HOLES: “YES [X]   NO [ ]”\n- NUMBER OF: “4”\n- CORNERS: “ROUND [ ]   SQUARE [X]   ANGLE [ ]   CUT TO SHAPE [ ]”\n- EDGES: “HEMMED [ ]   CURLED [ ]   EMBOSSED [ ]   BEADED BORDER [ ]”\n- STAMP FRAME: “RIGHT ANGLE BEND [ ]   BACK FRAME [ ]” (Stamp frame box appears checked)\n- PACKING: “PER CARTON 10   PER CRATE ____   PER BUNDLE ____”\n- OTHER: “Price is based on reproduction of customer supplied “Pack” box.”\n- Tooling: “Form die, brass emboss die to achieve detail on eagle.”\n\nPricing/quantities box:\n- QUANTITIES: “500 Plaques”\n- “One time tooling @ $3,015.00”\n- “Steel tips $1,045.00”\n- PRICE: “$9.18 each”\n- Handwritten note near this area: “4050” (with an arrow)\n\nBilling/warehousing section:\n- BILLING: “[X] BILL AS MANUFACTURE.   [ ] BILL AS SHIP FOR.   [ ] 6 MOS.   [ ] 12 MOS.”\n- WAREHOUSING: “[X] SHIP IMMEDIATELY.   [ ] 6 MOS. WHSE.   [ ] 12 MOS. WHSE.”\n- DROP SHIPPING: “_____ PER SHIPMENT.”\n- Handwritten note: “78.?? - 2650” (partially illegible)\n\nConditions / terms section:\n- Heading: “CONDITIONS:”\n- “PRICES QUOTED HEREIN ARE BASED ON CURRENT COSTS AND ARE FOR IMMEDIATE ACCEPTANCE.”\n- Additional small-print terms about price changes, delivery, contingencies, purchaser acceptance, storage, F.O.B. St. Louis, Missouri, freight collect, and service charge (full paragraph present but too small to read perfectly in every word).\n- A number printed at right within this area: “87528380”\n\nBottom:\n- “TERMS — NET 10 DAYS:”\n- “A service charge of 1½% per month will be applied to all unpaid balances over 30 days.”\n- Signature area with “STOUT INDUSTRIES, INC.” and a handwritten signature.\n- Small footer text includes: “Dayton - Bayard” and “LITHO IN U.S.A.” plus a code “K2063” (and other tiny text)."
+                }
+              }
+            ],
+            "metadata": {
+              "pageRange": {
+                "start": 1,
+                "end": 1
+              },
+              "chunkIndex": 0
+            }
+          }
+        ]
+      },
+      "studio_link": "https://docld.com/documents/14907160-b4f9-412c-925f-5d33c976d181"
+    },
+    "meta": {
+      "timestamp": "2026-03-08T08:49:20.064Z",
+      "requestId": "5ca5e33e-9951-4464-86b3-6c3e4fff2a42",
+      "method": "POST",
+      "url": "https://docld.com/api/parse",
+      "duration": 12971
+    }
+  },
+  "extracted_text": ""
+}

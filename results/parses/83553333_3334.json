@@ -1,0 +1,56 @@
+{
+  "filename": "83553333_3334.png",
+  "success": true,
+  "duration_ms": 9062,
+  "response": {
+    "data": {
+      "job_id": "3c580891-eb2b-441b-a217-81b623d6d937",
+      "duration": 6.317,
+      "usage": {
+        "num_pages": 1,
+        "credits": 1
+      },
+      "result": {
+        "type": "full",
+        "chunks": [
+          {
+            "content": "DAVIS POLK & WARDWELL\n\nFax Transmittal  \n450 Lexington Avenue  \nNew York, NY 10017  \n212-450-4000\n\nSender: Charles Duggan  \nDate: November 12, 1999  \nNumber of Pages (this page included): 6  \nSender Voice Number: 212-450-4785  \nIf problems receiving this fax, call: 212-450-4785  \nSender Fax Number: 212-450-3785  \nReference: 17555-002\n\nTo / Fax Number / Company / Recipient Phone Number\n\nThomas M. Sobol / 617-439-3278 / Brown Rudnick Freed & Gesmer / 617-330-9000\n\nJoseph F. Rice / 843-720-9290 / Ness, Motley, Loadholt, Richardson & Poole / 843-720-9000\n\nRobert V. Costello  \nJeffrey D. Woolf / 617-722-0286 / Schneider, Reilly, Zabin & Costello / 617-227-7500\n\nRichard M. Heimann / 415-956-1008 / Lieff, Cabraser & Heimann / 415-956-1000\n\nMichael P. Thornton / 617-720-2445 / Thornton, Early & Naumes / 617-720-1333\n\nMessage:\n\n(Vertical number at right side): 83553333\n\nConfidentiality Note: This facsimile is intended only for the person or entity to which it is addressed and may contain information that is privileged, confidential or otherwise protected from disclosure. Dissemination, distribution or copying of this facsimile or the information herein by anyone other than the intended recipient, or an employee or agent responsible for delivering the message to the intended recipient, is prohibited. If you have received this facsimile in error, please notify us immediately by telephone and return the facsimile by mail.",
+            "blocks": [
+              {
+                "type": "Figure",
+                "content": "DAVIS POLK & WARDWELL\n\nFax Transmittal  \n450 Lexington Avenue  \nNew York, NY 10017  \n212-450-4000\n\nSender: Charles Duggan  \nDate: November 12, 1999  \nNumber of Pages (this page included): 6  \nSender Voice Number: 212-450-4785  \nIf problems receiving this fax, call: 212-450-4785  \nSender Fax Number: 212-450-3785  \nReference: 17555-002\n\nTo / Fax Number / Company / Recipient Phone Number\n\nThomas M. Sobol / 617-439-3278 / Brown Rudnick Freed & Gesmer / 617-330-9000\n\nJoseph F. Rice / 843-720-9290 / Ness, Motley, Loadholt, Richardson & Poole / 843-720-9000\n\nRobert V. Costello  \nJeffrey D. Woolf / 617-722-0286 / Schneider, Reilly, Zabin & Costello / 617-227-7500\n\nRichard M. Heimann / 415-956-1008 / Lieff, Cabraser & Heimann / 415-956-1000\n\nMichael P. Thornton / 617-720-2445 / Thornton, Early & Naumes / 617-720-1333\n\nMessage:\n\n(Vertical number at right side): 83553333\n\nConfidentiality Note: This facsimile is intended only for the person or entity to which it is addressed and may contain information that is privileged, confidential or otherwise protected from disclosure. Dissemination, distribution or copying of this facsimile or the information herein by anyone other than the intended recipient, or an employee or agent responsible for delivering the message to the intended recipient, is prohibited. If you have received this facsimile in error, please notify us immediately by telephone and return the facsimile by mail.",
+                "bbox": {
+                  "page": 1,
+                  "left": 0,
+                  "top": 0,
+                  "width": 1,
+                  "height": 1
+                },
+                "confidence": "medium",
+                "metadata": {
+                  "description": "DAVIS POLK & WARDWELL\n\nFax Transmittal  \n450 Lexington Avenue  \nNew York, NY 10017  \n212-450-4000\n\nSender: Charles Duggan  \nDate: November 12, 1999  \nNumber of Pages (this page included): 6  \nSender Voice Number: 212-450-4785  \nIf problems receiving this fax, call: 212-450-4785  \nSender Fax Number: 212-450-3785  \nReference: 17555-002\n\nTo / Fax Number / Company / Recipient Phone Number\n\nThomas M. Sobol / 617-439-3278 / Brown Rudnick Freed & Gesmer / 617-330-9000\n\nJoseph F. Rice / 843-720-9290 / Ness, Motley, Loadholt, Richardson & Poole / 843-720-9000\n\nRobert V. Costello  \nJeffrey D. Woolf / 617-722-0286 / Schneider, Reilly, Zabin & Costello / 617-227-7500\n\nRichard M. Heimann / 415-956-1008 / Lieff, Cabraser & Heimann / 415-956-1000\n\nMichael P. Thornton / 617-720-2445 / Thornton, Early & Naumes / 617-720-1333\n\nMessage:\n\n(Vertical number at right side): 83553333\n\nConfidentiality Note: This facsimile is intended only for the person or entity to which it is addressed and may contain information that is privileged, confidential or otherwise protected from disclosure. Dissemination, distribution or copying of this facsimile or the information herein by anyone other than the intended recipient, or an employee or agent responsible for delivering the message to the intended recipient, is prohibited. If you have received this facsimile in error, please notify us immediately by telephone and return the facsimile by mail."
+                }
+              }
+            ],
+            "metadata": {
+              "pageRange": {
+                "start": 1,
+                "end": 1
+              },
+              "chunkIndex": 0
+            }
+          }
+        ]
+      },
+      "studio_link": "https://docld.com/documents/77a021a1-f4a8-4516-b6df-55cebfea342a"
+    },
+    "meta": {
+      "timestamp": "2026-03-08T08:09:55.907Z",
+      "requestId": "312f7f91-6006-4c48-81fb-99062d2fe0b1",
+      "method": "POST",
+      "url": "https://docld.com/api/parse",
+      "duration": 7225
+    }
+  },
+  "extracted_text": ""
+}

@@ -1,0 +1,56 @@
+{
+  "filename": "86263525.png",
+  "success": true,
+  "duration_ms": 5505,
+  "response": {
+    "data": {
+      "job_id": "2946315c-c61c-4662-87e0-0020852ef526",
+      "duration": 3.172,
+      "usage": {
+        "num_pages": 1,
+        "credits": 1
+      },
+      "result": {
+        "type": "full",
+        "chunks": [
+          {
+            "content": "RECORDS RETENTION SCHEDULE RECONCILIATION  \nRECORDS MANAGEMENT DEPARTMENT - M/C\n\nDEPARTMENT NAME  SCIENCE & TECHNOLOGY\n\nCOST CENTER NUMBER  141\n\nINDEX BINDERS CONSOLIDATED BY:  \nN/A                              DATE __________\n\nINDEX BINDER RE-LABELED BY:  \nNoria Mallory                    DATE  2/15/90\n\nRETENTION & RECOMMENDATION FILE REORGANIZED AND RE-LABELED BY:  \nN/A                              DATE __________\n\nRECORDS RETENTION SCHEDULE PLACED IN INDEX BINDER AND IN FILE BY:  \nWayne Baughan                    DATE  4/18/90\n\nBOXES CREATED FOR HARD COPY PERMANENT RETENTION RECORDS BY:  \nN/A                              DATE __________\n\nRECORDS TRANSFER INVENTORY FORMS UPDATED BY:  \nWayne Baughan                    DATE  7/25/90\n\n(Vertical number along right margin) 2951119008",
+            "blocks": [
+              {
+                "type": "Figure",
+                "content": "RECORDS RETENTION SCHEDULE RECONCILIATION  \nRECORDS MANAGEMENT DEPARTMENT - M/C\n\nDEPARTMENT NAME  SCIENCE & TECHNOLOGY\n\nCOST CENTER NUMBER  141\n\nINDEX BINDERS CONSOLIDATED BY:  \nN/A                              DATE __________\n\nINDEX BINDER RE-LABELED BY:  \nNoria Mallory                    DATE  2/15/90\n\nRETENTION & RECOMMENDATION FILE REORGANIZED AND RE-LABELED BY:  \nN/A                              DATE __________\n\nRECORDS RETENTION SCHEDULE PLACED IN INDEX BINDER AND IN FILE BY:  \nWayne Baughan                    DATE  4/18/90\n\nBOXES CREATED FOR HARD COPY PERMANENT RETENTION RECORDS BY:  \nN/A                              DATE __________\n\nRECORDS TRANSFER INVENTORY FORMS UPDATED BY:  \nWayne Baughan                    DATE  7/25/90\n\n(Vertical number along right margin) 2951119008",
+                "bbox": {
+                  "page": 1,
+                  "left": 0,
+                  "top": 0,
+                  "width": 1,
+                  "height": 1
+                },
+                "confidence": "medium",
+                "metadata": {
+                  "description": "RECORDS RETENTION SCHEDULE RECONCILIATION  \nRECORDS MANAGEMENT DEPARTMENT - M/C\n\nDEPARTMENT NAME  SCIENCE & TECHNOLOGY\n\nCOST CENTER NUMBER  141\n\nINDEX BINDERS CONSOLIDATED BY:  \nN/A                              DATE __________\n\nINDEX BINDER RE-LABELED BY:  \nNoria Mallory                    DATE  2/15/90\n\nRETENTION & RECOMMENDATION FILE REORGANIZED AND RE-LABELED BY:  \nN/A                              DATE __________\n\nRECORDS RETENTION SCHEDULE PLACED IN INDEX BINDER AND IN FILE BY:  \nWayne Baughan                    DATE  4/18/90\n\nBOXES CREATED FOR HARD COPY PERMANENT RETENTION RECORDS BY:  \nN/A                              DATE __________\n\nRECORDS TRANSFER INVENTORY FORMS UPDATED BY:  \nWayne Baughan                    DATE  7/25/90\n\n(Vertical number along right margin) 2951119008"
+                }
+              }
+            ],
+            "metadata": {
+              "pageRange": {
+                "start": 1,
+                "end": 1
+              },
+              "chunkIndex": 0
+            }
+          }
+        ]
+      },
+      "studio_link": "https://docld.com/documents/80b64fbc-fc65-4b51-8dcd-dc56128e6338"
+    },
+    "meta": {
+      "timestamp": "2026-03-08T08:36:33.127Z",
+      "requestId": "795ccf57-b498-465a-8b70-578b32dc686b",
+      "method": "POST",
+      "url": "https://docld.com/api/parse",
+      "duration": 3995
+    }
+  },
+  "extracted_text": ""
+}

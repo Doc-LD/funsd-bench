@@ -1,0 +1,56 @@
+{
+  "filename": "82573104.png",
+  "success": true,
+  "duration_ms": 6803,
+  "response": {
+    "data": {
+      "job_id": "e0065329-7e8d-487e-a7e6-7bdc44562f60",
+      "duration": 4.5,
+      "usage": {
+        "num_pages": 1,
+        "credits": 1
+      },
+      "result": {
+        "type": "full",
+        "chunks": [
+          {
+            "content": "COVINGTON & BURLING\n\n1201 Pennsylvania Avenue, N.W.  \nP.O. Box 7566  \nWashington, D.C. 20044-7566  \n(202) 662-6000  \nFax Numbers (202) 662-6291 or (202) 737-0528  \nFax Operator: (202) 662-6280\n\n[Boxed notice]  \nTHIS FACSIMILE TRANSMISSION IS INTENDED ONLY FOR THE ADDRESSEE SHOWN BELOW. IT MAY CONTAIN INFORMATION THAT IS PRIVILEGED, CONFIDENTIAL OR OTHERWISE PROTECTED FROM DISCLOSURE. ANY REVIEW, DISSEMINATION OR USE OF THIS TRANSMISSION OR ITS CONTENTS BY PERSONS OTHER THAN THE ADDRESSEE IS STRICTLY PROHIBITED. IF YOU HAVE RECEIVED THIS TRANSMISSION IN ERROR, PLEASE NOTIFY US IMMEDIATELY AND MAIL THE ORIGINAL TO US AT THE ABOVE ADDRESS.\n\nDate: December 9, 1999  \nTo: Haney H. Bell, Esq.  \nFrom: David H. Remes  \n(202) 778-5212 – direct fax  \nRoom: 803E  \n11 Pages (including cover)\n\nMESSAGE:\n\nHandwritten notes at top right:  \nXc: RBS  \n12-9-99  \nFrom: DSM  \nRECEIVED  \nDEC - 9 1999  \nR. B. SPELL\n\nVertical number on right side:  \n82573104\n\nBottom (upside down):  \nCOVINGTON & BURLING  \n12/09/99 11:08 FAX  \n001",
+            "blocks": [
+              {
+                "type": "Figure",
+                "content": "COVINGTON & BURLING\n\n1201 Pennsylvania Avenue, N.W.  \nP.O. Box 7566  \nWashington, D.C. 20044-7566  \n(202) 662-6000  \nFax Numbers (202) 662-6291 or (202) 737-0528  \nFax Operator: (202) 662-6280\n\n[Boxed notice]  \nTHIS FACSIMILE TRANSMISSION IS INTENDED ONLY FOR THE ADDRESSEE SHOWN BELOW. IT MAY CONTAIN INFORMATION THAT IS PRIVILEGED, CONFIDENTIAL OR OTHERWISE PROTECTED FROM DISCLOSURE. ANY REVIEW, DISSEMINATION OR USE OF THIS TRANSMISSION OR ITS CONTENTS BY PERSONS OTHER THAN THE ADDRESSEE IS STRICTLY PROHIBITED. IF YOU HAVE RECEIVED THIS TRANSMISSION IN ERROR, PLEASE NOTIFY US IMMEDIATELY AND MAIL THE ORIGINAL TO US AT THE ABOVE ADDRESS.\n\nDate: December 9, 1999  \nTo: Haney H. Bell, Esq.  \nFrom: David H. Remes  \n(202) 778-5212 – direct fax  \nRoom: 803E  \n11 Pages (including cover)\n\nMESSAGE:\n\nHandwritten notes at top right:  \nXc: RBS  \n12-9-99  \nFrom: DSM  \nRECEIVED  \nDEC - 9 1999  \nR. B. SPELL\n\nVertical number on right side:  \n82573104\n\nBottom (upside down):  \nCOVINGTON & BURLING  \n12/09/99 11:08 FAX  \n001",
+                "bbox": {
+                  "page": 1,
+                  "left": 0,
+                  "top": 0,
+                  "width": 1,
+                  "height": 1
+                },
+                "confidence": "medium",
+                "metadata": {
+                  "description": "COVINGTON & BURLING\n\n1201 Pennsylvania Avenue, N.W.  \nP.O. Box 7566  \nWashington, D.C. 20044-7566  \n(202) 662-6000  \nFax Numbers (202) 662-6291 or (202) 737-0528  \nFax Operator: (202) 662-6280\n\n[Boxed notice]  \nTHIS FACSIMILE TRANSMISSION IS INTENDED ONLY FOR THE ADDRESSEE SHOWN BELOW. IT MAY CONTAIN INFORMATION THAT IS PRIVILEGED, CONFIDENTIAL OR OTHERWISE PROTECTED FROM DISCLOSURE. ANY REVIEW, DISSEMINATION OR USE OF THIS TRANSMISSION OR ITS CONTENTS BY PERSONS OTHER THAN THE ADDRESSEE IS STRICTLY PROHIBITED. IF YOU HAVE RECEIVED THIS TRANSMISSION IN ERROR, PLEASE NOTIFY US IMMEDIATELY AND MAIL THE ORIGINAL TO US AT THE ABOVE ADDRESS.\n\nDate: December 9, 1999  \nTo: Haney H. Bell, Esq.  \nFrom: David H. Remes  \n(202) 778-5212 – direct fax  \nRoom: 803E  \n11 Pages (including cover)\n\nMESSAGE:\n\nHandwritten notes at top right:  \nXc: RBS  \n12-9-99  \nFrom: DSM  \nRECEIVED  \nDEC - 9 1999  \nR. B. SPELL\n\nVertical number on right side:  \n82573104\n\nBottom (upside down):  \nCOVINGTON & BURLING  \n12/09/99 11:08 FAX  \n001"
+                }
+              }
+            ],
+            "metadata": {
+              "pageRange": {
+                "start": 1,
+                "end": 1
+              },
+              "chunkIndex": 0
+            }
+          }
+        ]
+      },
+      "studio_link": "https://docld.com/documents/a9a90858-df28-4915-898c-3cb691672625"
+    },
+    "meta": {
+      "timestamp": "2026-03-08T08:05:40.362Z",
+      "requestId": "6a57b9f3-201a-4f8a-9eda-978121d591b1",
+      "method": "POST",
+      "url": "https://docld.com/api/parse",
+      "duration": 5487
+    }
+  },
+  "extracted_text": ""
+}
